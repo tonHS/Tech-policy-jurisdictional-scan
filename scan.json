@@ -79,79 +79,207 @@
       "CA": [
         [
           "pending",
-          "PIPEDA in force; replacement bill C-36 at second reading"
+          "PIPEDA in force; replacement bill C-36 at second reading",
+          [
+            [
+              "Bill C-36 (openparliament.ca)",
+              "https://openparliament.ca/bills/45-1/C-36/"
+            ]
+          ]
         ],
         [
           "none",
-          "No AI law; national strategy and transparency consultation"
+          "No AI law; national strategy and transparency consultation",
+          [
+            [
+              "ISED consultation",
+              "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-launches-public-consultation-on-ai-transparency.html"
+            ]
+          ]
         ],
         [
           "pending",
-          "C-34 Safe Social Media Act at second reading"
+          "C-34 Safe Social Media Act at second reading",
+          [
+            [
+              "Bill C-34 backgrounder",
+              "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html"
+            ]
+          ]
         ],
         [
           "soft",
-          "Competition Act; Bureau studying algorithmic pricing"
+          "Competition Act; Bureau studying algorithmic pricing",
+          [
+            [
+              "Competition Bureau report",
+              "https://www.canada.ca/en/competition-bureau/news/2026/01/competition-bureau-report-highlights-public-feedback-on-algorithmic-pricing-and-competition.html"
+            ]
+          ]
         ],
         [
           "law",
-          "Critical Cyber Systems Protection Act passed June 2026"
+          "Critical Cyber Systems Protection Act passed June 2026",
+          [
+            [
+              "Bill C-8 (openparliament.ca)",
+              "https://openparliament.ca/bills/45-1/C-8/"
+            ]
+          ]
         ],
         [
           "friction",
-          "CUSMA on annual review; streaming payments being scrapped"
+          "CUSMA on annual review; streaming payments being scrapped",
+          [
+            [
+              "CUSMA review (Blakes)",
+              "https://www.blakes.com/insights/u-s-declines-to-renew-cusma-at-first-joint-review-what-businesses-need-to-know/"
+            ],
+            [
+              "Streaming reset (CP24)",
+              "https://www.cp24.com/news/canada/2026/07/29/ottawa-to-eliminate-streamers-cancon-payments-provide-government-funding-instead/"
+            ]
+          ]
         ]
       ],
       "US": [
         [
           "patchwork",
-          "No federal law; about 20 state laws in force"
+          "No federal law; about 20 state laws in force",
+          [
+            [
+              "MultiState",
+              "https://www.multistate.us/insider/2026/2/4/all-of-the-comprehensive-privacy-laws-that-take-effect-in-2026"
+            ]
+          ]
         ],
         [
           "patchwork",
-          "State laws (CO, CA, TX); federal push to preempt them"
+          "State laws (CO, CA, TX); federal push to preempt them",
+          [
+            [
+              "White House framework (Jenner)",
+              "https://www.jenner.com/en/news-insights/client-alerts/takeaways-from-the-white-houses-framework-for-artificial-intelligence"
+            ],
+            [
+              "Colorado rewrite (Ballard Spahr)",
+              "https://www.consumerfinancemonitor.com/2026/05/12/colorado-rewrites-its-landmark-ai-law-unpacking-sb-26-189-and-what-it-means-for-businesses/"
+            ]
+          ]
         ],
         [
           "mixed",
-          "TAKE IT DOWN Act in force; KIDS Act passed House"
+          "TAKE IT DOWN Act in force; KIDS Act passed House",
+          [
+            [
+              "FTC",
+              "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-begins-enforcing-take-it-down-act"
+            ],
+            [
+              "KIDS Act (Tech Policy Press)",
+              "https://techpolicy.press/bipartisan-smorgasbord-of-childrens-online-safety-legislation-passes-the-house"
+            ]
+          ]
         ],
         [
           "law",
-          "Antitrust enforcement through the courts"
+          "Antitrust law enforced through courts; Google search remedies under appeal by both sides",
+          [
+            [
+              "Google appeal (PYMNTS/CPI)",
+              "https://www.pymnts.com/cpi-posts/us-justice-department-states-challenge-google-antitrust-remedies-in-appeal/"
+            ]
+          ]
         ],
         [
           "pending",
-          "CIRCIA reporting rule overdue"
+          "CIRCIA reporting rule overdue",
+          [
+            [
+              "Covington",
+              "https://www.cov.com/-/media/files/corporate/publications/2026/09/cisa-town-halls-signal-key-cyber-rule-changes-ahead.pdf"
+            ]
+          ]
         ],
         [
           "friction",
-          "Using tariffs against foreign tech rules and taxes"
+          "Using tariffs against foreign tech rules and taxes",
+          [
+            [
+              "UK DST threat (Morningstar)",
+              "https://www.morningstar.co.uk/uk/news/AN_1776990152554627800/trump-threatens-big-tariff-on-uk-over-digital-tax-on-us-tech-firms.aspx"
+            ],
+            [
+              "CUSMA review (Blakes)",
+              "https://www.blakes.com/insights/u-s-declines-to-renew-cusma-at-first-joint-review-what-businesses-need-to-know/"
+            ]
+          ]
         ]
       ],
       "UK": [
         [
           "law",
-          "UK GDPR amended by Data (Use and Access) Act, phasing in"
+          "UK GDPR amended by Data (Use and Access) Act, phasing in",
+          [
+            [
+              "Kennedys",
+              "https://www.kennedyslaw.com/en/thought-leadership/article/2026/the-data-use-and-access-act-2025-commencement-dates-and-planned-guidance-for-2026"
+            ]
+          ]
         ],
         [
           "none",
-          "No AI bill; sector regulators and sandboxes"
+          "No AI bill; sector regulators and sandboxes",
+          [
+            [
+              "King's Speech (DLA Piper)",
+              "https://privacymatters.dlapiper.com/2026/05/uk-the-kings-speech-2026-cybersecurity-at-the-forefront/"
+            ]
+          ]
         ],
         [
           "law",
-          "Online Safety Act enforced; under-16 ban coming 2027"
+          "Online Safety Act enforced; under-16 ban coming 2027",
+          [
+            [
+              "Ofcom",
+              "https://ofcom.org.uk/online-safety/illegal-and-harmful-content/ofcom-launches-investigation-into-x-over-grok-sexualised-imagery"
+            ],
+            [
+              "Under-16 ban (A&O Shearman)",
+              "https://www.aoshearman.com/en/insights/ao-shearman-on-data/uk-government-announces-social-media-ban-and-other-measures-to-protect-children-online"
+            ]
+          ]
         ],
         [
           "law",
-          "DMCC Act: CMA has imposed first conduct requirements"
+          "DMCC Act: CMA has imposed first conduct requirements",
+          [
+            [
+              "CMA case page",
+              "https://www.gov.uk/cma-cases/sms-investigation-into-googles-general-search-and-search-advertising-services"
+            ]
+          ]
         ],
         [
           "pending",
-          "Cyber Security and Resilience Bill in the Lords"
+          "Cyber Security and Resilience Bill in the Lords",
+          [
+            [
+              "UK Parliament",
+              "https://bills.parliament.uk/bills/4035"
+            ]
+          ]
         ],
         [
           "friction",
-          "2% DST under US tariff threat"
+          "2% DST under US tariff threat",
+          [
+            [
+              "Morningstar",
+              "https://www.morningstar.co.uk/uk/news/AN_1776990152554627800/trump-threatens-big-tariff-on-uk-over-digital-tax-on-us-tech-firms.aspx"
+            ]
+          ]
         ]
       ]
     }

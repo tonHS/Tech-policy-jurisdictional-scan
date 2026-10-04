@@ -9,6 +9,8 @@ When Kate asks to "update the scan" (or similar), follow the routine below.
 - `scan.json` — ALL content: `brief`, `compare` grid, `watch` list, `items`. Routine updates touch only this file.
 - `index.html` — design and rendering. Do not edit for routine updates.
 - `.nojekyll` — leave it.
+- `SOURCES.md` — record of monitored sources, sources cited in the current edition, and an update log.
+- `tools/sources.py` — rebuilds the "cited" section of `SOURCES.md` from `scan.json`.
 
 ## Update routine
 
@@ -21,6 +23,7 @@ When Kate asks to "update the scan" (or similar), follow the routine below.
 2. **Decide what belongs.** Top items only, across privacy, AI, online safety and kids, competition, cyber, digital trade and tax, internet and content law. Prefer primary sources; use firm or news summaries only when no primary source exists.
 3. **Edit `scan.json`:** add or update items, move resolved `watch` entries into items, retire items older than about 12 months unless still live, rewrite the `brief` (2–4 points, each with sources), update `compare` cells if a country's status changed, set `asOf` and `checked` dates.
 4. **Validate:** `python3 -m json.tool scan.json`; serve locally and confirm the page renders.
+   **Update the sources record:** run `python3 tools/sources.py`, then add a row to the update log in `SOURCES.md` (date, what was checked, items added / changed / removed). If you start checking a new source, add it to the monitored list there.
 5. **Show Kate a short summary** of what was added, changed and removed, and wait for her OK before committing and pushing to `main`.
 
 ## Item schema (`items[]`)
@@ -38,7 +41,7 @@ When Kate asks to "update the scan" (or similar), follow the routine below.
 | `expert` | specialist bullets: provisions, dates, citations |
 | `cite`, `sources`, `checked` | citation line, `[label, url]` pairs (primary first), last-verified date |
 
-`compare.rows[CA|US|UK]` holds one `[status, text]` per topic; status is `law`, `pending`, `patchwork`, `mixed`, `none`, `soft` or `friction`.
+`compare.rows[CA|US|UK]` holds one `[status, text, sources]` per topic (sources are `[label, url]` pairs; every cell needs at least one); status is `law`, `pending`, `patchwork`, `mixed`, `none`, `soft` or `friction`.
 
 ## Writing rules
 

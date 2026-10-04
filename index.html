@@ -78,6 +78,7 @@ table.cmp{border-collapse:collapse;width:100%;min-width:720px;font-size:13.5px}
 .st::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--s)}
 .st.law{--s:var(--s-law)} .st.pending{--s:var(--s-pending)} .st.none{--s:var(--s-none)} .st.soft{--s:var(--s-none)} .st.patchwork,.st.mixed{--s:var(--s-patch)} .st.friction{--s:var(--s-friction)}
 .cmp td div{color:var(--ink)}
+.cmp td .csrc{margin-top:4px;display:flex;flex-wrap:wrap;gap:2px 10px;font-size:12px}
 .cmp-key{margin-top:8px;display:flex;flex-wrap:wrap;gap:6px 16px;font-size:12.5px;color:var(--ink-2)}
 
 .controls{margin-top:26px;display:grid;gap:12px}
@@ -244,7 +245,7 @@ function start(data){
 
   var c = data.compare;
   el('cmp').innerHTML = '<thead><tr><th scope="col">Topic</th>'+['CA','US','UK'].map(function(j){return '<th scope="col"><span class="cc '+j+'">'+j+'</span> '+JUR[j]+'</th>';}).join('')+'</tr></thead><tbody>'
-    + c.topics.map(function(t,n){ return '<tr><th scope="row">'+esc(t)+'</th>'+['CA','US','UK'].map(function(j){ var cell=c.rows[j][n]; return '<td><span class="st '+cell[0]+'">'+ST[cell[0]]+'</span><div>'+esc(cell[1])+'</div></td>'; }).join('')+'</tr>'; }).join('') + '</tbody>';
+    + c.topics.map(function(t,n){ return '<tr><th scope="row">'+esc(t)+'</th>'+['CA','US','UK'].map(function(j){ var cell=c.rows[j][n]; return '<td><span class="st '+cell[0]+'">'+ST[cell[0]]+'</span><div>'+esc(cell[1])+'</div>'+(cell[2]&&cell[2].length?'<div class="csrc">'+links(cell[2])+'</div>':'')+'</td>'; }).join('')+'</tr>'; }).join('') + '</tbody>';
 
   function chips(container, map, set, count){
     var box = el(container); box.innerHTML='';
