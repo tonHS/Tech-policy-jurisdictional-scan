@@ -1,1 +1,9 @@
 Tech and internet policy scan of Canada, United States and United Kingdom regulatory developments. Includes new legislation and key 'softer law' like guidance, government announcements and similar. Only the top hits that are enough to know for a busy policy or compliance professional. Sources cited and linked. 
+
+Live site: https://tonhs.github.io/Tech-policy-jurisdictional-scan/
+
+- index.html  page design and rendering
+- scan.json   all scan content (brief, comparison grid, watch list, items)
+- CLAUDE.md   the update routine Claude follows when refreshing the scan
+
+AI-assisted; general information, not legal advice.

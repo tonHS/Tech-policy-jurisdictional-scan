@@ -1,0 +1,1036 @@
+{
+  "asOf": "2026-10-04",
+  "brief": [
+    {
+      "title": "Kids are being moved off social media.",
+      "text": "The UK will ban under-16s from social media from spring 2027. Canada's Bill C-34 proposes an under-16 restriction, and the US House passed a children's online safety package in June. Age checks are becoming a normal compliance cost.",
+      "sources": [
+        [
+          "UK announcement (A&O Shearman)",
+          "https://www.aoshearman.com/en/insights/ao-shearman-on-data/uk-government-announces-social-media-ban-and-other-measures-to-protect-children-online"
+        ],
+        [
+          "Canada Bill C-34",
+          "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html"
+        ],
+        [
+          "US KIDS Act",
+          "https://techpolicy.press/bipartisan-smorgasbord-of-childrens-online-safety-legislation-passes-the-house"
+        ]
+      ]
+    },
+    {
+      "title": "None of the three has a general AI law, and Washington wants to keep it that way.",
+      "text": "The White House is pushing one national standard that would override state AI laws. The UK left an AI bill out of the King's Speech. Canada is relying on privacy and online safety bills. Meanwhile Colorado rewrote its AI law to take effect in 2027.",
+      "sources": [
+        [
+          "White House AI framework (Jenner)",
+          "https://www.jenner.com/en/news-insights/client-alerts/takeaways-from-the-white-houses-framework-for-artificial-intelligence"
+        ],
+        [
+          "King's Speech 2026 (DLA Piper)",
+          "https://privacymatters.dlapiper.com/2026/05/uk-the-kings-speech-2026-cybersecurity-at-the-forefront/"
+        ]
+      ]
+    },
+    {
+      "title": "Tech rules are now trade issues.",
+      "text": "The US declined to renew CUSMA on July 1 and listed Canada's streaming and news laws among its concerns. Ottawa is scrapping streamers' Canadian-content payments. Washington has also threatened tariffs over the UK's digital services tax.",
+      "sources": [
+        [
+          "CUSMA review (Blakes)",
+          "https://www.blakes.com/insights/u-s-declines-to-renew-cusma-at-first-joint-review-what-businesses-need-to-know/"
+        ],
+        [
+          "Streaming reset (CP24)",
+          "https://www.cp24.com/news/canada/2026/07/29/ottawa-to-eliminate-streamers-cancon-payments-provide-government-funding-instead/"
+        ]
+      ]
+    },
+    {
+      "title": "Cyber incident reporting is arriving everywhere.",
+      "text": "Canada's critical cyber systems law passed in June. The UK's Cyber Security and Resilience Bill is near the end of its passage. The US rule requiring critical infrastructure to report cyber incidents within 72 hours is overdue but expected soon.",
+      "sources": [
+        [
+          "Canada C-8",
+          "https://openparliament.ca/bills/45-1/C-8/"
+        ],
+        [
+          "UK bill tracker",
+          "https://bills.parliament.uk/bills/4035"
+        ],
+        [
+          "US CIRCIA status (Covington)",
+          "https://www.cov.com/-/media/files/corporate/publications/2026/09/cisa-town-halls-signal-key-cyber-rule-changes-ahead.pdf"
+        ]
+      ]
+    }
+  ],
+  "compare": {
+    "topics": [
+      "Privacy & data",
+      "AI",
+      "Online safety & kids",
+      "Competition & digital markets",
+      "Cybersecurity",
+      "Digital trade & tax"
+    ],
+    "rows": {
+      "CA": [
+        [
+          "pending",
+          "PIPEDA in force; replacement bill C-36 at second reading"
+        ],
+        [
+          "none",
+          "No AI law; national strategy and transparency consultation"
+        ],
+        [
+          "pending",
+          "C-34 Safe Social Media Act at second reading"
+        ],
+        [
+          "soft",
+          "Competition Act; Bureau studying algorithmic pricing"
+        ],
+        [
+          "law",
+          "Critical Cyber Systems Protection Act passed June 2026"
+        ],
+        [
+          "friction",
+          "CUSMA on annual review; streaming payments being scrapped"
+        ]
+      ],
+      "US": [
+        [
+          "patchwork",
+          "No federal law; about 20 state laws in force"
+        ],
+        [
+          "patchwork",
+          "State laws (CO, CA, TX); federal push to preempt them"
+        ],
+        [
+          "mixed",
+          "TAKE IT DOWN Act in force; KIDS Act passed House"
+        ],
+        [
+          "law",
+          "Antitrust enforcement through the courts"
+        ],
+        [
+          "pending",
+          "CIRCIA reporting rule overdue"
+        ],
+        [
+          "friction",
+          "Using tariffs against foreign tech rules and taxes"
+        ]
+      ],
+      "UK": [
+        [
+          "law",
+          "UK GDPR amended by Data (Use and Access) Act, phasing in"
+        ],
+        [
+          "none",
+          "No AI bill; sector regulators and sandboxes"
+        ],
+        [
+          "law",
+          "Online Safety Act enforced; under-16 ban coming 2027"
+        ],
+        [
+          "law",
+          "DMCC Act: CMA has imposed first conduct requirements"
+        ],
+        [
+          "pending",
+          "Cyber Security and Resilience Bill in the Lords"
+        ],
+        [
+          "friction",
+          "2% DST under US tariff threat"
+        ]
+      ]
+    }
+  },
+  "watch": [
+    {
+      "when": "Fall 2026",
+      "what": "US CIRCIA final rule",
+      "why": "Sets 72-hour incident and 24-hour ransom-payment reporting for critical infrastructure."
+    },
+    {
+      "when": "Fall 2026",
+      "what": "UK Cyber Security and Resilience Bill: Royal Assent",
+      "why": "Brings managed service providers and key suppliers into the UK's cyber regime."
+    },
+    {
+      "when": "Oct 2026",
+      "what": "Ofcom age-assurance steps for the UK under-16 ban",
+      "why": "Will show how platforms are expected to check age at 16."
+    },
+    {
+      "when": "Fall 2026",
+      "what": "Canada Bill C-36 and C-34 at committee",
+      "why": "Committee hearings shape Canada's privacy and online safety rules."
+    },
+    {
+      "when": "No date set",
+      "what": "Canada's policy direction to the CRTC on streaming",
+      "why": "Replaces the scrapped streamer contribution rules."
+    },
+    {
+      "when": "Before Jan 2027",
+      "what": "Colorado AG rules under the rewritten AI law",
+      "why": "Will define what businesses must disclose about automated decisions."
+    },
+    {
+      "when": "Next year",
+      "what": "Senate action on US children's online safety",
+      "why": "The House-passed KIDS Act faces long odds; a separate Senate package is in talks."
+    }
+  ],
+  "items": [
+    {
+      "id": "uk-u16",
+      "date": "2026-06-15",
+      "type": "announcement",
+      "jur": "UK",
+      "topics": [
+        "safety"
+      ],
+      "priority": "prepare",
+      "title": "UK will ban under-16s from social media, starting spring 2027",
+      "what": "The UK government announced it will stop under-16s from holding accounts on social media platforms where users post content and algorithms drive feeds. Messaging services are excluded. Ofcom will enforce it.",
+      "why": "If your service lets people post and interact in the UK, check whether it falls in scope and plan for age checks at 16. Other measures were announced too, including a ban on romantic AI chatbots for under-18s.",
+      "track": {
+        "stages": [
+          "Announced",
+          "Exemptions set",
+          "Regulations made",
+          "In force"
+        ],
+        "at": 1
+      },
+      "expert": [
+        "Regulations to be made under powers added to the Online Safety Act 2023 by the Children's Wellbeing and Schools Act 2026.",
+        "Timeline as announced: details and exemptions in July 2026, regulations by December 2026, implementation spring 2027.",
+        "Also announced: romantic chatbot ban for under-18s, screen-time limits and curfews for 16–18s, restrictions on livestreaming and contact from strangers, and possible action on VPNs.",
+        "Ofcom has said age assurance at 16 should be feasible, but fewer methods exist than at 18."
+      ],
+      "cite": "UK government announcement, June 15, 2026.",
+      "sources": [
+        [
+          "A&O Shearman summary",
+          "https://www.aoshearman.com/en/insights/ao-shearman-on-data/uk-government-announces-social-media-ban-and-other-measures-to-protect-children-online"
+        ],
+        [
+          "WSGR summary",
+          "https://www.wsgrdataadvisor.com/2026/06/uk-announces-social-media-ban-and-broader-online-restrictions-for-users-under-16/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "uk-osa",
+      "date": "2026-01-12",
+      "dateText": "Jan–May 2026",
+      "type": "enforcement",
+      "jur": "UK",
+      "topics": [
+        "safety",
+        "ai"
+      ],
+      "priority": "act",
+      "title": "Ofcom is enforcing the Online Safety Act, including against AI features",
+      "what": "Ofcom has fined sites that failed to check users' ages, opened an investigation into X over its Grok chatbot creating sexualised images, and is investigating Telegram. It has also publicly pressed the largest platforms to do more on age checks and grooming.",
+      "why": "The Online Safety Act applies to services with UK users wherever they are based. Generative AI features on a platform are covered, so test what they can produce before launch.",
+      "expert": [
+        "X/Grok investigation opened January 12, 2026, covering illegal-content risk assessment, priority illegal content (intimate image abuse, CSAM), takedown and children's risk assessment. Maximum penalty: £18M or 10% of qualifying worldwide revenue.",
+        "Largest fines to date are in the £1M range, against pornography services for failing to use highly effective age assurance.",
+        "Ofcom has signalled business disruption applications (payment and advertising withdrawal) against non-compliant sites.",
+        "The Crime and Policing Act 2026 extends coverage of AI chatbots."
+      ],
+      "cite": "Online Safety Act 2023; Ofcom investigation into X (Jan. 12, 2026).",
+      "sources": [
+        [
+          "Ofcom: X/Grok investigation",
+          "https://ofcom.org.uk/online-safety/illegal-and-harmful-content/ofcom-launches-investigation-into-x-over-grok-sexualised-imagery"
+        ],
+        [
+          "Linklaters roundup",
+          "https://techinsights.linklaters.com/post/102n7pm/the-uks-online-safety-act-heats-up-fines-battlelines-and-even-more-regulatio"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "uk-cma",
+      "date": "2026-06-17",
+      "type": "enforcement",
+      "jur": "UK",
+      "topics": [
+        "competition",
+        "ai"
+      ],
+      "priority": "act",
+      "title": "UK competition regulator imposes first digital markets rules on Google search",
+      "what": "Under its new digital markets powers, the CMA has imposed rules on Google search covering fair ranking, data portability and publishers' control over how their content is used, including in AI Overviews. Rules on search choice screens are still being consulted on.",
+      "why": "Publishers and businesses that depend on Google search in the UK now have new rights and a complaints route. Apple and Google have also made commitments on app stores.",
+      "expert": [
+        "Google designated with strategic market status (general search and search advertising) on October 10, 2025; Apple and Google designated for mobile platforms the same month.",
+        "Publisher conduct requirement imposed June 3, 2026; fair ranking and data portability on June 17, 2026; further user-choice consultation opened September 23, 2026.",
+        "Publisher requirement covers opting out of use in AI Overviews and training of other generative AI models, plus attribution.",
+        "Apple and Google mobile commitments (app review fairness, developer data, iOS interoperability) began April 1, 2026; formal conduct requirements remain possible."
+      ],
+      "cite": "Digital Markets, Competition and Consumers Act 2024, Part 1.",
+      "sources": [
+        [
+          "CMA case page",
+          "https://www.gov.uk/cma-cases/sms-investigation-into-googles-general-search-and-search-advertising-services"
+        ],
+        [
+          "Kennedys analysis",
+          "https://www.kennedyslaw.com/en/thought-leadership/article/2026/the-uk-digital-markets-regime-in-action-the-cma-s-first-conduct-requirements-for-google-and-commitments-for-apple-and-google-mobile-platforms"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "uk-duaa",
+      "date": "2026-06-19",
+      "type": "legislation",
+      "jur": "UK",
+      "topics": [
+        "privacy"
+      ],
+      "priority": "act",
+      "title": "UK data law changes are phasing in; a complaints procedure was due in June",
+      "what": "The Data (Use and Access) Act 2025 amends UK GDPR and the cookie rules. Since June 2026, organisations must have a process for handling data protection complaints. Other changes are being switched on in stages.",
+      "why": "Check that you have a complaints procedure. Some changes make life easier, such as new lawful grounds for certain processing and fewer cookie consent requirements, but fines for marketing and cookie breaches go up to UK GDPR levels.",
+      "track": {
+        "stages": [
+          "Royal Assent",
+          "Phased commencement",
+          "Fully in force"
+        ],
+        "at": 1
+      },
+      "expert": [
+        "Royal Assent June 19, 2025. Commencement in stages: smart data and breach-notification changes (Aug. 2025), digital verification services framework (Dec. 2025), complaints-handling duty (June 2026).",
+        "Reforms include \"recognised legitimate interests\", relaxed rules on automated decision-making outside special category data, \"reasonable and proportionate\" searches for subject access requests, and a \"not materially lower\" test for international transfers.",
+        "The ICO is being replaced by an Information Commission. Check commencement regulations before relying on a provision."
+      ],
+      "cite": "Data (Use and Access) Act 2025, c. 18.",
+      "sources": [
+        [
+          "Kennedys commencement guide",
+          "https://www.kennedyslaw.com/en/thought-leadership/article/2026/the-data-use-and-access-act-2025-commencement-dates-and-planned-guidance-for-2026"
+        ],
+        [
+          "Mayer Brown on complaints",
+          "https://www.mayerbrown.com/zh-hans/insights/publications/2026/02/preparing-for-the-data-use-and-access-act-2025-upcoming-complaints-procedure-requirement"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "uk-csr",
+      "date": "2026-09-16",
+      "type": "legislation",
+      "jur": "UK",
+      "topics": [
+        "cyber"
+      ],
+      "priority": "prepare",
+      "title": "UK Cyber Security and Resilience Bill reaches final stages in the Lords",
+      "what": "This bill updates the UK's cyber rules for essential services. It brings managed IT service providers and key suppliers into scope and requires faster reporting of cyber incidents.",
+      "why": "If you provide IT services to UK essential services, such as health, energy, water or transport, you may soon be directly regulated. Expect new reporting duties and contract terms from customers.",
+      "track": {
+        "stages": [
+          "Commons",
+          "Lords 2nd rdg",
+          "Lords committee",
+          "Lords report",
+          "Lords 3rd rdg",
+          "Royal Assent"
+        ],
+        "at": 3
+      },
+      "expert": [
+        "Amends the Network and Information Systems Regulations 2018.",
+        "Extends scope to managed service providers and \"designated critical suppliers\"; tighter incident reporting (initial notice within 24 hours, full report within 72 hours).",
+        "Carried over into the 2026–27 session (King's Speech, May 13, 2026). Lords report stage September 16, 2026."
+      ],
+      "cite": "Cyber Security and Resilience (Network and Information Systems) Bill (DSIT).",
+      "sources": [
+        [
+          "UK Parliament bill page",
+          "https://bills.parliament.uk/bills/4035"
+        ],
+        [
+          "DLA Piper on King's Speech",
+          "https://privacymatters.dlapiper.com/2026/05/uk-the-kings-speech-2026-cybersecurity-at-the-forefront/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "uk-copyright",
+      "date": "2026-03-23",
+      "type": "announcement",
+      "jur": "UK",
+      "topics": [
+        "ai"
+      ],
+      "priority": "watch",
+      "title": "UK shelves plan to let AI firms train on copyrighted work by default",
+      "what": "The government dropped its proposal for a copyright exception allowing AI training unless rights holders opt out. It will gather more evidence and prefers licensing deals between companies.",
+      "why": "Training AI on UK copyrighted material without permission remains legally risky. More consultations are coming, including on deepfakes and labelling AI content.",
+      "expert": [
+        "No text and data mining exception for now; input and output transparency left for further work, with an interim report on output labelling promised for autumn.",
+        "Likely removal of copyright for computer-generated works deferred; consultation on deepfake harms and possible personality rights.",
+        "Treatment of models trained abroad left open pending litigation such as Getty Images v. Stability AI."
+      ],
+      "cite": "UK Government report on copyright and AI, March 23, 2026.",
+      "sources": [
+        [
+          "Mishcon de Reya summary",
+          "https://www.mishcon.com/news/copyright-and-ai-the-uk-governments-report"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "us-preempt",
+      "date": "2026-03-20",
+      "type": "announcement",
+      "jur": "US",
+      "topics": [
+        "ai"
+      ],
+      "priority": "watch",
+      "title": "White House pushes to override state AI laws with one national standard",
+      "what": "A December 2025 executive order set up a Justice Department task force to challenge state AI laws. In March 2026 the White House asked Congress for a national AI law that would override most state rules, while letting states keep child-safety and consumer-protection laws.",
+      "why": "For now, state AI laws still apply and must be followed. Congress has twice refused to block state AI laws, so do not plan around preemption until a federal law actually passes.",
+      "expert": [
+        "Executive Order 14365, Ensuring a National Policy Framework for Artificial Intelligence (Dec. 11, 2025): DOJ AI Litigation Task Force (set up Jan. 9, 2026), review of \"onerous\" state laws, and BEAD broadband funding conditions.",
+        "National AI framework (Mar. 20, 2026) also states that training on copyrighted works is lawful and warns against forcing ideological changes to AI outputs.",
+        "The Senate removed a state AI moratorium from the 2025 reconciliation bill (99–1), and preemption was left out of the FY2026 NDAA."
+      ],
+      "cite": "E.O. 14365 (Dec. 11, 2025); White House national AI legislative framework (Mar. 20, 2026).",
+      "sources": [
+        [
+          "Jenner & Block on the framework",
+          "https://www.jenner.com/en/news-insights/client-alerts/takeaways-from-the-white-houses-framework-for-artificial-intelligence"
+        ],
+        [
+          "Ropes & Gray on preemption limits",
+          "https://www.ropesgray.com/en/insights/alerts/2026/03/examining-the-landscape-and-limitations-of-the-federal-push-to-override-state-ai-regulation"
+        ],
+        [
+          "BakerHostetler on DOJ task force",
+          "https://www.bakerlaw.com/insights/navigating-the-emerging-federal-state-ai-showdown-doj-establishes-ai-litigation-task-force/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "us-colorado",
+      "date": "2026-05-12",
+      "type": "legislation",
+      "jur": "US",
+      "sub": "Colorado",
+      "topics": [
+        "ai",
+        "privacy"
+      ],
+      "priority": "prepare",
+      "title": "Colorado rewrites its AI law, which now takes effect January 2027",
+      "what": "Colorado replaced the first broad US state AI law with a narrower one aimed at automated decision-making in important areas like jobs, housing, credit and health care. Businesses must tell people when such tools are used, explain bad outcomes, and offer correction and human review.",
+      "why": "If you use automated tools to make decisions about Colorado residents, prepare notices and an appeal process. The heavier impact assessment and risk-program duties were dropped.",
+      "track": {
+        "stages": [
+          "Passed",
+          "Signed",
+          "AG rules",
+          "In force"
+        ],
+        "at": 2
+      },
+      "expert": [
+        "SB 26-189 repeals and replaces SB 24-205; passed May 2026 and signed by Governor Polis.",
+        "Focus on \"automated decision-making technology\" in consequential decisions: pre-use disclosure, post-adverse-decision explanation, correction rights, human review on request; three-year record retention.",
+        "Attorney General enforcement under the Colorado Consumer Protection Act; no private right of action; 60-day cure period until January 1, 2030; mandatory AG rulemaking by January 1, 2027."
+      ],
+      "cite": "Colorado SB 26-189.",
+      "sources": [
+        [
+          "Consumer Finance Monitor (Ballard Spahr)",
+          "https://www.consumerfinancemonitor.com/2026/05/12/colorado-rewrites-its-landmark-ai-law-unpacking-sb-26-189-and-what-it-means-for-businesses/"
+        ],
+        [
+          "Venable",
+          "https://www.venable.com/insights/publications/2026/07/colorados-sb26189-sets-new-rules-for-ai"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "us-state-ai",
+      "date": "2026-01-01",
+      "type": "legislation",
+      "jur": "US",
+      "sub": "States",
+      "topics": [
+        "ai",
+        "safety"
+      ],
+      "priority": "act",
+      "title": "State AI rules now in force: frontier model transparency and companion chatbots",
+      "what": "California requires developers of the largest AI models to publish safety frameworks and report serious incidents, and has rules for AI companion chatbots. Texas's AI law took effect in January, and many states passed chatbot safety laws in 2026.",
+      "why": "If you offer an AI chatbot to US users, especially one that could be used by minors, check state rules on disclosing that it is AI and on handling self-harm conversations.",
+      "expert": [
+        "California SB 53, Transparency in Frontier Artificial Intelligence Act (signed Sept. 29, 2025; effective Jan. 1, 2026): large frontier developers publish safety frameworks and report critical safety incidents; whistleblower protections.",
+        "California SB 243 (companion chatbots): AI disclosure, protocols for suicidal ideation, protections for minors; effective Jan. 1, 2026.",
+        "Texas Responsible AI Governance Act effective Jan. 1, 2026. New York RAISE Act on frontier models also enacted.",
+        "These are the likely first targets of federal preemption efforts."
+      ],
+      "cite": "Cal. SB 53 (2025); Cal. SB 243 (2025); Tex. HB 149 (TRAIGA).",
+      "sources": [
+        [
+          "Perkins Coie on California AI bills",
+          "https://legacy.perkinscoie.com/insights/update/california-governor-newsom-signs-several-ai-bills-vetoes-three"
+        ],
+        [
+          "Hunton: laws effective January 2026",
+          "https://www.hunton.com/privacy-and-information-security-law/new-u-s-state-privacy-social-media-and-ai-laws-take-effect-in-january-2026"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "us-takeitdown",
+      "date": "2026-05-19",
+      "type": "enforcement",
+      "jur": "US",
+      "topics": [
+        "safety",
+        "ai"
+      ],
+      "priority": "act",
+      "title": "TAKE IT DOWN Act: platforms must remove intimate images within 48 hours",
+      "what": "Since May 19, 2026, platforms must have a way for people to ask for removal of non-consensual intimate images, including AI deepfakes, and must remove them within 48 hours. The FTC is enforcing it and has opened a complaint portal.",
+      "why": "Any platform hosting user content for US users needs a working removal process now. The FTC has named 15 major platforms but the law is not limited to them.",
+      "expert": [
+        "Removal must cover the reported image and known identical copies within 48 hours of a valid request.",
+        "FTC complaint portal: TakeItDown.ftc.gov. Violations are treated as unfair or deceptive practices.",
+        "Criminal provisions on publishing non-consensual intimate imagery took effect on enactment (May 2025)."
+      ],
+      "cite": "TAKE IT DOWN Act, Pub. L. 119-12 (2025).",
+      "sources": [
+        [
+          "FTC press release",
+          "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-begins-enforcing-take-it-down-act"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "us-kids",
+      "date": "2026-06-29",
+      "type": "legislation",
+      "jur": "US",
+      "topics": [
+        "safety",
+        "privacy"
+      ],
+      "priority": "watch",
+      "title": "US House passes KIDS Act children's online safety package",
+      "what": "The House passed a package including its version of the Kids Online Safety Act, app-related child protections and age checks for pornography sites, by 267 to 117. It now goes to the Senate, where it faces long odds this year.",
+      "why": "Not law yet. If it passes, platforms used by minors would need safer default settings and policies to address harms. State children's laws would still apply.",
+      "track": {
+        "stages": [
+          "Committee",
+          "House passed",
+          "Senate",
+          "Signed"
+        ],
+        "at": 2
+      },
+      "expert": [
+        "H.R. 7757. House KOSA replaces the Senate's duty of care with a duty to maintain \"reasonable policies\" on listed harms.",
+        "Age verification only for sites with more than one-third material harmful to minors (SCREEN Act); KOSA and COPPA 2.0 components exclude age-gating mandates.",
+        "Revised text does not preempt more protective state laws. The White House is working with Sen. Blackburn on a separate Senate package."
+      ],
+      "cite": "Kids Internet and Digital Safety Act, H.R. 7757 (119th Cong.), passed House June 29, 2026.",
+      "sources": [
+        [
+          "Tech Policy Press",
+          "https://techpolicy.press/bipartisan-smorgasbord-of-childrens-online-safety-legislation-passes-the-house"
+        ],
+        [
+          "IAPP on scope",
+          "https://iapp.org/news/a/unpacking-the-scope-of-the-kids-act"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "us-coppa",
+      "date": "2026-04-22",
+      "type": "regulation",
+      "jur": "US",
+      "topics": [
+        "privacy",
+        "safety"
+      ],
+      "priority": "act",
+      "title": "Updated COPPA rule now fully in force",
+      "what": "The FTC's updated children's privacy rule took full effect on April 22, 2026. Services aimed at children under 13 need separate parental consent to share data with third parties for advertising, written security programs and data retention limits.",
+      "why": "If any part of your US service is directed at children, check your consent flows, vendor sharing and deletion schedules. The FTC has said children's privacy is an enforcement priority.",
+      "expert": [
+        "Separate verifiable parental consent for disclosures to third parties, including for targeted advertising.",
+        "Written information security program; written data retention policy with deletion when no longer needed.",
+        "Expanded definition of personal information to include biometric identifiers; additional transparency for safe harbor programs."
+      ],
+      "cite": "16 C.F.R. Part 312, as amended (2025); compliance date April 22, 2026.",
+      "sources": [
+        [
+          "Davis Polk",
+          "https://www.davispolk.com/insights/client-update/ftc-prioritizes-coppa-enforcement-new-compliance-obligations-take-effect"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "us-stateprivacy",
+      "date": "2026-01-01",
+      "type": "legislation",
+      "jur": "US",
+      "sub": "States",
+      "topics": [
+        "privacy"
+      ],
+      "priority": "act",
+      "title": "Three more US state privacy laws took effect, bringing the total to about 20",
+      "what": "Indiana, Kentucky and Rhode Island privacy laws took effect on January 1, 2026. Oregon now bans selling data of under-16s, and California tightened its data broker rules.",
+      "why": "There is still no federal privacy law. If you serve US consumers, you need a single program that meets the strictest state rules that apply to you.",
+      "expert": [
+        "Indiana and Kentucky largely follow the Virginia model; Rhode Island has a low threshold (35,000 consumers).",
+        "Oregon: no sale of personal data with actual knowledge the consumer is under 16; restrictions on precise geolocation sales.",
+        "California: data brokers must disclose sales to foreign actors, governments or AI developers; 45-day deletion processing."
+      ],
+      "cite": "Ind. SB 5; Ky. HB 15; R.I. HB 7787/SB 2500.",
+      "sources": [
+        [
+          "MultiState",
+          "https://www.multistate.us/insider/2026/2/4/all-of-the-comprehensive-privacy-laws-that-take-effect-in-2026"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "us-circia",
+      "date": "2026-09-04",
+      "type": "regulation",
+      "jur": "US",
+      "topics": [
+        "cyber"
+      ],
+      "priority": "prepare",
+      "title": "US critical infrastructure cyber reporting rule is overdue but close",
+      "what": "CISA is finalizing a rule requiring critical infrastructure organizations to report significant cyber incidents within 72 hours and ransom payments within 24 hours. It missed its October 2025 deadline and a September 2026 target.",
+      "why": "If you operate in a US critical infrastructure sector, map out who would report and how, now. The 72-hour window will be hard to meet without a plan.",
+      "expert": [
+        "Cyber Incident Reporting for Critical Infrastructure Act of 2022 (CIRCIA); NPRM April 2024 with sector- and size-based coverage criteria.",
+        "CISA has signalled possible clarifications to the covered-entity and incident definitions and narrower report content, but no firm commitment to harmonize with SEC and other regimes.",
+        "Further delay possible for White House (OIRA) review or a reopened comment period."
+      ],
+      "cite": "6 U.S.C. § 681 et seq. (CIRCIA).",
+      "sources": [
+        [
+          "Covington (Sept. 2026)",
+          "https://www.cov.com/-/media/files/corporate/publications/2026/09/cisa-town-halls-signal-key-cyber-rule-changes-ahead.pdf"
+        ],
+        [
+          "Hunton",
+          "https://www.hunton.com/privacy-and-cybersecurity-law-blog/cisa-plans-to-finalize-cyber-incident-reporting-regulations-in-september-2026"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "cusma",
+      "date": "2026-07-01",
+      "type": "trade",
+      "jur": "CA",
+      "also": [
+        "US"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "priority": "watch",
+      "title": "US declines to renew CUSMA; digital rules are part of the dispute",
+      "what": "At the first joint review on July 1, the US chose not to extend the Canada–US–Mexico trade agreement. It stays in force until 2036 but now goes through yearly reviews. US officials have pointed to Canada's streaming law, news law and cloud procurement as irritants.",
+      "why": "Canadian tech and media rules are now bargaining chips. Expect pressure to soften rules that mainly affect US tech companies.",
+      "expert": [
+        "Under Article 34.7, non-confirmation triggers annual joint reviews; the agreement can be extended at any review.",
+        "US Trade Representative flagged the Online Streaming Act, Online News Act, the former digital services tax and Canada's sovereign cloud initiative.",
+        "Canada rescinded its digital services tax in June 2025 under US pressure."
+      ],
+      "cite": "CUSMA/USMCA Art. 34.7 joint review (July 1, 2026).",
+      "sources": [
+        [
+          "Blakes",
+          "https://www.blakes.com/insights/u-s-declines-to-renew-cusma-at-first-joint-review-what-businesses-need-to-know/"
+        ],
+        [
+          "MPA on US concerns",
+          "https://www.mpamag.com/ca/news/general/cusma-deadline-now-in-doubt-as-july-1-looms/571211"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "ca-streaming",
+      "date": "2026-07-29",
+      "type": "announcement",
+      "jur": "CA",
+      "topics": [
+        "internet",
+        "trade"
+      ],
+      "priority": "watch",
+      "title": "Canada to scrap streamers' Canadian-content payments",
+      "what": "After the CRTC raised streaming services' required contributions to Canadian content to 15% of Canadian revenue in May, Ottawa told it to reconsider. A July court filing showed the government now plans to eliminate the base contribution entirely and fund Canadian content directly instead.",
+      "why": "Foreign streamers' obligations in Canada are being reset, likely to a lighter regime. Nothing is final until the government issues a new direction to the CRTC.",
+      "expert": [
+        "CRTC decision May 21, 2026 raised base contributions from 5% to 15%; Minister directed reconsideration June 3, 2026, citing consumer costs.",
+        "Department of Justice letter (July 17, 2026) states intent to eliminate the base contribution and replace it with government funding (about $600M a year).",
+        "Implementation through a new policy direction under the Broadcasting Act, which requires publication and a comment period. Online News Act unchanged so far."
+      ],
+      "cite": "Online Streaming Act, S.C. 2023, c. 8.",
+      "sources": [
+        [
+          "CP24 / Canadian Press",
+          "https://www.cp24.com/news/canada/2026/07/29/ottawa-to-eliminate-streamers-cancon-payments-provide-government-funding-instead/"
+        ],
+        [
+          "Michael Geist",
+          "https://www.michaelgeist.ca/2026/07/starting-over-court-filing-confirms-the-crtcs-streamer-contribution-decisions-are-dead-with-a-full-online-streaming-act-reset-to-come/"
+        ],
+        [
+          "CRS report",
+          "https://www.everycrsreport.com/files/2026-07-23_IN12716_1b3d55784138785dd6e8f61dd7b211036ab7d33a.html"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "ca-c36",
+      "date": "2026-06-15",
+      "type": "legislation",
+      "jur": "CA",
+      "topics": [
+        "privacy",
+        "ai"
+      ],
+      "priority": "prepare",
+      "title": "Canada's Bill C-36 would replace PIPEDA with a tougher privacy law",
+      "what": "The Protecting Privacy and Consumer Data Act would replace the privacy part of PIPEDA. It is at second reading in the House of Commons.",
+      "why": "If it passes, penalties could reach $10 million or 3% of worldwide revenue, and people could sue after a regulator finding. Start mapping personal data, especially data sent outside Canada.",
+      "track": {
+        "stages": [
+          "Introduced",
+          "2nd reading",
+          "Committee",
+          "3rd reading",
+          "Senate",
+          "Royal Assent"
+        ],
+        "at": 1
+      },
+      "expert": [
+        "New federal commission with direct penalty powers; Federal Court review.",
+        "Inferences count as personal information; new \"sensitive information\" category including children's data and biometrics.",
+        "Privacy impact assessment required before transferring personal information outside Canada; right to explanation of significant automated decisions.",
+        "AI regulation (former AIDA) not revived."
+      ],
+      "cite": "Bill C-36, 45th Parl., 1st Sess. First reading June 15, 2026.",
+      "sources": [
+        [
+          "openparliament.ca",
+          "https://openparliament.ca/bills/45-1/C-36/"
+        ],
+        [
+          "Canadian Privacy Scan (detail)",
+          "https://tonhs.github.io/Privacy-and-AI-Reg-Scan/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "ca-c34",
+      "date": "2026-06-10",
+      "type": "legislation",
+      "jur": "CA",
+      "topics": [
+        "safety",
+        "ai"
+      ],
+      "priority": "watch",
+      "title": "Canada's Bill C-34 would restrict under-16 accounts and regulate AI chatbots",
+      "what": "The Safe Social Media Act would impose safety duties on social media and AI chatbot services, including an under-16 account restriction, AI content labelling and digital safety plans. A new Digital Safety Commission would enforce it.",
+      "why": "Compared with the UK, Canada's under-16 rule is less absolute, since the regulator can exempt services with enough safeguards. Platforms serving both countries should plan for both.",
+      "track": {
+        "stages": [
+          "Introduced",
+          "2nd reading",
+          "Committee",
+          "3rd reading",
+          "Senate",
+          "Royal Assent"
+        ],
+        "at": 1
+      },
+      "expert": [
+        "Part 1 enacts the Digital Safety Act; Part 2 creates the Digital Safety Commission of Canada with audit, order and penalty powers.",
+        "Covers social media and chatbot services; duties include removing CSAM and non-consensual intimate content, and synthetic content labelling.",
+        "Accredited researcher access to platform data through a regulator-supervised process."
+      ],
+      "cite": "Bill C-34, 45th Parl., 1st Sess. Introduced June 10, 2026.",
+      "sources": [
+        [
+          "Government backgrounder",
+          "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html"
+        ],
+        [
+          "openparliament.ca",
+          "https://openparliament.ca/bills/45-1/C-34/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "ca-c22",
+      "date": "2026-06-18",
+      "type": "legislation",
+      "jur": "CA",
+      "topics": [
+        "internet",
+        "privacy"
+      ],
+      "priority": "watch",
+      "title": "Canada's lawful access bill C-22 is in the Senate",
+      "what": "The bill would make it easier for police and intelligence to get subscriber information from online service providers and would require providers to be able to help with authorized access. It has passed the House.",
+      "why": "Internet, messaging and hosting providers could face new obligations, including keeping metadata. The Privacy Commissioner wants it narrowed and encryption protected.",
+      "track": {
+        "stages": [
+          "Introduced",
+          "2nd reading",
+          "Committee",
+          "3rd reading",
+          "Senate",
+          "Royal Assent"
+        ],
+        "at": 4
+      },
+      "expert": [
+        "Part 1: Criminal Code changes including expedited subscriber-information confirmation. Part 2: Supporting Authorized Access to Information Act (provider capability obligations).",
+        "OPC asked for a closed list of subscriber identifiers, a necessity and proportionality test, and clear protection against systemic vulnerabilities in encryption."
+      ],
+      "cite": "Bill C-22, Lawful Access Act, 2026.",
+      "sources": [
+        [
+          "OPC submission",
+          "https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_260526/"
+        ],
+        [
+          "openparliament.ca",
+          "https://openparliament.ca/bills/45-1/C-22/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "ca-c8",
+      "date": "2026-06-15",
+      "type": "legislation",
+      "jur": "CA",
+      "topics": [
+        "cyber"
+      ],
+      "priority": "prepare",
+      "title": "Canada's critical infrastructure cyber law receives Royal Assent",
+      "what": "Operators of designated federally regulated critical systems, in sectors like telecom, banking, energy and transport, must run cybersecurity programs and report cyber incidents. The government also gained powers over telecom security.",
+      "why": "Details depend on regulations still to come. Vendors to these operators should expect new contract terms.",
+      "track": {
+        "stages": [
+          "Introduced",
+          "2nd reading",
+          "Committee",
+          "3rd reading",
+          "Senate",
+          "Royal Assent"
+        ],
+        "at": 5
+      },
+      "expert": [
+        "Enacts the Critical Cyber Systems Protection Act and amends the Telecommunications Act; S.C. 2026, c. 9.",
+        "Watch for coming-into-force orders and regulations setting reporting windows and designated operators."
+      ],
+      "cite": "S.C. 2026, c. 9 (former Bill C-8).",
+      "sources": [
+        [
+          "openparliament.ca",
+          "https://openparliament.ca/bills/45-1/C-8/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "ca-openai",
+      "date": "2026-05-06",
+      "type": "enforcement",
+      "jur": "CA",
+      "topics": [
+        "privacy",
+        "ai"
+      ],
+      "priority": "act",
+      "title": "Canadian privacy regulators find OpenAI broke privacy law in building ChatGPT",
+      "what": "Four Canadian privacy commissioners found OpenAI collected too much personal information to train ChatGPT, without adequate consent, and did not let people correct or delete it. OpenAI agreed to limit personal information used in future training.",
+      "why": "Canada has no AI law, but privacy law is already being applied to AI. Know what personal data is in the AI tools you build or buy.",
+      "expert": [
+        "Joint investigation by the OPC and the Quebec, BC and Alberta commissioners; well-founded and conditionally resolved.",
+        "Issues: over-broad training data collection including sensitive information, consent, accuracy, access and deletion, accountability."
+      ],
+      "cite": "Joint investigation of OpenAI OpCo, LLC (May 6, 2026).",
+      "sources": [
+        [
+          "OPC statement",
+          "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/s-d_260506/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "ca-ai",
+      "date": "2026-07-23",
+      "type": "consultation",
+      "jur": "CA",
+      "topics": [
+        "ai"
+      ],
+      "priority": "context",
+      "title": "Canada's AI approach: a national strategy and a transparency consultation, but no AI law",
+      "what": "Canada launched its \"AI for All\" strategy in June and consulted until September 23 on labelling AI content, telling people when they deal with AI, and tracking AI incidents.",
+      "why": "Expect any AI transparency rules to come through targeted measures rather than a broad AI act, which is closer to the UK's approach than to Colorado's or California's.",
+      "expert": [
+        "Strategy (June 4, 2026) commits to enshrining a right to privacy, child data protections, a deepfakes bill and a Canada Trusted AI Certification.",
+        "ISED consultation (July 23–Sept. 23, 2026) covered AI content detection, AI interaction notices, serious incident tracking and AI agent monitoring."
+      ],
+      "cite": "ISED, AI transparency consultation (2026); National AI Strategy (June 4, 2026).",
+      "sources": [
+        [
+          "ISED consultation",
+          "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-launches-public-consultation-on-ai-transparency.html"
+        ],
+        [
+          "Gowling WLG on strategy",
+          "https://gowlingwlg.com/en/insights-resources/articles/2026/canada-launches-ai-for-all-national-artificial-intelligence-strategy"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "uk-dst",
+      "date": "2026-04-24",
+      "type": "trade",
+      "jur": "UK",
+      "also": [
+        "US"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "priority": "watch",
+      "title": "US threatens tariffs over the UK's digital services tax",
+      "what": "President Trump threatened tariffs on the UK unless it drops its 2% digital services tax on large tech companies. The UK kept the tax in its 2025 trade deal with the US.",
+      "why": "Canada dropped its digital services tax under similar pressure in 2025. Watch whether the UK holds firm.",
+      "expert": [
+        "UK DST: 2% of revenues from UK users for groups with over £500M global digital revenue and over £25M from UK users.",
+        "The US–UK Technology Prosperity Deal (Sept. 2025) covered AI, quantum and nuclear cooperation but did not resolve the DST or set digital trade rules."
+      ],
+      "cite": "Finance Act 2020, Part 2 (UK DST).",
+      "sources": [
+        [
+          "Morningstar / Reuters",
+          "https://www.morningstar.co.uk/uk/news/AN_1776990152554627800/trump-threatens-big-tariff-on-uk-over-digital-tax-on-us-tech-firms.aspx"
+        ],
+        [
+          "CSIS on the Tech Prosperity Deal",
+          "https://www.csis.org/analysis/us-uk-trade-and-tech-agreements-update-after-state-visit"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "uk-kings",
+      "date": "2026-05-13",
+      "type": "announcement",
+      "jur": "UK",
+      "topics": [
+        "ai",
+        "internet"
+      ],
+      "priority": "context",
+      "title": "UK King's Speech: digital ID, police facial recognition rules and AI sandboxes, but no AI bill",
+      "what": "The government's legislative program includes a voluntary digital ID framework, legal rules for police use of facial recognition, and powers for regulators to run sandboxes for new technology, including AI.",
+      "why": "The UK is regulating AI through existing regulators and sector rules rather than one AI law, a similar path to Canada's.",
+      "expert": [
+        "Digital Access to Services Bill (digital identity; initial use for right-to-work checks).",
+        "Police Reform Bill (facial recognition and similar technologies).",
+        "Regulating for Growth Bill (cross-sector sandbox powers)."
+      ],
+      "cite": "King's Speech, May 13, 2026.",
+      "sources": [
+        [
+          "DLA Piper",
+          "https://privacymatters.dlapiper.com/2026/05/uk-the-kings-speech-2026-cybersecurity-at-the-forefront/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "ca-algo",
+      "date": "2026-01-22",
+      "type": "guidance",
+      "jur": "CA",
+      "topics": [
+        "competition",
+        "ai"
+      ],
+      "priority": "context",
+      "title": "Competition Bureau reports on algorithmic pricing",
+      "what": "Canada's Competition Bureau published what it heard from more than 100 submissions on algorithmic and AI-driven pricing. It says such pricing can help efficiency but raises fairness, transparency and collusion risks.",
+      "why": "There is no new rule yet, but if you use pricing software that draws on competitors' data, review it with competition law in mind.",
+      "expert": [
+        "Consultation ran June 10 – Aug. 4, 2025. No formal guidance issued; the Bureau will keep engaging domestically and internationally."
+      ],
+      "cite": "Competition Bureau, What We Heard: Algorithmic Pricing and Competition (Jan. 22, 2026).",
+      "sources": [
+        [
+          "Competition Bureau",
+          "https://www.canada.ca/en/competition-bureau/news/2026/01/competition-bureau-report-highlights-public-feedback-on-algorithmic-pricing-and-competition.html"
+        ]
+      ],
+      "checked": "2026-10-04"
+    }
+  ]
+}

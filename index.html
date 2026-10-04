@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Top tech and internet policy developments in Canada, the United States and the United Kingdom, explained for busy policy and compliance professionals.">
+<title>Tech Policy Jurisdictional Scan</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: sibling of the Canadian Privacy Scan. Masthead + monthly brief, a three-country comparison grid, then filters and a dated feed; watch list beside the feed on wide screens. */
+:root{
+  --paper:#f4f6f6; --sheet:#ffffff; --ink:#17212a; --ink-2:#4a5761; --rule:#d8dfe0;
+  --accent:#1b6359; --accent-soft:#e0efec;
+  --act:#b3261e; --act-soft:#fbe9e7; --prep:#a2580d; --prep-soft:#fbefdf;
+  --watch:#285a9b; --watch-soft:#e4ecf7; --ctx:#5e6878; --ctx-soft:#eceff3;
+  --ca:#a3302a; --us:#2d4f8e; --uk:#5b3f86;
+  --s-law:#1b6359; --s-pending:#a2580d; --s-none:#6b7480; --s-patch:#285a9b; --s-friction:#b3261e;
+  --f-display:"Newsreader", Georgia, "Times New Roman", serif;
+  --f-body:"Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#101618; --sheet:#172024; --ink:#e5ebec; --ink-2:#a5b2b6; --rule:#2b373b;
+  --accent:#7fcabd; --accent-soft:#1b302d;
+  --act:#f0857b; --act-soft:#3a1f1d; --prep:#e8a75c; --prep-soft:#36281a;
+  --watch:#93b6ea; --watch-soft:#1f2b3e; --ctx:#a3adbb; --ctx-soft:#232c38;
+  --ca:#ec8b84; --us:#93b6ea; --uk:#c2a8ec;
+  --s-law:#7fcabd; --s-pending:#e8a75c; --s-none:#9aa4ae; --s-patch:#93b6ea; --s-friction:#f0857b; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#101618; --sheet:#172024; --ink:#e5ebec; --ink-2:#a5b2b6; --rule:#2b373b;
+  --accent:#7fcabd; --accent-soft:#1b302d;
+  --act:#f0857b; --act-soft:#3a1f1d; --prep:#e8a75c; --prep-soft:#36281a;
+  --watch:#93b6ea; --watch-soft:#1f2b3e; --ctx:#a3adbb; --ctx-soft:#232c38;
+  --ca:#ec8b84; --us:#93b6ea; --uk:#c2a8ec;
+  --s-law:#7fcabd; --s-pending:#e8a75c; --s-none:#9aa4ae; --s-patch:#93b6ea; --s-friction:#f0857b; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55}
+.wrap{max-width:1180px;margin:0 auto;padding-inline:20px;padding-block:28px 56px}
+a{color:var(--accent);text-underline-offset:2px}
+a:focus-visible,button:focus-visible,select:focus-visible,input:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+h1,h2,h3{font-family:var(--f-display);font-weight:600;text-wrap:balance;margin:0;letter-spacing:-.005em}
+.mono{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+.eyebrow{font-size:11.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--ink-2);font-weight:600}
+
+.mast{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px;border-bottom:3px double var(--rule);padding-bottom:16px}
+.mast .eyebrow{margin-bottom:12px}
+.mast h1{font-size:clamp(30px,5vw,44px);line-height:1.05}
+.mast p{margin:6px 0 0;color:var(--ink-2);max-width:62ch}
+.stamp{text-align:right;font-size:13px;color:var(--ink-2)}
+.stamp b{display:block;color:var(--ink);font-family:var(--f-mono);font-weight:500;font-size:14px}
+
+.cc{display:inline-block;font-family:var(--f-mono);font-weight:500;font-size:12px;letter-spacing:.04em;padding:1px 6px;border-radius:4px;border:1px solid currentColor;line-height:1.4}
+.cc.CA{color:var(--ca)} .cc.US{color:var(--us)} .cc.UK{color:var(--uk)}
+
+.brief{margin-top:22px;background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:18px 20px}
+.brief h2{font-size:21px;margin-top:4px}
+.brief ol{margin:12px 0 0;padding:0;list-style:none;display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px 22px;counter-reset:b}
+.brief li{counter-increment:b;display:grid;grid-template-columns:auto 1fr;gap:10px;min-width:0}
+.brief li::before{content:counter(b);font-family:var(--f-display);font-size:26px;line-height:1;color:var(--accent)}
+.brief li b{display:block;font-weight:600}
+.brief li span{color:var(--ink-2);font-size:14px}
+.brief li .bsrc{display:flex;flex-wrap:wrap;gap:2px 12px;margin-top:6px;font-size:12.5px}
+
+/* comparison grid */
+.compare{margin-top:22px}
+.compare h2{font-size:21px;margin:4px 0 10px}
+.cmp-scroll{overflow-x:auto;border:1px solid var(--rule);border-radius:10px;background:var(--sheet)}
+table.cmp{border-collapse:collapse;width:100%;min-width:720px;font-size:13.5px}
+.cmp th,.cmp td{padding:10px 12px;text-align:left;vertical-align:top;border-bottom:1px solid var(--rule)}
+.cmp tr:last-child td,.cmp tr:last-child th{border-bottom:0}
+.cmp thead th{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);font-weight:600;background:var(--paper)}
+.cmp tbody th{font-weight:600;width:200px}
+.st{display:inline-flex;align-items:center;gap:6px;font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--s);margin-bottom:2px}
+.st::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--s)}
+.st.law{--s:var(--s-law)} .st.pending{--s:var(--s-pending)} .st.none{--s:var(--s-none)} .st.soft{--s:var(--s-none)} .st.patchwork,.st.mixed{--s:var(--s-patch)} .st.friction{--s:var(--s-friction)}
+.cmp td div{color:var(--ink)}
+.cmp-key{margin-top:8px;display:flex;flex-wrap:wrap;gap:6px 16px;font-size:12.5px;color:var(--ink-2)}
+
+.controls{margin-top:26px;display:grid;gap:12px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.row .lbl{width:92px;flex:none;font-size:12px;color:var(--ink-2);font-weight:600;text-transform:uppercase;letter-spacing:.07em}
+.chip{font:inherit;font-size:13.5px;border:1px solid var(--rule);background:var(--sheet);color:var(--ink);padding:5px 11px;border-radius:999px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.chip .n{font-family:var(--f-mono);font-size:12px;opacity:.7;margin-left:4px}
+input[type=search]{font:inherit;font-size:14px;padding:6px 10px;border:1px solid var(--rule);border-radius:8px;background:var(--sheet);color:var(--ink);flex:1 1 220px;min-width:0}
+.seg{display:inline-flex;border:1px solid var(--rule);border-radius:8px;overflow:hidden}
+.seg button{font:inherit;font-size:13.5px;border:0;background:var(--sheet);color:var(--ink);padding:6px 12px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--sheet)}
+
+.grid{margin-top:22px;display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:28px;align-items:start}
+@media (max-width:900px){.grid{grid-template-columns:minmax(0,1fr)}}
+.count{font-size:13px;color:var(--ink-2);margin-bottom:10px}
+.feed{display:grid;gap:14px}
+
+.item{background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:16px 18px 14px;border-left:5px solid var(--c);min-width:0}
+.item[data-p="act"]{--c:var(--act);--cs:var(--act-soft)}
+.item[data-p="prepare"]{--c:var(--prep);--cs:var(--prep-soft)}
+.item[data-p="watch"]{--c:var(--watch);--cs:var(--watch-soft)}
+.item[data-p="context"]{--c:var(--ctx);--cs:var(--ctx-soft)}
+.meta{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font-size:12.5px;color:var(--ink-2)}
+.pri{background:var(--cs);color:var(--c);font-weight:700;font-size:11.5px;letter-spacing:.07em;text-transform:uppercase;padding:2px 8px;border-radius:4px}
+.tag{border:1px solid var(--rule);padding:1px 7px;border-radius:4px}
+.sub{color:var(--ink);font-weight:500}
+.item h3{font-size:20px;line-height:1.25;margin-top:8px}
+.item .what{margin:8px 0 0;max-width:72ch}
+.why{margin:10px 0 0;padding:10px 12px;background:var(--paper);border-radius:8px;font-size:14.5px;max-width:72ch}
+.why b{font-weight:600}
+.topics{margin-top:10px;display:flex;flex-wrap:wrap;gap:6px;font-size:12.5px}
+.topics span{background:var(--accent-soft);color:var(--accent);padding:1px 8px;border-radius:999px}
+
+.track{margin-top:12px;display:grid;gap:3px;max-width:540px}
+.track div{font-size:10.5px;color:var(--ink-2);text-align:center;line-height:1.2}
+.track div::before{content:"";display:block;height:6px;border-radius:3px;background:var(--rule);margin-bottom:4px}
+.track .done::before{background:var(--c)}
+.track .now{color:var(--ink);font-weight:700}
+.track .now::before{background:var(--c);box-shadow:0 0 0 2px var(--cs)}
+
+details.expert{margin-top:12px;border-top:1px dashed var(--rule);padding-top:8px}
+details.expert summary{cursor:pointer;font-size:13.5px;font-weight:600;color:var(--accent);list-style:none}
+details.expert summary::-webkit-details-marker{display:none}
+details.expert summary::before{content:"+ ";font-family:var(--f-mono)}
+details.expert[open] summary::before{content:"− "}
+.expert ul{margin:8px 0 0;padding-left:18px;max-width:74ch;font-size:14px}
+.expert li{margin:3px 0}
+.cite{margin-top:8px;font-size:13px;color:var(--ink-2)}
+.src{margin-top:10px;display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13px}
+.checked{font-size:12px;color:var(--ink-2);margin-left:auto}
+.empty{padding:28px;text-align:center;color:var(--ink-2);background:var(--sheet);border:1px dashed var(--rule);border-radius:10px}
+
+aside{display:grid;gap:18px;position:sticky;top:calc(env(safe-area-inset-top,0px) + 12px)}
+@media (max-width:900px){aside{position:static}}
+.panel{background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:14px 16px}
+.panel h2{font-size:18px;margin-bottom:8px}
+.watch{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.watch li{display:grid;gap:2px;font-size:13.5px;padding-bottom:10px;border-bottom:1px solid var(--rule)}
+.watch li:last-child{border-bottom:0;padding-bottom:0}
+.watch .when{font-family:var(--f-mono);font-size:12px;color:var(--prep)}
+.watch .note{color:var(--ink-2)}
+.legend{display:grid;gap:8px;font-size:13px}
+.legend div{display:grid;grid-template-columns:auto 1fr;gap:8px;align-items:start}
+.legend .pri{white-space:nowrap}
+footer{margin-top:40px;border-top:1px solid var(--rule);padding-top:16px;font-size:13px;color:var(--ink-2);display:grid;gap:8px;max-width:80ch}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="mast">
+    <div>
+      <div class="eyebrow">Tech &amp; internet policy · <span class="cc CA">CA</span> <span class="cc US">US</span> <span class="cc UK">UK</span></div>
+      <h1>Tech Policy Jurisdictional Scan</h1>
+      <p>The top tech and internet policy developments in Canada, the United States and the United Kingdom: new laws, regulator action, guidance and government announcements. Only what a busy policy or compliance professional needs to know.</p>
+    </div>
+    <div class="stamp">Current to<b id="asof"></b><span id="itemcount"></span></div>
+  </header>
+
+  <section class="brief" aria-labelledby="brief-h">
+    <div class="eyebrow">If you read nothing else</div>
+    <h2 id="brief-h">Things to know this month</h2>
+    <ol id="brief"></ol>
+  </section>
+
+  <section class="compare" aria-labelledby="cmp-h">
+    <div class="eyebrow">Side by side</div>
+    <h2 id="cmp-h">Where each country stands</h2>
+    <div class="cmp-scroll"><table class="cmp" id="cmp"></table></div>
+    <div class="cmp-key"><span class="st law">In force</span><span class="st pending">Bill or rule pending</span><span class="st patchwork">Patchwork or mixed</span><span class="st none">No dedicated law</span><span class="st friction">Trade friction</span></div>
+  </section>
+
+  <section class="controls" aria-label="Filter the scan">
+    <div class="row"><span class="lbl">Country</span><div class="row" id="f-jur"></div></div>
+    <div class="row"><span class="lbl">Topic</span><div class="row" id="f-topic"></div></div>
+    <div class="row"><span class="lbl">Type</span><div class="row" id="f-type"></div></div>
+    <div class="row">
+      <span class="lbl">View</span>
+      <div class="seg" role="group" aria-label="Detail level">
+        <button id="v-plain" aria-pressed="true">Plain summary</button>
+        <button id="v-expert" aria-pressed="false">Show specialist detail</button>
+      </div>
+      <input type="search" id="f-q" placeholder="Search: age checks, Grok, CUSMA…" aria-label="Search items">
+    </div>
+  </section>
+
+  <div class="grid">
+    <main>
+      <div class="count" id="count" aria-live="polite"></div>
+      <div class="feed" id="feed"><div class="empty">Loading the scan…</div></div>
+    </main>
+    <aside>
+      <section class="panel" aria-labelledby="watch-h">
+        <h2 id="watch-h">On the horizon</h2>
+        <ul class="watch" id="watch"></ul>
+      </section>
+      <section class="panel" aria-labelledby="leg-h">
+        <h2 id="leg-h">How to read the labels</h2>
+        <div class="legend">
+          <div><span class="pri" style="background:var(--act-soft);color:var(--act)">Act now</span><span>Applies today. Check your own practices.</span></div>
+          <div><span class="pri" style="background:var(--prep-soft);color:var(--prep)">Prepare</span><span>Coming. Plan and budget for it.</span></div>
+          <div><span class="pri" style="background:var(--watch-soft);color:var(--watch)">Watch</span><span>Pending. The outcome could change the rules.</span></div>
+          <div><span class="pri" style="background:var(--ctx-soft);color:var(--ctx)">Context</span><span>Background that explains where things are heading.</span></div>
+        </div>
+      </section>
+    </aside>
+  </div>
+
+  <footer>
+    <div><b>Not legal advice.</b> This scan is general information to help you follow developments. For a specific situation, get professional advice in the relevant jurisdiction.</div>
+    <div><b>AI-assisted.</b> This scan was researched and drafted with the help of an AI system (Claude). AI can make mistakes, so check the linked sources before relying on any item.</div>
+    <div><b>Sources.</b> Each item links its sources, primary first where one is published, and shows the date it was last checked. Where only a law firm or news summary was available, that is what is linked. Bill stages move often: confirm on <a href="https://www.parl.ca/legisinfo/en/bills" target="_blank" rel="noopener">LEGISinfo</a>, <a href="https://www.congress.gov/" target="_blank" rel="noopener">Congress.gov</a> or <a href="https://bills.parliament.uk/" target="_blank" rel="noopener">UK Parliament Bills</a>.</div>
+    <div><b>Related.</b> For deeper Canadian privacy coverage, including case law, see the <a href="https://tonhs.github.io/Privacy-and-AI-Reg-Scan/" target="_blank" rel="noopener">Canadian Privacy Scan</a>.</div>
+  </footer>
+</div>
+
+<script>
+fetch('scan.json',{cache:'no-cache'}).then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); }).then(start).catch(function(){
+  document.getElementById('feed').innerHTML='<div class="empty">The scan data could not be loaded. Refresh the page, or view the items directly in <a href="scan.json">scan.json</a>.</div>';
+});
+function start(data){
+  var TYPES = {legislation:'Legislation', regulation:'Regulation', enforcement:'Regulator action', guidance:'Guidance', announcement:'Government announcement', consultation:'Consultation', trade:'Trade'};
+  var TOPICS = {privacy:'Privacy & data', ai:'AI', safety:'Online safety & kids', competition:'Competition', cyber:'Cybersecurity', trade:'Digital trade & tax', internet:'Internet & content'};
+  var JUR = {CA:'Canada', US:'United States', UK:'United Kingdom'};
+  var PRI = {act:'Act now', prepare:'Prepare', watch:'Watch', context:'Context'};
+  var PRI_ORDER = {act:0, prepare:1, watch:2, context:3};
+  var ST = {law:'In force', pending:'Pending', none:'No law', soft:'Soft law', patchwork:'Patchwork', mixed:'Mixed', friction:'Friction'};
+  var state = {types:new Set(), jurs:new Set(), topics:new Set(), q:'', expert:false};
+  try { if (JSON.parse(localStorage.getItem('tps-view')||'{}').expert) state.expert = true; } catch(e){}
+
+  function fmt(d){ var p=d.split('-'); var m=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][+p[1]-1]; return (+p[2])+' '+m+' '+p[0]; }
+  function esc(s){ return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
+  function el(id){ return document.getElementById(id); }
+  function jurs(i){ return [i.jur].concat(i.also||[]); }
+  function links(arr){ return (arr||[]).map(function(s){return '<a href="'+esc(s[1])+'" target="_blank" rel="noopener">'+esc(s[0])+' ↗</a>';}).join(' '); }
+
+  el('asof').textContent = fmt(data.asOf);
+  el('itemcount').textContent = data.items.length + ' items';
+
+  el('brief').innerHTML = (data.brief||[]).map(function(b){
+    var n=(b.sources||[]).length;
+    return '<li><div><b>'+esc(b.title)+'</b><span>'+esc(b.text)+'</span>'+(n?'<span class="bsrc">'+(n>1?'Sources: ':'Source: ')+links(b.sources)+'</span>':'')+'</div></li>';
+  }).join('');
+
+  var c = data.compare;
+  el('cmp').innerHTML = '<thead><tr><th scope="col">Topic</th>'+['CA','US','UK'].map(function(j){return '<th scope="col"><span class="cc '+j+'">'+j+'</span> '+JUR[j]+'</th>';}).join('')+'</tr></thead><tbody>'
+    + c.topics.map(function(t,n){ return '<tr><th scope="row">'+esc(t)+'</th>'+['CA','US','UK'].map(function(j){ var cell=c.rows[j][n]; return '<td><span class="st '+cell[0]+'">'+ST[cell[0]]+'</span><div>'+esc(cell[1])+'</div></td>'; }).join('')+'</tr>'; }).join('') + '</tbody>';
+
+  function chips(container, map, set, count){
+    var box = el(container); box.innerHTML='';
+    Object.keys(map).forEach(function(k){
+      var n = data.items.filter(function(i){return count(i,k);}).length;
+      if(!n) return;
+      var b = document.createElement('button');
+      b.className='chip'; b.type='button'; b.setAttribute('aria-pressed', set.has(k));
+      b.innerHTML = esc(map[k]) + '<span class="n">'+n+'</span>';
+      b.onclick=function(){ set.has(k)?set.delete(k):set.add(k); b.setAttribute('aria-pressed', set.has(k)); render(); };
+      box.appendChild(b);
+    });
+  }
+  chips('f-jur', JUR, state.jurs, function(i,k){return jurs(i).indexOf(k)>=0;});
+  chips('f-topic', TOPICS, state.topics, function(i,k){return (i.topics||[]).indexOf(k)>=0;});
+  chips('f-type', TYPES, state.types, function(i,k){return i.type===k;});
+
+  el('f-q').oninput = function(e){ state.q = e.target.value.trim().toLowerCase(); render(); };
+  function setView(expert){ state.expert = expert; el('v-plain').setAttribute('aria-pressed', !expert); el('v-expert').setAttribute('aria-pressed', expert); try{ localStorage.setItem('tps-view', JSON.stringify({expert:expert})); }catch(e){} render(); }
+  el('v-plain').onclick=function(){setView(false)}; el('v-expert').onclick=function(){setView(true)};
+  el('v-plain').setAttribute('aria-pressed', !state.expert); el('v-expert').setAttribute('aria-pressed', state.expert);
+
+  function track(i){
+    if (!i.track) return '';
+    var s=i.track.stages, at=i.track.at;
+    return '<div class="track" style="grid-template-columns:repeat('+s.length+',minmax(0,1fr))" aria-label="Stage: '+esc(s[at])+'">' + s.map(function(x,n){
+      return '<div class="'+(n<at?'done':(n===at?'done now':''))+'">'+esc(x)+'</div>';
+    }).join('') + '</div>';
+  }
+
+  function card(i){
+    var badges = jurs(i).map(function(j){return '<span class="cc '+j+'" title="'+JUR[j]+'">'+j+'</span>';}).join(' ');
+    var tps = (i.topics||[]).map(function(t){return '<span>'+esc(TOPICS[t])+'</span>';}).join('');
+    var ex = (i.expert||[]).map(function(x){return '<li>'+esc(x)+'</li>';}).join('');
+    return '<article class="item" data-p="'+i.priority+'" id="'+i.id+'">'
+      + '<div class="meta"><span class="pri">'+PRI[i.priority]+'</span>'+badges+(i.sub?'<span class="sub">'+esc(i.sub)+'</span>':'')+'<span class="tag">'+esc(TYPES[i.type])+'</span><span class="mono">'+(i.dateText||fmt(i.date))+'</span></div>'
+      + '<h3>'+esc(i.title)+'</h3>'
+      + '<p class="what">'+esc(i.what)+'</p>'
+      + '<p class="why"><b>Why it matters: </b>'+esc(i.why)+'</p>'
+      + track(i)
+      + (tps?'<div class="topics">'+tps+'</div>':'')
+      + '<details class="expert"'+(state.expert?' open':'')+'><summary>For specialists</summary><ul>'+ex+'</ul><div class="cite">'+esc(i.cite)+'</div></details>'
+      + '<div class="src">'+links(i.sources)+'<span class="checked">Last checked '+fmt(i.checked)+'</span></div>'
+      + '</article>';
+  }
+
+  function render(){
+    var list = data.items.filter(function(i){
+      if (state.jurs.size && !jurs(i).some(function(j){return state.jurs.has(j);})) return false;
+      if (state.topics.size && !(i.topics||[]).some(function(t){return state.topics.has(t);})) return false;
+      if (state.types.size && !state.types.has(i.type)) return false;
+      if (state.q){ var hay=(i.title+' '+i.what+' '+i.why+' '+(i.expert||[]).join(' ')+' '+i.cite+' '+(i.sub||'')).toLowerCase(); if (hay.indexOf(state.q)<0) return false; }
+      return true;
+    }).sort(function(a,b){ return PRI_ORDER[a.priority]-PRI_ORDER[b.priority] || b.date.localeCompare(a.date); });
+    el('count').textContent = list.length===data.items.length ? 'Showing all '+list.length+' items, most urgent first' : 'Showing '+list.length+' of '+data.items.length+' items';
+    el('feed').innerHTML = list.length ? list.map(card).join('') : '<div class="empty">Nothing matches these filters. Clear a filter or try a different search word.</div>';
+  }
+
+  el('watch').innerHTML = (data.watch||[]).map(function(w){ return '<li><span class="when">'+esc(w.when)+'</span><b>'+esc(w.what)+'</b><span class="note">'+esc(w.why)+'</span></li>'; }).join('');
+  render();
+}
+</script>
+</body>
+</html>
