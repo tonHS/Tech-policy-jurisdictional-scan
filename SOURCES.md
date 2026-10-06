@@ -60,16 +60,18 @@ Law firm bulletins, IAPP, Tech Policy Press, Michael Geist's blog, Congressional
 ## 2. Cited in the current edition
 
 <!-- cited:start -->
-_Generated from `scan.json` (current to 2026-10-04). Do not edit by hand._
+_Generated from `scan.json` (current to 2026-10-06). Do not edit by hand._
 
 ### Monthly brief
 
 - **Kids are being moved off social media.**
   - [UK announcement (A&O Shearman)](https://www.aoshearman.com/en/insights/ao-shearman-on-data/uk-government-announces-social-media-ban-and-other-measures-to-protect-children-online)
+  - [California AB 1709 (National Law Review)](https://natlawreview.com/article/california-enacts-covered-platform-age-restrictions-and-establishes-e-safety)
   - [Canada Bill C-34](https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html)
   - [US KIDS Act](https://techpolicy.press/bipartisan-smorgasbord-of-childrens-online-safety-legislation-passes-the-house)
 - **None of the three has a general AI law, and Washington wants to keep it that way.**
   - [White House AI framework (Jenner)](https://www.jenner.com/en/news-insights/client-alerts/takeaways-from-the-white-houses-framework-for-artificial-intelligence)
+  - [White House AI accord (text)](https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence)
   - [King's Speech 2026 (DLA Piper)](https://privacymatters.dlapiper.com/2026/05/uk-the-kings-speech-2026-cybersecurity-at-the-forefront/)
 - **Tech rules are now trade issues.**
   - [CUSMA review (Blakes)](https://www.blakes.com/insights/u-s-declines-to-renew-cusma-at-first-joint-review-what-businesses-need-to-know/)
@@ -77,7 +79,7 @@ _Generated from `scan.json` (current to 2026-10-04). Do not edit by hand._
 - **Cyber incident reporting is arriving everywhere.**
   - [Canada C-8](https://openparliament.ca/bills/45-1/C-8/)
   - [UK bill tracker](https://bills.parliament.uk/bills/4035)
-  - [US CIRCIA status (Covington)](https://www.cov.com/-/media/files/corporate/publications/2026/09/cisa-town-halls-signal-key-cyber-rule-changes-ahead.pdf)
+  - [US CIRCIA at OMB review (Security.io)](https://www.security.io/articles/2026/10/05/circia-final-rule-enters-omb-review)
 
 ### Where each country stands (comparison grid)
 
@@ -96,16 +98,17 @@ _Generated from `scan.json` (current to 2026-10-04). Do not edit by hand._
   - [Streaming reset (CP24)](https://www.cp24.com/news/canada/2026/07/29/ottawa-to-eliminate-streamers-cancon-payments-provide-government-funding-instead/)
 - **US · Privacy & data**: No federal law; about 20 state laws in force
   - [MultiState](https://www.multistate.us/insider/2026/2/4/all-of-the-comprehensive-privacy-laws-that-take-effect-in-2026)
-- **US · AI**: State laws (CO, CA, TX); federal push to preempt them
+- **US · AI**: State laws (CO, CA, TX); federal push to preempt them; voluntary industry safety accord
   - [White House framework (Jenner)](https://www.jenner.com/en/news-insights/client-alerts/takeaways-from-the-white-houses-framework-for-artificial-intelligence)
   - [Colorado rewrite (Ballard Spahr)](https://www.consumerfinancemonitor.com/2026/05/12/colorado-rewrites-its-landmark-ai-law-unpacking-sb-26-189-and-what-it-means-for-businesses/)
+  - [White House AI accord](https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence)
 - **US · Online safety & kids**: TAKE IT DOWN Act in force; KIDS Act passed House
   - [FTC](https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-begins-enforcing-take-it-down-act)
   - [KIDS Act (Tech Policy Press)](https://techpolicy.press/bipartisan-smorgasbord-of-childrens-online-safety-legislation-passes-the-house)
 - **US · Competition & digital markets**: Antitrust law enforced through courts; Google search remedies under appeal by both sides
   - [Google appeal (PYMNTS/CPI)](https://www.pymnts.com/cpi-posts/us-justice-department-states-challenge-google-antitrust-remedies-in-appeal/)
-- **US · Cybersecurity**: CIRCIA reporting rule overdue
-  - [Covington](https://www.cov.com/-/media/files/corporate/publications/2026/09/cisa-town-halls-signal-key-cyber-rule-changes-ahead.pdf)
+- **US · Cybersecurity**: CIRCIA final reporting rule at White House review
+  - [Security.io](https://www.security.io/articles/2026/10/05/circia-final-rule-enters-omb-review)
 - **US · Digital trade & tax**: Using tariffs against foreign tech rules and taxes
   - [UK DST threat (Morningstar)](https://www.morningstar.co.uk/uk/news/AN_1776990152554627800/trump-threatens-big-tariff-on-uk-over-digital-tax-on-us-tech-firms.aspx)
   - [CUSMA review (Blakes)](https://www.blakes.com/insights/u-s-declines-to-renew-cusma-at-first-joint-review-what-businesses-need-to-know/)
@@ -118,21 +121,38 @@ _Generated from `scan.json` (current to 2026-10-04). Do not edit by hand._
   - [Under-16 ban (A&O Shearman)](https://www.aoshearman.com/en/insights/ao-shearman-on-data/uk-government-announces-social-media-ban-and-other-measures-to-protect-children-online)
 - **UK · Competition & digital markets**: DMCC Act: CMA has imposed first conduct requirements
   - [CMA case page](https://www.gov.uk/cma-cases/sms-investigation-into-googles-general-search-and-search-advertising-services)
-- **UK · Cybersecurity**: Cyber Security and Resilience Bill in the Lords
-  - [UK Parliament](https://bills.parliament.uk/bills/4035)
+- **UK · Cybersecurity**: Cyber Security and Resilience Bill at Lords report stage (Oct 26)
+  - [UK Parliament](https://bills.parliament.uk/bills/4035/stages)
 - **UK · Digital trade & tax**: 2% DST under US tariff threat
   - [Morningstar](https://www.morningstar.co.uk/uk/news/AN_1776990152554627800/trump-threatens-big-tariff-on-uk-over-digital-tax-on-us-tech-firms.aspx)
 
 ### Items
 
-- **UK Cyber Security and Resilience Bill reaches final stages in the Lords** · UK · 2026-09-16 · last checked 2026-10-04
+- **Ofcom investigates Meta over risk checks before launching Instagram's disappearing-photo feature** · UK · 2026-10-06 · last checked 2026-10-06
+  - Citation: Online Safety Act 2023, ss. 9(4), 11(4); Ofcom investigation into Meta Platforms Inc. (Oct. 6, 2026).
+  - [Ofcom investigation page](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/investigation-into-metas-compliance-with-illegal-content-risk-assessment-duties)
+  - [LBC report](https://www.lbc.co.uk/article/ofcom-meta-online-safety-act-5HjdjSQ_2/)
+- **US critical infrastructure cyber reporting rule is at final White House review** · US · 2026-10-01 · last checked 2026-10-06
+  - Citation: 6 U.S.C. § 681 et seq. (CIRCIA).
+  - [Security.io: final rule enters OMB review (Oct. 5, 2026)](https://www.security.io/articles/2026/10/05/circia-final-rule-enters-omb-review)
+  - [HIPAA Journal (Oct. 5, 2026)](https://www.hipaajournal.com/cisa-circia-final-rule-white-house-review/)
+  - [Covington (Sept. 2026)](https://www.cov.com/-/media/files/corporate/publications/2026/09/cisa-town-halls-signal-key-cyber-rule-changes-ahead.pdf)
+- **California enacts new rules on AI at work, kids' feeds and privacy deletion rights** · US (California) · Sept 2026 · last checked 2026-10-06
+  - Citation: Cal. SB 947, AB 1883, SB 951, SB 1000, AB 2713 (signed Sept. 30, 2026); AB 1709, AB 2246 (Sept. 10, 2026); SB 923 (Sept. 27, 2026).
+  - [Governor of California (Sept. 30, 2026)](https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/)
+  - [WilmerHale summary](https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20261002-california-finalizes-next-wave-of-state-ai-and-privacy-regulation)
+  - [AB 1709 (National Law Review)](https://natlawreview.com/article/california-enacts-covered-platform-age-restrictions-and-establishes-e-safety)
+- **White House turns to voluntary AI safety: an industry accord and a new "Super Intelligence" task force** · US · Sept–Oct 2026 · last checked 2026-10-06
+  - Citation: White House Accord on Super Intelligence (Sept. 29, 2026); E.O. 14434, 91 Fed. Reg. 63129 (Oct. 2, 2026); Super Intelligence Force announcement (Oct. 4, 2026); E.O. of June 2, 2026.
+  - [Accord text (American Presidency Project)](https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence)
+  - [E.O. 14434 (Federal Register)](https://www.federalregister.gov/documents/2026/10/02/2026-20321/inaugurating-the-era-of-super-intelligence)
+  - [Nextgov/FCW on the order and accord](https://www.nextgov.com/artificial-intelligence/2026/09/white-house-unveils-super-intelligence-executive-order-and-industry-accord/416325/)
+  - [TechCrunch on the Super Intelligence Force](https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/)
+  - [Latham & Watkins on the June order](https://www.lw.com/en/insights/president-trump-signs-executive-order-establishing-ai-cybersecurity-and-frontier-model-framework)
+- **UK Cyber Security and Resilience Bill heads to Lords report stage on October 26** · UK · Sept 2026 · last checked 2026-10-06
   - Citation: Cyber Security and Resilience (Network and Information Systems) Bill (DSIT).
   - [UK Parliament bill page](https://bills.parliament.uk/bills/4035)
   - [DLA Piper on King's Speech](https://privacymatters.dlapiper.com/2026/05/uk-the-kings-speech-2026-cybersecurity-at-the-forefront/)
-- **US critical infrastructure cyber reporting rule is overdue but close** · US · 2026-09-04 · last checked 2026-10-04
-  - Citation: 6 U.S.C. § 681 et seq. (CIRCIA).
-  - [Covington (Sept. 2026)](https://www.cov.com/-/media/files/corporate/publications/2026/09/cisa-town-halls-signal-key-cyber-rule-changes-ahead.pdf)
-  - [Hunton](https://www.hunton.com/privacy-and-cybersecurity-law-blog/cisa-plans-to-finalize-cyber-incident-reporting-regulations-in-september-2026)
 - **Canada to scrap streamers' Canadian-content payments** · CA · 2026-07-29 · last checked 2026-10-04
   - Citation: Online Streaming Act, S.C. 2023, c. 8.
   - [CP24 / Canadian Press](https://www.cp24.com/news/canada/2026/07/29/ottawa-to-eliminate-streamers-cancon-payments-provide-government-funding-instead/)
@@ -154,7 +174,7 @@ _Generated from `scan.json` (current to 2026-10-04). Do not edit by hand._
   - Citation: Data (Use and Access) Act 2025, c. 18.
   - [Kennedys commencement guide](https://www.kennedyslaw.com/en/thought-leadership/article/2026/the-data-use-and-access-act-2025-commencement-dates-and-planned-guidance-for-2026)
   - [Mayer Brown on complaints](https://www.mayerbrown.com/zh-hans/insights/publications/2026/02/preparing-for-the-data-use-and-access-act-2025-upcoming-complaints-procedure-requirement)
-- **Canada's lawful access bill C-22 is in the Senate** · CA · 2026-06-18 · last checked 2026-10-04
+- **Canada's lawful access bill C-22 is in the Senate** · CA · 2026-06-18 · last checked 2026-10-06
   - Citation: Bill C-22, Lawful Access Act, 2026.
   - [OPC submission](https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_260526/)
   - [openparliament.ca](https://openparliament.ca/bills/45-1/C-22/)
@@ -166,14 +186,14 @@ _Generated from `scan.json` (current to 2026-10-04). Do not edit by hand._
   - Citation: UK government announcement, June 15, 2026.
   - [A&O Shearman summary](https://www.aoshearman.com/en/insights/ao-shearman-on-data/uk-government-announces-social-media-ban-and-other-measures-to-protect-children-online)
   - [WSGR summary](https://www.wsgrdataadvisor.com/2026/06/uk-announces-social-media-ban-and-broader-online-restrictions-for-users-under-16/)
-- **Canada's Bill C-36 would replace PIPEDA with a tougher privacy law** · CA · 2026-06-15 · last checked 2026-10-04
+- **Canada's Bill C-36 would replace PIPEDA with a tougher privacy law** · CA · 2026-06-15 · last checked 2026-10-06
   - Citation: Bill C-36, 45th Parl., 1st Sess. First reading June 15, 2026.
   - [openparliament.ca](https://openparliament.ca/bills/45-1/C-36/)
   - [Canadian Privacy Scan (detail)](https://tonhs.github.io/Privacy-and-AI-Reg-Scan/)
 - **Canada's critical infrastructure cyber law receives Royal Assent** · CA · 2026-06-15 · last checked 2026-10-04
   - Citation: S.C. 2026, c. 9 (former Bill C-8).
   - [openparliament.ca](https://openparliament.ca/bills/45-1/C-8/)
-- **Canada's Bill C-34 would restrict under-16 accounts and regulate AI chatbots** · CA · 2026-06-10 · last checked 2026-10-04
+- **Canada's Bill C-34 would restrict under-16 accounts and regulate AI chatbots** · CA · 2026-06-10 · last checked 2026-10-06
   - Citation: Bill C-34, 45th Parl., 1st Sess. Introduced June 10, 2026.
   - [Government backgrounder](https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html)
   - [openparliament.ca](https://openparliament.ca/bills/45-1/C-34/)
@@ -208,7 +228,7 @@ _Generated from `scan.json` (current to 2026-10-04). Do not edit by hand._
 - **Competition Bureau reports on algorithmic pricing** · CA · 2026-01-22 · last checked 2026-10-04
   - Citation: Competition Bureau, What We Heard: Algorithmic Pricing and Competition (Jan. 22, 2026).
   - [Competition Bureau](https://www.canada.ca/en/competition-bureau/news/2026/01/competition-bureau-report-highlights-public-feedback-on-algorithmic-pricing-and-competition.html)
-- **Ofcom is enforcing the Online Safety Act, including against AI features** · UK · Jan–May 2026 · last checked 2026-10-04
+- **Ofcom is enforcing the Online Safety Act, including against AI features** · UK · Jan–May 2026 · last checked 2026-10-06
   - Citation: Online Safety Act 2023; Ofcom investigation into X (Jan. 12, 2026).
   - [Ofcom: X/Grok investigation](https://ofcom.org.uk/online-safety/illegal-and-harmful-content/ofcom-launches-investigation-into-x-over-grok-sexualised-imagery)
   - [Linklaters roundup](https://techinsights.linklaters.com/post/102n7pm/the-uks-online-safety-act-heats-up-fines-battlelines-and-even-more-regulatio)
@@ -220,7 +240,7 @@ _Generated from `scan.json` (current to 2026-10-04). Do not edit by hand._
   - Citation: Ind. SB 5; Ky. HB 15; R.I. HB 7787/SB 2500.
   - [MultiState](https://www.multistate.us/insider/2026/2/4/all-of-the-comprehensive-privacy-laws-that-take-effect-in-2026)
 
-_25 items, 44 unique source links._
+_28 items, 56 unique source links._
 <!-- cited:end -->
 
 ## 3. Update log
@@ -228,3 +248,4 @@ _25 items, 44 unique source links._
 | Date | Checked | Added | Changed | Removed |
 |---|---|---|---|---|
 | 2026-10-04 | First edition. Federal and UK parliaments, Ofcom, CMA, FTC, CISA, White House framework, state AI laws, CUSMA review, CRTC/streaming, Canadian Privacy Scan items | 25 items, comparison grid, brief | Comparison grid: source links added to every cell; US competition cell now reflects Google search remedies appeal | — |
+| 2026-10-06 | LEGISinfo (C-36, C-34, C-22), Ofcom, bills.parliament.uk, CISA/OIRA, Governor of California, Federal Register, White House / Congress child-safety and preemption coverage | Ofcom investigation into Meta (Instagram Instants); California 2026 AI, kids and privacy laws; White House AI accord, E.O. 14434 and Super Intelligence Force (with June 2 order) | CIRCIA final rule now at OIRA review (received Oct 1); UK Cyber Security and Resilience Bill corrected to Lords committee from Sept 1, report stage Oct 26 (was shown as report stage Sept 16); brief points 1, 2 and 4, comparison grid (US AI and cyber, UK cyber cells) and watch list updated | — |

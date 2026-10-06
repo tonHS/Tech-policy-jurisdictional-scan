@@ -1,13 +1,17 @@
 {
-  "asOf": "2026-10-04",
+  "asOf": "2026-10-06",
   "brief": [
     {
       "title": "Kids are being moved off social media.",
-      "text": "The UK will ban under-16s from social media from spring 2027. Canada's Bill C-34 proposes an under-16 restriction, and the US House passed a children's online safety package in June. Age checks are becoming a normal compliance cost.",
+      "text": "The UK will ban under-16s from social media from spring 2027, and California has banned addictive feeds and autoplay for under-16s. Canada's Bill C-34 proposes an under-16 restriction, and the US House passed a children's online safety package in June. Age checks are becoming a normal compliance cost.",
       "sources": [
         [
           "UK announcement (A&O Shearman)",
           "https://www.aoshearman.com/en/insights/ao-shearman-on-data/uk-government-announces-social-media-ban-and-other-measures-to-protect-children-online"
+        ],
+        [
+          "California AB 1709 (National Law Review)",
+          "https://natlawreview.com/article/california-enacts-covered-platform-age-restrictions-and-establishes-e-safety"
         ],
         [
           "Canada Bill C-34",
@@ -21,11 +25,15 @@
     },
     {
       "title": "None of the three has a general AI law, and Washington wants to keep it that way.",
-      "text": "The White House is pushing one national standard that would override state AI laws. The UK left an AI bill out of the King's Speech. Canada is relying on privacy and online safety bills. Meanwhile Colorado rewrote its AI law to take effect in 2027.",
+      "text": "The White House is pushing one national standard that would override state AI laws, and is relying on a voluntary industry safety accord rather than regulation. The UK left an AI bill out of the King's Speech. Canada is relying on privacy and online safety bills. Meanwhile Colorado rewrote its AI law to take effect in 2027.",
       "sources": [
         [
           "White House AI framework (Jenner)",
           "https://www.jenner.com/en/news-insights/client-alerts/takeaways-from-the-white-houses-framework-for-artificial-intelligence"
+        ],
+        [
+          "White House AI accord (text)",
+          "https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence"
         ],
         [
           "King's Speech 2026 (DLA Piper)",
@@ -49,7 +57,7 @@
     },
     {
       "title": "Cyber incident reporting is arriving everywhere.",
-      "text": "Canada's critical cyber systems law passed in June. The UK's Cyber Security and Resilience Bill is near the end of its passage. The US rule requiring critical infrastructure to report cyber incidents within 72 hours is overdue but expected soon.",
+      "text": "Canada's critical cyber systems law passed in June. The UK's Cyber Security and Resilience Bill reaches Lords report stage on October 26. The US rule requiring critical infrastructure to report cyber incidents within 72 hours is now at final White House review.",
       "sources": [
         [
           "Canada C-8",
@@ -60,8 +68,8 @@
           "https://bills.parliament.uk/bills/4035"
         ],
         [
-          "US CIRCIA status (Covington)",
-          "https://www.cov.com/-/media/files/corporate/publications/2026/09/cisa-town-halls-signal-key-cyber-rule-changes-ahead.pdf"
+          "US CIRCIA at OMB review (Security.io)",
+          "https://www.security.io/articles/2026/10/05/circia-final-rule-enters-omb-review"
         ]
       ]
     }
@@ -155,7 +163,7 @@
         ],
         [
           "patchwork",
-          "State laws (CO, CA, TX); federal push to preempt them",
+          "State laws (CO, CA, TX); federal push to preempt them; voluntary industry safety accord",
           [
             [
               "White House framework (Jenner)",
@@ -164,6 +172,10 @@
             [
               "Colorado rewrite (Ballard Spahr)",
               "https://www.consumerfinancemonitor.com/2026/05/12/colorado-rewrites-its-landmark-ai-law-unpacking-sb-26-189-and-what-it-means-for-businesses/"
+            ],
+            [
+              "White House AI accord",
+              "https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence"
             ]
           ]
         ],
@@ -193,11 +205,11 @@
         ],
         [
           "pending",
-          "CIRCIA reporting rule overdue",
+          "CIRCIA final reporting rule at White House review",
           [
             [
-              "Covington",
-              "https://www.cov.com/-/media/files/corporate/publications/2026/09/cisa-town-halls-signal-key-cyber-rule-changes-ahead.pdf"
+              "Security.io",
+              "https://www.security.io/articles/2026/10/05/circia-final-rule-enters-omb-review"
             ]
           ]
         ],
@@ -263,11 +275,11 @@
         ],
         [
           "pending",
-          "Cyber Security and Resilience Bill in the Lords",
+          "Cyber Security and Resilience Bill at Lords report stage (Oct 26)",
           [
             [
               "UK Parliament",
-              "https://bills.parliament.uk/bills/4035"
+              "https://bills.parliament.uk/bills/4035/stages"
             ]
           ]
         ],
@@ -286,14 +298,29 @@
   },
   "watch": [
     {
-      "when": "Fall 2026",
+      "when": "Ongoing",
+      "what": "Ofcom's investigation into Meta's Instagram Instants feature",
+      "why": "Will show how Ofcom treats risk assessments for new features on large platforms."
+    },
+    {
+      "when": "By late Nov",
+      "what": "White House proposal for a legal definition of \"super intelligence\"",
+      "why": "Could change which technologies federal AI laws cover."
+    },
+    {
+      "when": "By early Feb 2027",
+      "what": "Super Intelligence Force report on AI risks and opportunities",
+      "why": "First sign of whether federal AI oversight goes beyond voluntary commitments."
+    },
+    {
+      "when": "By end of 2026",
       "what": "US CIRCIA final rule",
       "why": "Sets 72-hour incident and 24-hour ransom-payment reporting for critical infrastructure."
     },
     {
-      "when": "Fall 2026",
-      "what": "UK Cyber Security and Resilience Bill: Royal Assent",
-      "why": "Brings managed service providers and key suppliers into the UK's cyber regime."
+      "when": "Oct 26",
+      "what": "UK Cyber Security and Resilience Bill: Lords report stage",
+      "why": "The first chance for the Lords to amend the bill before Royal Assent."
     },
     {
       "when": "Oct 2026",
@@ -393,7 +420,37 @@
           "https://techinsights.linklaters.com/post/102n7pm/the-uks-online-safety-act-heats-up-fines-battlelines-and-even-more-regulatio"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "uk-ofcom-meta",
+      "date": "2026-10-06",
+      "type": "enforcement",
+      "jur": "UK",
+      "topics": [
+        "safety"
+      ],
+      "priority": "act",
+      "title": "Ofcom investigates Meta over risk checks before launching Instagram's disappearing-photo feature",
+      "what": "Ofcom has opened an investigation into whether Meta carried out proper illegal-content and children's risk assessments before launching Instagram \"Instants\", a feature for sharing photos and videos that disappear after viewing. Meta says it assessed the risks and briefed Ofcom before launch.",
+      "why": "Under the Online Safety Act, a significant change to a service needs an updated risk assessment before it goes live, not after. If you run a platform with UK users, build the assessment into your launch process for new features.",
+      "expert": [
+        "Opened October 6, 2026. Duties at issue: Online Safety Act 2023, s. 9(4) (illegal content risk assessment) and s. 11(4) (children's risk assessment) in relation to a significant change to the service.",
+        "Instants launched May 13, 2026, via Instagram Direct.",
+        "Opening an investigation is not a finding of breach. Maximum penalty: £18M or 10% of qualifying worldwide revenue, whichever is greater."
+      ],
+      "cite": "Online Safety Act 2023, ss. 9(4), 11(4); Ofcom investigation into Meta Platforms Inc. (Oct. 6, 2026).",
+      "sources": [
+        [
+          "Ofcom investigation page",
+          "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/investigation-into-metas-compliance-with-illegal-content-risk-assessment-duties"
+        ],
+        [
+          "LBC report",
+          "https://www.lbc.co.uk/article/ofcom-meta-online-safety-act-5HjdjSQ_2/"
+        ]
+      ],
+      "checked": "2026-10-06"
     },
     {
       "id": "uk-cma",
@@ -467,14 +524,14 @@
     },
     {
       "id": "uk-csr",
-      "date": "2026-09-16",
+      "date": "2026-09-01",
       "type": "legislation",
       "jur": "UK",
       "topics": [
         "cyber"
       ],
       "priority": "prepare",
-      "title": "UK Cyber Security and Resilience Bill reaches final stages in the Lords",
+      "title": "UK Cyber Security and Resilience Bill heads to Lords report stage on October 26",
       "what": "This bill updates the UK's cyber rules for essential services. It brings managed IT service providers and key suppliers into scope and requires faster reporting of cyber incidents.",
       "why": "If you provide IT services to UK essential services, such as health, energy, water or transport, you may soon be directly regulated. Expect new reporting duties and contract terms from customers.",
       "track": {
@@ -486,12 +543,12 @@
           "Lords 3rd rdg",
           "Royal Assent"
         ],
-        "at": 3
+        "at": 2
       },
       "expert": [
         "Amends the Network and Information Systems Regulations 2018.",
         "Extends scope to managed service providers and \"designated critical suppliers\"; tighter incident reporting (initial notice within 24 hours, full report within 72 hours).",
-        "Carried over into the 2026–27 session (King's Speech, May 13, 2026). Lords report stage September 16, 2026."
+        "Carried over into the 2026–27 session (King's Speech, May 13, 2026). Lords committee stage from September 1, 2026; report stage scheduled for October 26, 2026 (provisional), the first chance for the Lords to vote amendments into the bill."
       ],
       "cite": "Cyber Security and Resilience (Network and Information Systems) Bill (DSIT).",
       "sources": [
@@ -504,7 +561,8 @@
           "https://privacymatters.dlapiper.com/2026/05/uk-the-kings-speech-2026-cybersecurity-at-the-forefront/"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-06",
+      "dateText": "Sept 2026"
     },
     {
       "id": "uk-copyright",
@@ -531,6 +589,51 @@
         ]
       ],
       "checked": "2026-10-04"
+    },
+    {
+      "id": "us-ai-accord",
+      "date": "2026-09-29",
+      "dateText": "Sept–Oct 2026",
+      "type": "announcement",
+      "jur": "US",
+      "topics": [
+        "ai"
+      ],
+      "priority": "watch",
+      "title": "White House turns to voluntary AI safety: an industry accord and a new \"Super Intelligence\" task force",
+      "what": "On September 29, six leading AI developers, including OpenAI, Anthropic, Google, Meta, xAI and Nvidia, signed a White House accord committing to internal safety controls, outside audits and board oversight of their most advanced models. The same day, an executive order told federal agencies to call AI \"super intelligence\". On October 4 the President announced a federal \"Super Intelligence Force\" to coordinate the government's response to AI risks.",
+      "why": "There is still no binding federal AI safety law. The accord has no penalties and findings go to company boards, not regulators or the public. If you buy or build on frontier models, ask vendors what they have committed to, but keep planning around state laws, which still apply.",
+      "expert": [
+        "White House Accord on Super Intelligence (Sept. 29, 2026): four layers: (1) internal controls monitoring model capabilities and alignment in areas such as cybersecurity and biosecurity; (2) an empowered internal oversight team; (3) an independent external auditor or evaluator, chosen by the company; (4) an independent board committee receiving reports. Says it may make sense over time to codify these steps in law.",
+        "E.O. 14434, Inaugurating the Era of Super Intelligence (signed Sept. 29, 2026; 91 Fed. Reg. 63129, Oct. 2, 2026): agencies to use \"Super Intelligence (SI)\" in place of \"AI\" in official communications; within 60 days the Assistant to the President for Science and Technology proposes legislative language for a federal SI definition (current reference: 15 U.S.C. § 9401(3)).",
+        "Super Intelligence Force (announced Oct. 4, 2026): chaired by the Director of National Intelligence, with the FTC Chair among vice chairs; charter mandates plans for responding to SI-enabled threats while preventing overregulation; report due within 120 days.",
+        "Builds on the June 2, 2026 order \"Promoting Advanced Artificial Intelligence Innovation and Security\": voluntary government access to frontier models up to 30 days before release, classified cyber-capability benchmarks (Treasury, NSA, CISA) and an AI cybersecurity clearinghouse; expressly no licensing or pre-clearance requirement.",
+        "Separate from the preemption push under E.O. 14365; the Vice President has rejected FDA- or FAA-style AI regulation."
+      ],
+      "cite": "White House Accord on Super Intelligence (Sept. 29, 2026); E.O. 14434, 91 Fed. Reg. 63129 (Oct. 2, 2026); Super Intelligence Force announcement (Oct. 4, 2026); E.O. of June 2, 2026.",
+      "sources": [
+        [
+          "Accord text (American Presidency Project)",
+          "https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence"
+        ],
+        [
+          "E.O. 14434 (Federal Register)",
+          "https://www.federalregister.gov/documents/2026/10/02/2026-20321/inaugurating-the-era-of-super-intelligence"
+        ],
+        [
+          "Nextgov/FCW on the order and accord",
+          "https://www.nextgov.com/artificial-intelligence/2026/09/white-house-unveils-super-intelligence-executive-order-and-industry-accord/416325/"
+        ],
+        [
+          "TechCrunch on the Super Intelligence Force",
+          "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+        ],
+        [
+          "Latham & Watkins on the June order",
+          "https://www.lw.com/en/insights/president-trump-signs-executive-order-establishing-ai-cybersecurity-and-frontier-model-framework"
+        ]
+      ],
+      "checked": "2026-10-06"
     },
     {
       "id": "us-preempt",
@@ -606,6 +709,47 @@
         ]
       ],
       "checked": "2026-10-04"
+    },
+    {
+      "id": "us-ca-2026",
+      "date": "2026-09-30",
+      "dateText": "Sept 2026",
+      "type": "legislation",
+      "jur": "US",
+      "sub": "California",
+      "topics": [
+        "ai",
+        "privacy",
+        "safety"
+      ],
+      "priority": "prepare",
+      "title": "California enacts new rules on AI at work, kids' feeds and privacy deletion rights",
+      "what": "California's governor signed a large set of AI and privacy bills by his September 30 deadline. They include limits on using AI alone to discipline or fire workers, a ban on addictive feeds and autoplay for users under 16, wider deletion rights under the state privacy law, and updates to the AI Transparency Act.",
+      "why": "California rules often become the US baseline. If you use automated tools in HR, run a platform used by teens, or handle California consumers' data, review these laws now. Most new California laws take effect January 1, 2027, but check each bill's effective date.",
+      "expert": [
+        "SB 947 (No Robo Bosses Act of 2026): employers may not rely solely on an automated decision system for discipline or termination decisions; human review required.",
+        "AB 1883 (workplace surveillance) and SB 951 (notice where an AI system causes a mass layoff, relocation or termination).",
+        "AB 1709 (signed Sept. 10): covered platforms may not provide addictive features, such as personalized feeds and autoplay, to users under 16; age verification through the Digital Age Assurance Act; AG enforcement with civil penalties per affected minor.",
+        "SB 923 (signed Sept. 27): expands CCPA deletion rights to information collected about a consumer, not only from them; online-only businesses must offer an online request method.",
+        "SB 1000 and AB 2713 amend the California AI Transparency Act (provenance data and disclosure tools); SB 1000 removes the 1,000,000 monthly user threshold. AB 2246 replaces the Age-Appropriate Design Code provisions.",
+        "Vetoed include AB 1542 (sale of sensitive personal information), SB 903 and AB 2575 (health care AI). Likely targets of federal preemption efforts."
+      ],
+      "cite": "Cal. SB 947, AB 1883, SB 951, SB 1000, AB 2713 (signed Sept. 30, 2026); AB 1709, AB 2246 (Sept. 10, 2026); SB 923 (Sept. 27, 2026).",
+      "sources": [
+        [
+          "Governor of California (Sept. 30, 2026)",
+          "https://www.gov.ca.gov/2026/09/30/californias-nation-leading-ai-framework-just-got-stronger-governor-newsom-signs-more-first-in-the-nation-worker-protections-and-more/"
+        ],
+        [
+          "WilmerHale summary",
+          "https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20261002-california-finalizes-next-wave-of-state-ai-and-privacy-regulation"
+        ],
+        [
+          "AB 1709 (National Law Review)",
+          "https://natlawreview.com/article/california-enacts-covered-platform-age-restrictions-and-establishes-e-safety"
+        ]
+      ],
+      "checked": "2026-10-06"
     },
     {
       "id": "us-state-ai",
@@ -763,33 +907,37 @@
     },
     {
       "id": "us-circia",
-      "date": "2026-09-04",
+      "date": "2026-10-01",
       "type": "regulation",
       "jur": "US",
       "topics": [
         "cyber"
       ],
       "priority": "prepare",
-      "title": "US critical infrastructure cyber reporting rule is overdue but close",
-      "what": "CISA is finalizing a rule requiring critical infrastructure organizations to report significant cyber incidents within 72 hours and ransom payments within 24 hours. It missed its October 2025 deadline and a September 2026 target.",
-      "why": "If you operate in a US critical infrastructure sector, map out who would report and how, now. The 72-hour window will be hard to meet without a plan.",
+      "title": "US critical infrastructure cyber reporting rule is at final White House review",
+      "what": "CISA has sent its final rule requiring critical infrastructure organizations to report significant cyber incidents within 72 hours and ransom payments within 24 hours to the White House for review, the last step before publication. The rule is already a year past its October 2025 deadline.",
+      "why": "If you operate in a US critical infrastructure sector, map out who would report and how, now. Publication is expected before the end of 2026, and the 72-hour window will be hard to meet without a plan.",
       "expert": [
         "Cyber Incident Reporting for Critical Infrastructure Act of 2022 (CIRCIA); NPRM April 2024 with sector- and size-based coverage criteria.",
-        "CISA has signalled possible clarifications to the covered-entity and incident definitions and narrower report content, but no firm commitment to harmonize with SEC and other regimes.",
-        "Further delay possible for White House (OIRA) review or a reopened comment period."
+        "OIRA recorded receipt of the final rule (RIN 1670-AA04) on October 1, 2026. The final text, covered-entity test and effective date are not public until it is published.",
+        "CISA has signalled possible clarifications to the covered-entity and incident definitions and narrower report content, but no firm commitment to harmonize with SEC and other regimes. Treat the 72-hour and 24-hour clocks as planning assumptions until the final text is out."
       ],
       "cite": "6 U.S.C. § 681 et seq. (CIRCIA).",
       "sources": [
         [
-          "Covington (Sept. 2026)",
-          "https://www.cov.com/-/media/files/corporate/publications/2026/09/cisa-town-halls-signal-key-cyber-rule-changes-ahead.pdf"
+          "Security.io: final rule enters OMB review (Oct. 5, 2026)",
+          "https://www.security.io/articles/2026/10/05/circia-final-rule-enters-omb-review"
         ],
         [
-          "Hunton",
-          "https://www.hunton.com/privacy-and-cybersecurity-law-blog/cisa-plans-to-finalize-cyber-incident-reporting-regulations-in-september-2026"
+          "HIPAA Journal (Oct. 5, 2026)",
+          "https://www.hipaajournal.com/cisa-circia-final-rule-white-house-review/"
+        ],
+        [
+          "Covington (Sept. 2026)",
+          "https://www.cov.com/-/media/files/corporate/publications/2026/09/cisa-town-halls-signal-key-cyber-rule-changes-ahead.pdf"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-06"
     },
     {
       "id": "cusma",
@@ -900,7 +1048,7 @@
           "https://tonhs.github.io/Privacy-and-AI-Reg-Scan/"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-06"
     },
     {
       "id": "ca-c34",
@@ -942,7 +1090,7 @@
           "https://openparliament.ca/bills/45-1/C-34/"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-06"
     },
     {
       "id": "ca-c22",
@@ -983,7 +1131,7 @@
           "https://openparliament.ca/bills/45-1/C-22/"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-06"
     },
     {
       "id": "ca-c8",
