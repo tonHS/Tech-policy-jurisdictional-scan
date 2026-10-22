@@ -1,75 +1,67 @@
 {
-  "asOf": "2026-10-06",
+  "asOf": "2026-10-22",
   "brief": [
     {
-      "title": "Kids are being moved off social media.",
-      "text": "The UK will ban under-16s from social media from spring 2027, and California has banned addictive feeds and autoplay for under-16s. Canada's Bill C-34 proposes an under-16 restriction, and the US House passed a children's online safety package in June. Age checks are becoming a normal compliance cost.",
+      "title": "AI companies are being held to existing law.",
+      "text": "Without an AI statute, US regulators are using consumer law: the FTC sent demands to OpenAI and Anthropic, and eight states sued OpenAI over harms to kids. Ofcom is pursuing X over Grok, and Canadian regulators found OpenAI broke privacy law in May.",
       "sources": [
         [
-          "UK announcement (A&O Shearman)",
-          "https://www.aoshearman.com/en/insights/ao-shearman-on-data/uk-government-announces-social-media-ban-and-other-measures-to-protect-children-online"
+          "FTC demands (Axios)",
+          "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation"
         ],
         [
-          "California AB 1709 (National Law Review)",
-          "https://natlawreview.com/article/california-enacts-covered-platform-age-restrictions-and-establishes-e-safety"
+          "State suits (Troutman)",
+          "https://www.troutman.com/insights/eight-state-ags-sue-openai-over-chatgpt-safety-and-consumer-protection/"
+        ],
+        [
+          "Ofcom on Grok",
+          "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/ofcom-update-monitoring-xs-response-to-hate-and-terror-content-and-grok-investigation-latest"
+        ]
+      ]
+    },
+    {
+      "title": "Children's rules keep multiplying.",
+      "text": "Canada's Privacy Commissioner issued a Children's Privacy Code, and Canada's under-16 social media bill reached second-reading debate. The UK ban on under-16s starts in spring 2027, and Colorado's chatbot rules take effect in January.",
+      "sources": [
+        [
+          "OPC Children's Privacy Code",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261020/"
         ],
         [
           "Canada Bill C-34",
-          "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html"
+          "https://openparliament.ca/bills/45-1/C-34/"
         ],
         [
-          "US KIDS Act",
-          "https://techpolicy.press/bipartisan-smorgasbord-of-childrens-online-safety-legislation-passes-the-house"
+          "UK under-16 ban (A&O Shearman)",
+          "https://www.aoshearman.com/en/insights/ao-shearman-on-data/uk-government-announces-social-media-ban-and-other-measures-to-protect-children-online"
         ]
       ]
     },
     {
-      "title": "None of the three has a general AI law, and Washington wants to keep it that way.",
-      "text": "The White House is pushing one national standard that would override state AI laws, and is relying on a voluntary industry safety accord rather than regulation. The UK left an AI bill out of the King's Speech. Canada is relying on privacy and online safety bills. Meanwhile Colorado rewrote its AI law to take effect in 2027.",
+      "title": "UK competition rules reach Microsoft and AI assistants.",
+      "text": "The CMA proposes special status for Microsoft's business software, with possible rules on bundling, Copilot and cloud licensing. A decision is due by February.",
       "sources": [
         [
-          "White House AI framework (Jenner)",
-          "https://www.jenner.com/en/news-insights/client-alerts/takeaways-from-the-white-houses-framework-for-artificial-intelligence"
-        ],
-        [
-          "White House AI accord (text)",
-          "https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence"
-        ],
-        [
-          "King's Speech 2026 (DLA Piper)",
-          "https://privacymatters.dlapiper.com/2026/05/uk-the-kings-speech-2026-cybersecurity-at-the-forefront/"
+          "CMA on Microsoft",
+          "https://gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software"
         ]
       ]
     },
     {
-      "title": "Tech rules are now trade issues.",
-      "text": "The US declined to renew CUSMA on July 1 and listed Canada's streaming and news laws among its concerns. Ottawa is scrapping streamers' Canadian-content payments. Washington has also threatened tariffs over the UK's digital services tax.",
+      "title": "Patch now: a critical web flaw.",
+      "text": "Canadian and US cyber agencies urged immediate patching of two critical PHP flaws, and some Canadian government sites went offline. Meanwhile, the UK cyber bill reaches Lords report stage on October 26 and the US incident-reporting rule is still at White House review.",
       "sources": [
         [
-          "CUSMA review (Blakes)",
-          "https://www.blakes.com/insights/u-s-declines-to-renew-cusma-at-first-joint-review-what-businesses-need-to-know/"
+          "Cyber Centre statement",
+          "https://www.cyber.gc.ca/en/news-events/statement-regarding-critical-vulnerabilities-php-affecting-websites-online-services"
         ],
         [
-          "Streaming reset (CP24)",
-          "https://www.cp24.com/news/canada/2026/07/29/ottawa-to-eliminate-streamers-cancon-payments-provide-government-funding-instead/"
-        ]
-      ]
-    },
-    {
-      "title": "Cyber incident reporting is arriving everywhere.",
-      "text": "Canada's critical cyber systems law passed in June. The UK's Cyber Security and Resilience Bill reaches Lords report stage on October 26. The US rule requiring critical infrastructure to report cyber incidents within 72 hours is now at final White House review.",
-      "sources": [
-        [
-          "Canada C-8",
-          "https://openparliament.ca/bills/45-1/C-8/"
+          "CISA alert",
+          "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching"
         ],
         [
-          "UK bill tracker",
+          "UK cyber bill",
           "https://bills.parliament.uk/bills/4035"
-        ],
-        [
-          "US CIRCIA at OMB review (Security.io)",
-          "https://www.security.io/articles/2026/10/05/circia-final-rule-enters-omb-review"
         ]
       ]
     }
@@ -87,11 +79,15 @@
       "CA": [
         [
           "pending",
-          "PIPEDA in force; replacement bill C-36 at second reading",
+          "PIPEDA in force; replacement bill C-36 awaiting debate; Children's Privacy Code issued Oct 2026",
           [
             [
               "Bill C-36 (openparliament.ca)",
               "https://openparliament.ca/bills/45-1/C-36/"
+            ],
+            [
+              "OPC Children's Privacy Code",
+              "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261020/"
             ]
           ]
         ],
@@ -107,7 +103,7 @@
         ],
         [
           "pending",
-          "C-34 Safe Social Media Act at second reading",
+          "C-34 Safe Social Media Act: second-reading debate began Oct 21",
           [
             [
               "Bill C-34 backgrounder",
@@ -163,7 +159,7 @@
         ],
         [
           "patchwork",
-          "State laws (CO, CA, TX); federal push to preempt them; voluntary industry safety accord",
+          "State laws (CO, CA, TX); federal push to preempt them; voluntary safety accord; FTC and state AGs using consumer law",
           [
             [
               "White House framework (Jenner)",
@@ -176,6 +172,10 @@
             [
               "White House AI accord",
               "https://www.presidency.ucsb.edu/documents/white-house-accord-super-intelligence"
+            ],
+            [
+              "State AG suits (Troutman)",
+              "https://www.troutman.com/insights/eight-state-ags-sue-openai-over-chatgpt-safety-and-consumer-protection/"
             ]
           ]
         ],
@@ -265,11 +265,15 @@
         ],
         [
           "law",
-          "DMCC Act: CMA has imposed first conduct requirements",
+          "DMCC Act: first conduct requirements on Google; Microsoft designation proposed",
           [
             [
               "CMA case page",
               "https://www.gov.uk/cma-cases/sms-investigation-into-googles-general-search-and-search-advertising-services"
+            ],
+            [
+              "CMA on Microsoft",
+              "https://gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software"
             ]
           ]
         ],
@@ -308,6 +312,16 @@
       "why": "Could change which technologies federal AI laws cover."
     },
     {
+      "when": "Nov 13",
+      "what": "CMA consultation on Microsoft's strategic market status closes",
+      "why": "Final designation decision is due by February 13, 2027."
+    },
+    {
+      "when": "Jan 20, 2027",
+      "what": "Comments close on Canada's Children's Privacy Code",
+      "why": "The OPC may revise the Code after comments."
+    },
+    {
       "when": "By early Feb 2027",
       "what": "Super Intelligence Force report on AI risks and opportunities",
       "why": "First sign of whether federal AI oversight goes beyond voluntary commitments."
@@ -323,14 +337,14 @@
       "why": "The first chance for the Lords to amend the bill before Royal Assent."
     },
     {
-      "when": "Oct 2026",
-      "what": "Ofcom age-assurance steps for the UK under-16 ban",
-      "why": "Will show how platforms are expected to check age at 16."
+      "when": "End of Oct",
+      "what": "Ofcom's rapid assessment of age checks at 16",
+      "why": "Will show which age-check methods platforms can rely on for the UK under-16 ban."
     },
     {
       "when": "Fall 2026",
       "what": "Canada Bill C-36 and C-34 at committee",
-      "why": "Committee hearings shape Canada's privacy and online safety rules."
+      "why": "C-34 second-reading debate began Oct 21; C-36 not yet debated. Committee hearings shape Canada's privacy and online safety rules."
     },
     {
       "when": "No date set",
@@ -338,17 +352,165 @@
       "why": "Replaces the scrapped streamer contribution rules."
     },
     {
-      "when": "Before Jan 2027",
-      "what": "Colorado AG rules under the rewritten AI law",
-      "why": "Will define what businesses must disclose about automated decisions."
+      "when": "Oct 26",
+      "what": "Colorado AG hearing and comment deadline on AI and chatbot rules",
+      "why": "Final rules will define disclosures for automated decisions and chatbot duties from January 2027."
     },
     {
       "when": "Next year",
       "what": "Senate action on US children's online safety",
-      "why": "The House-passed KIDS Act faces long odds; a separate Senate package is in talks."
+      "why": "Senate Commerce approved its own KOSA in August; it and the House KIDS Act still need floor votes."
     }
   ],
   "items": [
+    {
+      "id": "us-ai-enforce",
+      "date": "2026-10-14",
+      "type": "enforcement",
+      "jur": "US",
+      "topics": [
+        "ai",
+        "safety",
+        "privacy"
+      ],
+      "priority": "act",
+      "title": "FTC demands documents from OpenAI and Anthropic, and eight states sue OpenAI",
+      "what": "On October 14 the FTC sent civil investigative demands to OpenAI and Anthropic seeking records on AI safety and security incidents, safeguards, marketing and privacy policies. The same day, eight state attorneys general filed separate lawsuits against OpenAI, alleging ChatGPT was marketed as safe while harming children and vulnerable users.",
+      "why": "There is no federal AI safety law, but consumer protection, privacy and children's laws already apply. If you build or sell AI products, make sure your safety and privacy claims match what the product actually does, and document the safeguards behind them.",
+      "expert": [
+        "FTC: civil investigative demands (reported as 50+ pages each) under its unfair or deceptive practices authority; the FTC confirmed the demands to press but has not published them. Demands to other AI organizations and compelled executive testimony are reported to follow.",
+        "States: Arizona, Arkansas, Idaho, Iowa, Kansas, Montana, Nebraska and West Virginia, each in its own state court. Claims include state consumer protection laws, Montana's Consumer Data Privacy Act, Nebraska's Age-Appropriate Online Design Code Act, and Arkansas children's privacy, product liability and public nuisance claims.",
+        "Relief sought includes penalties, disgorgement, injunctions on how ChatGPT operates and limits on collecting minors' data. OpenAI disputes the allegations. Nothing has been adjudicated.",
+        "Context: FTC Chair Ferguson co-chairs the White House Super Intelligence Force, which has told AI labs to report and fix rogue model behaviour."
+      ],
+      "cite": "FTC civil investigative demands (reported Oct. 15, 2026); state AG complaints filed Oct. 14, 2026.",
+      "sources": [
+        [
+          "Axios (Oct. 15, 2026)",
+          "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation"
+        ],
+        [
+          "Troutman Pepper Locke on the state suits",
+          "https://www.troutman.com/insights/eight-state-ags-sue-openai-over-chatgpt-safety-and-consumer-protection/"
+        ],
+        [
+          "UPI",
+          "https://www.upi.com/Top_News/US/2026/10/15/states-sue-OpenAI-ChatGPT/5571792042846/"
+        ]
+      ],
+      "checked": "2026-10-22"
+    },
+    {
+      "id": "php-vuln",
+      "date": "2026-10-21",
+      "type": "guidance",
+      "jur": "CA",
+      "also": [
+        "US"
+      ],
+      "topics": [
+        "cyber"
+      ],
+      "priority": "act",
+      "title": "Critical PHP flaws: cyber agencies urge immediate patching; some Canadian government sites taken offline",
+      "what": "Two critical vulnerabilities in PHP, the programming language behind a large share of websites, could let attackers run commands without logging in. Canada's Cyber Centre and the US agency CISA urged organizations to patch at once, and some Government of Canada websites were taken offline as a precaution on October 21.",
+      "why": "If you run websites or web apps, find every system using PHP, starting with internet-facing ones, and patch or isolate them now. If personal information is exposed, breach-reporting duties under privacy law may follow.",
+      "expert": [
+        "CVE-2026-109618 and CVE-2026-109619 (Cyber Centre alert AL26-026). Fixed in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 according to vendor and security-firm reports; confirm against your software providers' advisories.",
+        "Cyber Centre advice (Oct. 21, 2026): identify PHP systems, prioritize internet-facing ones, apply updates, isolate unpatched applications from public networks, and report suspected malicious activity.",
+        "Reported as first found with AI agents in August 2026. Montreal's STM and Quebec's SAQ also took sites down as a precaution."
+      ],
+      "cite": "Canadian Centre for Cyber Security, AL26-026 and statement (Oct. 21, 2026); CISA alert (Oct. 21, 2026).",
+      "sources": [
+        [
+          "Cyber Centre statement",
+          "https://www.cyber.gc.ca/en/news-events/statement-regarding-critical-vulnerabilities-php-affecting-websites-online-services"
+        ],
+        [
+          "Cyber Centre alert AL26-026",
+          "https://www.cyber.gc.ca/en/alerts-advisories/al26-026-critical-vulnerabilities-impacting-php-cve-2026-109618-cve-2026-109619"
+        ],
+        [
+          "CISA alert",
+          "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching"
+        ],
+        [
+          "CP24 / Canadian Press",
+          "https://cp24.com/news/canada/2026/10/21/canadian-apps-and-government-websites-go-offline-to-ward-off-online-danger"
+        ]
+      ],
+      "checked": "2026-10-22"
+    },
+    {
+      "id": "ca-childcode",
+      "date": "2026-10-20",
+      "type": "guidance",
+      "jur": "CA",
+      "topics": [
+        "privacy",
+        "safety"
+      ],
+      "priority": "prepare",
+      "title": "Canada's Privacy Commissioner launches a Children's Privacy Code",
+      "what": "The federal Privacy Commissioner published Canada's first Children's Privacy Code. It expects privacy-protective defaults for children and teens, such as location tracking and third-party sharing off by default, and no profiling of children for targeted advertising. Comments are open until January 20, 2027.",
+      "why": "Canada now has written expectations close to the UK's Children's Code. If young Canadians use your service, compare your defaults and ad practices against it now.",
+      "expert": [
+        "Applies the existing PIPEDA framework (commercial activity only); the release does not say the Code is binding or give an effective date.",
+        "Parental consent under 13; opt-in for non-essential uses; no deceptive design; practical correction and deletion; no profiling for marketing or AI-driven decisions."
+      ],
+      "cite": "OPC, Children's Privacy Code (Oct. 20, 2026).",
+      "sources": [
+        [
+          "OPC news release",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261020/"
+        ],
+        [
+          "Canadian Privacy Scan (detail)",
+          "https://tonhs.github.io/Privacy-and-AI-Reg-Scan/"
+        ]
+      ],
+      "checked": "2026-10-22"
+    },
+    {
+      "id": "uk-cma-microsoft",
+      "date": "2026-10-16",
+      "type": "regulation",
+      "jur": "UK",
+      "topics": [
+        "competition",
+        "ai"
+      ],
+      "priority": "watch",
+      "title": "UK competition regulator proposes special rules for Microsoft's business software, including Copilot",
+      "what": "The CMA provisionally found that Microsoft has strategic market status in business software, from Windows and Office to Teams, Copilot, security and server products. If confirmed, the CMA could impose conduct rules. It is consulting until November 13 and must decide by February 13, 2027.",
+      "why": "Organizations that buy Microsoft products could gain more choice over AI assistants, security tools and where they run their software licences in the cloud. Rival AI and software vendors should take part in the consultation.",
+      "track": {
+        "stages": [
+          "Investigation",
+          "Proposed decision",
+          "Designation",
+          "Conduct requirements"
+        ],
+        "at": 1
+      },
+      "expert": [
+        "Digital Markets, Competition and Consumers Act 2024, Part 1. Investigation covered PC operating systems, productivity suites, security software, server operating systems and relational databases.",
+        "Indicative roadmap of possible interventions: security-product bundling, wider software bundling, interoperability for developers, fair competition with Copilot for rival AI providers, and cloud licensing terms.",
+        "Designation does not imply wrongdoing. Consultation closes 5pm, November 13, 2026; statutory deadline February 13, 2027."
+      ],
+      "cite": "CMA, proposed SMS decision: Microsoft's business software ecosystem (Oct. 16, 2026).",
+      "sources": [
+        [
+          "CMA news release",
+          "https://gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software"
+        ],
+        [
+          "CMA consultation",
+          "https://gov.uk/government/consultations/proposed-decision-sms-investigation-into-microsofts-business-software-ecosystem"
+        ]
+      ],
+      "checked": "2026-10-22"
+    },
     {
       "id": "uk-u16",
       "date": "2026-06-15",
@@ -374,7 +536,8 @@
         "Regulations to be made under powers added to the Online Safety Act 2023 by the Children's Wellbeing and Schools Act 2026.",
         "Timeline as announced: details and exemptions in July 2026, regulations by December 2026, implementation spring 2027.",
         "Also announced: romantic chatbot ban for under-18s, screen-time limits and curfews for 16–18s, restrictions on livestreaming and contact from strangers, and possible action on VPNs.",
-        "Ofcom has said age assurance at 16 should be feasible, but fewer methods exist than at 18."
+        "Ofcom has said age assurance at 16 should be feasible, but fewer methods exist than at 18.",
+        "Ofcom (industry bulletin, Oct. 15, 2026): rapid assessment of age checks at 16 due to government by end of October; Ofcom will consult on guidance once draft regulations are published. Credit card checks won't work for 16 and 17 year olds."
       ],
       "cite": "UK government announcement, June 15, 2026.",
       "sources": [
@@ -385,9 +548,13 @@
         [
           "WSGR summary",
           "https://www.wsgrdataadvisor.com/2026/06/uk-announces-social-media-ban-and-broader-online-restrictions-for-users-under-16/"
+        ],
+        [
+          "Ofcom industry bulletin (Oct. 2026)",
+          "https://www.ofcom.org.uk/online-safety/protecting-children/online-safety-industry-bulletin-october-2026"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-22"
     },
     {
       "id": "uk-osa",
@@ -405,6 +572,7 @@
       "why": "The Online Safety Act applies to services with UK users wherever they are based. Generative AI features on a platform are covered, so test what they can produce before launch.",
       "expert": [
         "X/Grok investigation opened January 12, 2026, covering illegal-content risk assessment, priority illegal content (intimate image abuse, CSAM), takedown and children's risk assessment. Maximum penalty: £18M or 10% of qualifying worldwide revenue.",
+        "Ofcom update (Oct. 14, 2026): X/Grok investigation narrowed to illegal-content and complaints and reporting duties; no provisional decision yet. Ofcom said it could not investigate image generation on the standalone Grok service because of gaps in how the Act covers chatbots; SpaceXAI (formerly xAI) has since restricted images of real people and sexual content for UK users.",
         "Largest fines to date are in the £1M range, against pornography services for failing to use highly effective age assurance.",
         "Ofcom has signalled business disruption applications (payment and advertising withdrawal) against non-compliant sites.",
         "The Crime and Policing Act 2026 extends coverage of AI chatbots."
@@ -418,9 +586,13 @@
         [
           "Linklaters roundup",
           "https://techinsights.linklaters.com/post/102n7pm/the-uks-online-safety-act-heats-up-fines-battlelines-and-even-more-regulatio"
+        ],
+        [
+          "Ofcom update on X and Grok (Oct. 14, 2026)",
+          "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/ofcom-update-monitoring-xs-response-to-hate-and-terror-content-and-grok-investigation-latest"
         ]
       ],
-      "checked": "2026-10-06"
+      "checked": "2026-10-22"
     },
     {
       "id": "uk-ofcom-meta",
@@ -450,7 +622,7 @@
           "https://www.lbc.co.uk/article/ofcom-meta-online-safety-act-5HjdjSQ_2/"
         ]
       ],
-      "checked": "2026-10-06"
+      "checked": "2026-10-22"
     },
     {
       "id": "uk-cma",
@@ -561,7 +733,7 @@
           "https://privacymatters.dlapiper.com/2026/05/uk-the-kings-speech-2026-cybersecurity-at-the-forefront/"
         ]
       ],
-      "checked": "2026-10-06",
+      "checked": "2026-10-22",
       "dateText": "Sept 2026"
     },
     {
@@ -601,12 +773,13 @@
       ],
       "priority": "watch",
       "title": "White House turns to voluntary AI safety: an industry accord and a new \"Super Intelligence\" task force",
-      "what": "On September 29, six leading AI developers, including OpenAI, Anthropic, Google, Meta, xAI and Nvidia, signed a White House accord committing to internal safety controls, outside audits and board oversight of their most advanced models. The same day, an executive order told federal agencies to call AI \"super intelligence\". On October 4 the President announced a federal \"Super Intelligence Force\" to coordinate the government's response to AI risks.",
+      "what": "On September 29, six leading AI developers, including OpenAI, Anthropic, Google, Meta, xAI and Nvidia, signed a White House accord committing to internal safety controls, outside audits and board oversight of their most advanced models. The same day, an executive order told federal agencies to call AI \"super intelligence\". On October 4 the President announced a federal \"Super Intelligence Force\" to coordinate the government's response to AI risks. The task force held its first meeting on October 15, adopted a charter and told AI companies to report and fix rogue model behaviour; no new rules were announced.",
       "why": "There is still no binding federal AI safety law. The accord has no penalties and findings go to company boards, not regulators or the public. If you buy or build on frontier models, ask vendors what they have committed to, but keep planning around state laws, which still apply.",
       "expert": [
         "White House Accord on Super Intelligence (Sept. 29, 2026): four layers: (1) internal controls monitoring model capabilities and alignment in areas such as cybersecurity and biosecurity; (2) an empowered internal oversight team; (3) an independent external auditor or evaluator, chosen by the company; (4) an independent board committee receiving reports. Says it may make sense over time to codify these steps in law.",
         "E.O. 14434, Inaugurating the Era of Super Intelligence (signed Sept. 29, 2026; 91 Fed. Reg. 63129, Oct. 2, 2026): agencies to use \"Super Intelligence (SI)\" in place of \"AI\" in official communications; within 60 days the Assistant to the President for Science and Technology proposes legislative language for a federal SI definition (current reference: 15 U.S.C. § 9401(3)).",
         "Super Intelligence Force (announced Oct. 4, 2026): chaired by the Director of National Intelligence, with the FTC Chair among vice chairs; charter mandates plans for responding to SI-enabled threats while preventing overregulation; report due within 120 days.",
+        "First Super Intelligence Force meeting (Oct. 15, 2026): charter adopted, starting a 120-day review; subcommittees created; risk report commissioned from the President's science advisers (cybersecurity, biosecurity, model control). AI labs told to follow a \"notification and remediation process\" for rogue behaviour; whether it is mandatory, and any penalties, are unclear.",
         "Builds on the June 2, 2026 order \"Promoting Advanced Artificial Intelligence Innovation and Security\": voluntary government access to frontier models up to 30 days before release, classified cyber-capability benchmarks (Treasury, NSA, CISA) and an AI cybersecurity clearinghouse; expressly no licensing or pre-clearance requirement.",
         "Separate from the preemption push under E.O. 14365; the Vice President has rejected FDA- or FAA-style AI regulation."
       ],
@@ -631,9 +804,13 @@
         [
           "Latham & Watkins on the June order",
           "https://www.lw.com/en/insights/president-trump-signs-executive-order-establishing-ai-cybersecurity-and-frontier-model-framework"
+        ],
+        [
+          "The Next Web on first meeting",
+          "https://thenextweb.com/news/super-intelligence-force-charter-first-meeting-anthropic"
         ]
       ],
-      "checked": "2026-10-06"
+      "checked": "2026-10-22"
     },
     {
       "id": "us-preempt",
@@ -667,7 +844,7 @@
           "https://www.bakerlaw.com/insights/navigating-the-emerging-federal-state-ai-showdown-doj-establishes-ai-litigation-task-force/"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-22"
     },
     {
       "id": "us-colorado",
@@ -695,7 +872,8 @@
       "expert": [
         "SB 26-189 repeals and replaces SB 24-205; passed May 2026 and signed by Governor Polis.",
         "Focus on \"automated decision-making technology\" in consequential decisions: pre-use disclosure, post-adverse-decision explanation, correction rights, human review on request; three-year record retention.",
-        "Attorney General enforcement under the Colorado Consumer Protection Act; no private right of action; 60-day cure period until January 1, 2030; mandatory AG rulemaking by January 1, 2027."
+        "Attorney General enforcement under the Colorado Consumer Protection Act; no private right of action; 60-day cure period until January 1, 2030; mandatory AG rulemaking by January 1, 2027.",
+        "AG revised interim draft rules (early Oct. 2026) for SB 26-189 and the Chatbot Safety Act (HB 26-1263); public hearing and written comment deadline October 26, 2026. Both laws take effect January 1, 2027."
       ],
       "cite": "Colorado SB 26-189.",
       "sources": [
@@ -706,9 +884,13 @@
         [
           "Venable",
           "https://www.venable.com/insights/publications/2026/07/colorados-sb26189-sets-new-rules-for-ai"
+        ],
+        [
+          "Morrison Foerster (Oct. 14, 2026)",
+          "https://www.mofo.com/resources/insights/261014-colorados-new-rules"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-22"
     },
     {
       "id": "us-ca-2026",
@@ -836,7 +1018,8 @@
       "expert": [
         "H.R. 7757. House KOSA replaces the Senate's duty of care with a duty to maintain \"reasonable policies\" on listed harms.",
         "Age verification only for sites with more than one-third material harmful to minors (SCREEN Act); KOSA and COPPA 2.0 components exclude age-gating mandates.",
-        "Revised text does not preempt more protective state laws. The White House is working with Sen. Blackburn on a separate Senate package."
+        "Revised text does not preempt more protective state laws. The White House is working with Sen. Blackburn on a separate Senate package.",
+        "Senate Commerce Committee approved its own KOSA, with a duty of care, by voice vote on August 5, 2026. No Senate floor vote yet."
       ],
       "cite": "Kids Internet and Digital Safety Act, H.R. 7757 (119th Cong.), passed House June 29, 2026.",
       "sources": [
@@ -847,9 +1030,13 @@
         [
           "IAPP on scope",
           "https://iapp.org/news/a/unpacking-the-scope-of-the-kids-act"
+        ],
+        [
+          "Sen. Blackburn release (Aug. 5, 2026)",
+          "https://www.blackburn.senate.gov/2026/8/blackburn-blumenthal-celebrate-commerce-committee-passage-of-bipartisan-kids-online-safety-act"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-22"
     },
     {
       "id": "us-coppa",
@@ -937,7 +1124,7 @@
           "https://www.cov.com/-/media/files/corporate/publications/2026/09/cisa-town-halls-signal-key-cyber-rule-changes-ahead.pdf"
         ]
       ],
-      "checked": "2026-10-06"
+      "checked": "2026-10-22"
     },
     {
       "id": "cusma",
@@ -970,7 +1157,7 @@
           "https://www.mpamag.com/ca/news/general/cusma-deadline-now-in-doubt-as-july-1-looms/571211"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-22"
     },
     {
       "id": "ca-streaming",
@@ -1005,7 +1192,7 @@
           "https://www.everycrsreport.com/files/2026-07-23_IN12716_1b3d55784138785dd6e8f61dd7b211036ab7d33a.html"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-22"
     },
     {
       "id": "ca-c36",
@@ -1018,7 +1205,7 @@
       ],
       "priority": "prepare",
       "title": "Canada's Bill C-36 would replace PIPEDA with a tougher privacy law",
-      "what": "The Protecting Privacy and Consumer Data Act would replace the privacy part of PIPEDA. It is at second reading in the House of Commons.",
+      "what": "The Protecting Privacy and Consumer Data Act would replace the privacy part of PIPEDA. It was introduced in June; second-reading debate has not begun.",
       "why": "If it passes, penalties could reach $10 million or 3% of worldwide revenue, and people could sue after a regulator finding. Start mapping personal data, especially data sent outside Canada.",
       "track": {
         "stages": [
@@ -1048,7 +1235,7 @@
           "https://tonhs.github.io/Privacy-and-AI-Reg-Scan/"
         ]
       ],
-      "checked": "2026-10-06"
+      "checked": "2026-10-22"
     },
     {
       "id": "ca-c34",
@@ -1077,7 +1264,8 @@
       "expert": [
         "Part 1 enacts the Digital Safety Act; Part 2 creates the Digital Safety Commission of Canada with audit, order and penalty powers.",
         "Covers social media and chatbot services; duties include removing CSAM and non-consensual intimate content, and synthetic content labelling.",
-        "Accredited researcher access to platform data through a regulator-supervised process."
+        "Accredited researcher access to platform data through a regulator-supervised process.",
+        "Second-reading debate began October 21, 2026 (Minister Marc Miller)."
       ],
       "cite": "Bill C-34, 45th Parl., 1st Sess. Introduced June 10, 2026.",
       "sources": [
@@ -1090,7 +1278,7 @@
           "https://openparliament.ca/bills/45-1/C-34/"
         ]
       ],
-      "checked": "2026-10-06"
+      "checked": "2026-10-22"
     },
     {
       "id": "ca-c22",
@@ -1131,7 +1319,7 @@
           "https://openparliament.ca/bills/45-1/C-22/"
         ]
       ],
-      "checked": "2026-10-06"
+      "checked": "2026-10-22"
     },
     {
       "id": "ca-c8",
@@ -1254,7 +1442,7 @@
           "https://www.csis.org/analysis/us-uk-trade-and-tech-agreements-update-after-state-visit"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-22"
     },
     {
       "id": "uk-kings",
