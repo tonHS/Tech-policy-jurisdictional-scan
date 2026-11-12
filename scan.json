@@ -1,67 +1,63 @@
 {
-  "asOf": "2026-10-22",
+  "asOf": "2026-11-12",
   "brief": [
     {
-      "title": "AI companies are being held to existing law.",
-      "text": "Without an AI statute, US regulators are using consumer law: the FTC sent demands to OpenAI and Anthropic, and eight states sued OpenAI over harms to kids. Ofcom is pursuing X over Grok, and Canadian regulators found OpenAI broke privacy law in May.",
+      "title": "A new US Congress changes the odds.",
+      "text": "Democrats are projected to win both houses in the November 3 midterms. Expect more AI oversight hearings and pushes on privacy and kids' safety, and less chance of Congress overriding state AI laws. Any bill still faces a veto and the Senate filibuster.",
       "sources": [
         [
-          "FTC demands (Axios)",
-          "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation"
+          "IAPP",
+          "https://iapp.org/news/a/democratic-midterm-wins-set-stage-for-tougher-tech-and-ai-scrutiny"
         ],
         [
-          "State suits (Troutman)",
-          "https://www.troutman.com/insights/eight-state-ags-sue-openai-over-chatgpt-safety-and-consumer-protection/"
-        ],
-        [
-          "Ofcom on Grok",
-          "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/ofcom-update-monitoring-xs-response-to-hate-and-terror-content-and-grok-investigation-latest"
+          "Foley & Lardner",
+          "https://www.foley.com/insights/publications/2026/11/blue-wave-new-ai-rules-what-democratic-control-of-congress-means-for-ai-regulation/"
         ]
       ]
     },
     {
-      "title": "Children's rules keep multiplying.",
-      "text": "Canada's Privacy Commissioner issued a Children's Privacy Code, and Canada's under-16 social media bill reached second-reading debate. The UK ban on under-16s starts in spring 2027, and Colorado's chatbot rules take effect in January.",
+      "title": "UK online safety enforcement gets firmer footing.",
+      "text": "The High Court upheld Ofcom's data demands on Meta, X and TikTok, and Ofcom named four age-check methods it thinks can work at 16 ahead of the spring 2027 under-16 ban.",
       "sources": [
         [
-          "OPC Children's Privacy Code",
-          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261020/"
+          "High Court press summary",
+          "https://www.judiciary.uk/wp-content/uploads/2026/10/R-Meta-X-TikTok-v-OFCOM-press-summary.pdf"
         ],
         [
-          "Canada Bill C-34",
-          "https://openparliament.ca/bills/45-1/C-34/"
-        ],
-        [
-          "UK under-16 ban (A&O Shearman)",
-          "https://www.aoshearman.com/en/insights/ao-shearman-on-data/uk-government-announces-social-media-ban-and-other-measures-to-protect-children-online"
+          "Ofcom age checks at 16",
+          "https://www.ofcom.org.uk/online-safety/protecting-children/rapid-assessment-of-highly-effective-age-assurance-at-16"
         ]
       ]
     },
     {
-      "title": "UK competition rules reach Microsoft and AI assistants.",
-      "text": "The CMA proposes special status for Microsoft's business software, with possible rules on bundling, Copilot and cloud licensing. A decision is due by February.",
+      "title": "Canada moves its online safety bill and funds a regulator.",
+      "text": "Bill C-34 went to committee on October 29, and Budget 2026 funds the commission that would enforce it and C-36. Canada also signed a voluntary declaration on sharing early warnings of serious AI incidents.",
       "sources": [
         [
-          "CMA on Microsoft",
-          "https://gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software"
+          "LEGISinfo: C-34",
+          "https://www.parl.ca/legisinfo/en/bill/45-1/c-34"
+        ],
+        [
+          "Budget 2026 in brief",
+          "https://budget.canada.ca/2026/report-rapport/pdf/budget-2026-in-brief.pdf"
+        ],
+        [
+          "BetaKit",
+          "https://betakit.com/?p=412048"
         ]
       ]
     },
     {
-      "title": "Patch now: a critical web flaw.",
-      "text": "Canadian and US cyber agencies urged immediate patching of two critical PHP flaws, and some Canadian government sites went offline. Meanwhile, the UK cyber bill reaches Lords report stage on October 26 and the US incident-reporting rule is still at White House review.",
+      "title": "Cyber rules are close but not final.",
+      "text": "The UK cyber bill has finished its Lords stages and goes back to MPs for the Lords' amendments. The US incident-reporting rule is still at White House review.",
       "sources": [
         [
-          "Cyber Centre statement",
-          "https://www.cyber.gc.ca/en/news-events/statement-regarding-critical-vulnerabilities-php-affecting-websites-online-services"
+          "UK Parliament: CSR Bill",
+          "https://bills.parliament.uk/bills/4035/stages"
         ],
         [
-          "CISA alert",
-          "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching"
-        ],
-        [
-          "UK cyber bill",
-          "https://bills.parliament.uk/bills/4035"
+          "HIPAA Journal on CIRCIA",
+          "https://www.hipaajournal.com/cisa-circia-final-rule-white-house-review/"
         ]
       ]
     }
@@ -103,8 +99,12 @@
         ],
         [
           "pending",
-          "C-34 Safe Social Media Act: second-reading debate began Oct 21",
+          "C-34 Safe Social Media Act: at House committee since Oct 29",
           [
+            [
+              "LEGISinfo: C-34",
+              "https://www.parl.ca/legisinfo/en/bill/45-1/c-34"
+            ],
             [
               "Bill C-34 backgrounder",
               "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html"
@@ -159,7 +159,7 @@
         ],
         [
           "patchwork",
-          "State laws (CO, CA, TX); federal push to preempt them; voluntary safety accord; FTC and state AGs using consumer law",
+          "State laws (CO, CA, TX); federal preemption push now less likely after Democrats' midterm wins; voluntary safety accord; FTC and state AGs using consumer law",
           [
             [
               "White House framework (Jenner)",
@@ -176,6 +176,10 @@
             [
               "State AG suits (Troutman)",
               "https://www.troutman.com/insights/eight-state-ags-sue-openai-over-chatgpt-safety-and-consumer-protection/"
+            ],
+            [
+              "IAPP on midterms",
+              "https://iapp.org/news/a/democratic-midterm-wins-set-stage-for-tougher-tech-and-ai-scrutiny"
             ]
           ]
         ],
@@ -251,7 +255,7 @@
         ],
         [
           "law",
-          "Online Safety Act enforced; under-16 ban coming 2027",
+          "Online Safety Act enforced (court upheld Ofcom data powers Oct 30); under-16 ban coming 2027",
           [
             [
               "Ofcom",
@@ -260,6 +264,10 @@
             [
               "Under-16 ban (A&O Shearman)",
               "https://www.aoshearman.com/en/insights/ao-shearman-on-data/uk-government-announces-social-media-ban-and-other-measures-to-protect-children-online"
+            ],
+            [
+              "High Court press summary",
+              "https://www.judiciary.uk/wp-content/uploads/2026/10/R-Meta-X-TikTok-v-OFCOM-press-summary.pdf"
             ]
           ]
         ],
@@ -279,10 +287,10 @@
         ],
         [
           "pending",
-          "Cyber Security and Resilience Bill at Lords report stage (Oct 26)",
+          "Cyber Security and Resilience Bill: Lords stages done; Commons to consider Lords amendments",
           [
             [
-              "UK Parliament",
+              "UK Parliament: bill stages",
               "https://bills.parliament.uk/bills/4035/stages"
             ]
           ]
@@ -302,12 +310,22 @@
   },
   "watch": [
     {
+      "when": "Date TBA",
+      "what": "UK Cyber Security and Resilience Bill: Commons considers Lords amendments",
+      "why": "The last step before Royal Assent; then commencement regulations set when duties start."
+    },
+    {
+      "when": "By Jan 1, 2027",
+      "what": "Colorado AG final AI and chatbot rules",
+      "why": "Will define disclosures for automated decisions and chatbot duties that start January 1, 2027."
+    },
+    {
       "when": "Ongoing",
       "what": "Ofcom's investigation into Meta's Instagram Instants feature",
       "why": "Will show how Ofcom treats risk assessments for new features on large platforms."
     },
     {
-      "when": "By late Nov",
+      "when": "By about Nov 28",
       "what": "White House proposal for a legal definition of \"super intelligence\"",
       "why": "Could change which technologies federal AI laws cover."
     },
@@ -322,7 +340,7 @@
       "why": "The OPC may revise the Code after comments."
     },
     {
-      "when": "By early Feb 2027",
+      "when": "By about Nov 28",
       "what": "Super Intelligence Force report on AI risks and opportunities",
       "why": "First sign of whether federal AI oversight goes beyond voluntary commitments."
     },
@@ -332,19 +350,9 @@
       "why": "Sets 72-hour incident and 24-hour ransom-payment reporting for critical infrastructure."
     },
     {
-      "when": "Oct 26",
-      "what": "UK Cyber Security and Resilience Bill: Lords report stage",
-      "why": "The first chance for the Lords to amend the bill before Royal Assent."
-    },
-    {
-      "when": "End of Oct",
-      "what": "Ofcom's rapid assessment of age checks at 16",
-      "why": "Will show which age-check methods platforms can rely on for the UK under-16 ban."
-    },
-    {
       "when": "Fall 2026",
-      "what": "Canada Bill C-36 and C-34 at committee",
-      "why": "C-34 second-reading debate began Oct 21; C-36 not yet debated. Committee hearings shape Canada's privacy and online safety rules."
+      "what": "Canada Bill C-34 committee hearings; C-36 second reading",
+      "why": "C-34 was referred to committee Oct 29 and briefs are open; C-36 not yet debated. Committee hearings shape Canada's online safety and privacy rules."
     },
     {
       "when": "No date set",
@@ -352,17 +360,118 @@
       "why": "Replaces the scrapped streamer contribution rules."
     },
     {
-      "when": "Oct 26",
-      "what": "Colorado AG hearing and comment deadline on AI and chatbot rules",
-      "why": "Final rules will define disclosures for automated decisions and chatbot duties from January 2027."
+      "when": "Lame duck / 2027",
+      "what": "Senate action on US children's online safety",
+      "why": "Senate KOSA and the House KIDS Act still need floor votes; unpassed bills die when the new Congress starts in January."
     },
     {
-      "when": "Next year",
-      "what": "Senate action on US children's online safety",
-      "why": "Senate Commerce approved its own KOSA in August; it and the House KIDS Act still need floor votes."
+      "when": "Jan 2027",
+      "what": "New US Congress sits",
+      "why": "First sign of the Democratic agenda on AI oversight, privacy and kids' online safety."
     }
   ],
   "items": [
+    {
+      "id": "us-midterms",
+      "date": "2026-11-03",
+      "type": "announcement",
+      "jur": "US",
+      "topics": [
+        "ai",
+        "privacy",
+        "safety"
+      ],
+      "priority": "context",
+      "title": "Democrats are projected to win both houses of Congress, raising the odds of tech oversight",
+      "what": "In the November 3 midterms, Democrats were projected to win control of the House and Senate, though some races were still uncalled in early counts. AI and data centres were a notable campaign issue. The new Congress sits from January 2027.",
+      "why": "Expect more hearings on AI companies and renewed pushes on federal privacy and children's online safety. Federal preemption of state AI laws becomes less likely. Any new law still needs the President's signature and, in most cases, 60 Senate votes, so state laws will keep doing most of the work.",
+      "expert": [
+        "Seat totals were not final in early reporting; check final results before relying on margins.",
+        "The White House's March 2026 legislative framework (preemption of burdensome state AI laws) will lack a friendly Congress; the DOJ AI Litigation Task Force route under the Dec. 2025 executive order is unaffected.",
+        "Pending bills (KIDS Act, Senate KOSA) die at the end of the current Congress unless passed in the lame-duck session."
+      ],
+      "cite": "2026 US midterm elections, Nov. 3, 2026.",
+      "sources": [
+        [
+          "IAPP",
+          "https://iapp.org/news/a/democratic-midterm-wins-set-stage-for-tougher-tech-and-ai-scrutiny"
+        ],
+        [
+          "TIME",
+          "https://time.com/article/2026/11/04/midterm-elections-results-ai-industry-data-centers/"
+        ],
+        [
+          "Foley & Lardner",
+          "https://www.foley.com/insights/publications/2026/11/blue-wave-new-ai-rules-what-democratic-control-of-congress-means-for-ai-regulation/"
+        ]
+      ],
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "uk-ofcom-court",
+      "date": "2026-10-30",
+      "type": "enforcement",
+      "jur": "UK",
+      "topics": [
+        "safety"
+      ],
+      "priority": "act",
+      "title": "UK High Court backs Ofcom's power to demand data from Meta, X and TikTok",
+      "what": "In the first court test of Ofcom's information powers under the Online Safety Act, the High Court rejected challenges by Meta, X and TikTok to notices demanding data on platform activity and content moderation.",
+      "why": "Ofcom's information requests are hard to resist. If you run a regulated service in the UK, treat information notices as binding and plan for the cost of answering them.",
+      "expert": [
+        "R (Meta, X and TikTok) v Ofcom, judgment handed down Oct. 30, 2026 (Singh LJ and Collins Rice J). Notices issued Feb. 10, 2026 under s. 100 OSA 2023.",
+        "The court accepted the notices engaged Article 8 ECHR but held the interference proportionate. The ruling covers these notices, not the Act as a whole.",
+        "Meta said it was disappointed; no appeal reported as of Nov. 12. A separate Meta challenge to how Ofcom calculates OSA fees is ongoing."
+      ],
+      "cite": "R (Meta Platforms, X Corp and TikTok) v Ofcom [High Court, Oct. 30, 2026].",
+      "sources": [
+        [
+          "Judiciary: press summary (PDF)",
+          "https://www.judiciary.uk/wp-content/uploads/2026/10/R-Meta-X-TikTok-v-OFCOM-press-summary.pdf"
+        ],
+        [
+          "Judgment (PDF)",
+          "https://www.judiciary.uk/wp-content/uploads/2026/10/R-Meta-X-TikTok-v-OFCOM-FINAL-jdgmnt-for-30-October.pdf"
+        ],
+        [
+          "Courthouse News",
+          "https://www.courthousenews.com/meta-x-and-tiktok-lose-challenge-to-uk-online-safety-regulator/"
+        ]
+      ],
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "ca-budget",
+      "date": "2026-11-05",
+      "type": "announcement",
+      "jur": "CA",
+      "topics": [
+        "privacy",
+        "safety",
+        "ai"
+      ],
+      "priority": "context",
+      "title": "Canada's Budget 2026 funds a new digital safety and data protection regulator",
+      "what": "The federal budget sets aside about $176 million over five years for the Digital Safety and Data Protection Commission, which would enforce Bill C-34 and take over private-sector privacy enforcement under Bill C-36. It also proposes a national anti-fraud strategy and tougher anti-fraud duties for telecoms.",
+      "why": "Funding signals the government intends to pass C-34 and C-36, but neither is law and most budget measures still need legislation. Nothing changes for businesses yet.",
+      "expert": [
+        "$176.3M over five years from 2026–27, then $29.3M per year ongoing (one news report gives $176.6M).",
+        "Anti-fraud measures bring banks, telecoms and digital platforms into a National Anti-Fraud Strategy; implementing details not yet published."
+      ],
+      "cite": "Budget 2026, tabled Nov. 5, 2026.",
+      "sources": [
+        [
+          "Budget 2026 in brief (PDF)",
+          "https://budget.canada.ca/2026/report-rapport/pdf/budget-2026-in-brief.pdf"
+        ],
+        [
+          "Gowling WLG",
+          "https://gowlingwlg.com/en-ca/insights-resources/articles/2026/investing-in-intelligence"
+        ]
+      ],
+      "checked": "2026-11-12"
+    },
     {
       "id": "us-ai-enforce",
       "date": "2026-10-14",
@@ -509,7 +618,7 @@
           "https://gov.uk/government/consultations/proposed-decision-sms-investigation-into-microsofts-business-software-ecosystem"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "uk-u16",
@@ -522,7 +631,7 @@
       "priority": "prepare",
       "title": "UK will ban under-16s from social media, starting spring 2027",
       "what": "The UK government announced it will stop under-16s from holding accounts on social media platforms where users post content and algorithms drive feeds. Messaging services are excluded. Ofcom will enforce it.",
-      "why": "If your service lets people post and interact in the UK, check whether it falls in scope and plan for age checks at 16. Other measures were announced too, including a ban on romantic AI chatbots for under-18s.",
+      "why": "If your service lets people post and interact in the UK, check whether it falls in scope and plan for age checks at 16. Ofcom has now named the age-check methods it thinks can work at 16. Other measures were announced too, including a ban on romantic AI chatbots for under-18s.",
       "track": {
         "stages": [
           "Announced",
@@ -537,7 +646,7 @@
         "Timeline as announced: details and exemptions in July 2026, regulations by December 2026, implementation spring 2027.",
         "Also announced: romantic chatbot ban for under-18s, screen-time limits and curfews for 16–18s, restrictions on livestreaming and contact from strangers, and possible action on VPNs.",
         "Ofcom has said age assurance at 16 should be feasible, but fewer methods exist than at 18.",
-        "Ofcom (industry bulletin, Oct. 15, 2026): rapid assessment of age checks at 16 due to government by end of October; Ofcom will consult on guidance once draft regulations are published. Credit card checks won't work for 16 and 17 year olds."
+        "Ofcom rapid assessment (Oct. 29, 2026): four methods can be highly effective at 16 — photo ID matching, banking information, digital identity services and facial age estimation. Credit card, mobile network and email-based checks work at 18 but not at 16; self-declaration and parental consent are not effective. No method is bypass-proof. Ofcom will consult on guidance once draft regulations are published."
       ],
       "cite": "UK government announcement, June 15, 2026.",
       "sources": [
@@ -552,9 +661,13 @@
         [
           "Ofcom industry bulletin (Oct. 2026)",
           "https://www.ofcom.org.uk/online-safety/protecting-children/online-safety-industry-bulletin-october-2026"
+        ],
+        [
+          "Ofcom: rapid assessment of age assurance at 16",
+          "https://www.ofcom.org.uk/online-safety/protecting-children/rapid-assessment-of-highly-effective-age-assurance-at-16"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "uk-osa",
@@ -592,7 +705,7 @@
           "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/ofcom-update-monitoring-xs-response-to-hate-and-terror-content-and-grok-investigation-latest"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "uk-ofcom-meta",
@@ -696,15 +809,15 @@
     },
     {
       "id": "uk-csr",
-      "date": "2026-09-01",
+      "date": "2026-11-02",
       "type": "legislation",
       "jur": "UK",
       "topics": [
         "cyber"
       ],
       "priority": "prepare",
-      "title": "UK Cyber Security and Resilience Bill heads to Lords report stage on October 26",
-      "what": "This bill updates the UK's cyber rules for essential services. It brings managed IT service providers and key suppliers into scope and requires faster reporting of cyber incidents.",
+      "title": "UK Cyber Security and Resilience Bill finishes its Lords stages and returns to the Commons",
+      "what": "This bill updates the UK's cyber rules for essential services. It brings managed IT service providers and key suppliers into scope and requires faster reporting of cyber incidents. The Lords debated amendments at report stage on October 26, with third reading listed for November 2. MPs must now consider the Lords' changes before Royal Assent.",
       "why": "If you provide IT services to UK essential services, such as health, energy, water or transport, you may soon be directly regulated. Expect new reporting duties and contract terms from customers.",
       "track": {
         "stages": [
@@ -713,28 +826,32 @@
           "Lords committee",
           "Lords report",
           "Lords 3rd rdg",
+          "Lords amendments",
           "Royal Assent"
         ],
-        "at": 2
+        "at": 5
       },
       "expert": [
         "Amends the Network and Information Systems Regulations 2018.",
         "Extends scope to managed service providers and \"designated critical suppliers\"; tighter incident reporting (initial notice within 24 hours, full report within 72 hours).",
-        "Carried over into the 2026–27 session (King's Speech, May 13, 2026). Lords committee stage from September 1, 2026; report stage scheduled for October 26, 2026 (provisional), the first chance for the Lords to vote amendments into the bill."
+        "Carried over into the 2026–27 session (King's Speech, May 13, 2026). Lords committee from September 1; report stage October 26 (debate included judicial oversight of vendor-related restrictions); third reading listed for November 2, 2026. Commons consideration of Lords amendments: date to be announced. Commentary reports Lords changes to the incident definition and near-miss reporting; confirm against the amended bill text before relying on them."
       ],
       "cite": "Cyber Security and Resilience (Network and Information Systems) Bill (DSIT).",
       "sources": [
         [
-          "UK Parliament bill page",
-          "https://bills.parliament.uk/bills/4035"
+          "UK Parliament: bill stages",
+          "https://bills.parliament.uk/bills/4035/stages"
+        ],
+        [
+          "Hansard: Lords report stage (Oct. 26)",
+          "https://hansard.parliament.uk/Lords/2026-10-26/debates/B413EFAE-E7D4-4742-986D-092884E0D8D1/CyberSecurityAndResilience(NetworkAndInformationSystems)Bill"
         ],
         [
           "DLA Piper on King's Speech",
           "https://privacymatters.dlapiper.com/2026/05/uk-the-kings-speech-2026-cybersecurity-at-the-forefront/"
         ]
       ],
-      "checked": "2026-10-22",
-      "dateText": "Sept 2026"
+      "checked": "2026-11-12"
     },
     {
       "id": "uk-copyright",
@@ -810,7 +927,7 @@
           "https://thenextweb.com/news/super-intelligence-force-charter-first-meeting-anthropic"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "us-preempt",
@@ -844,7 +961,7 @@
           "https://www.bakerlaw.com/insights/navigating-the-emerging-federal-state-ai-showdown-doj-establishes-ai-litigation-task-force/"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "us-colorado",
@@ -873,7 +990,7 @@
         "SB 26-189 repeals and replaces SB 24-205; passed May 2026 and signed by Governor Polis.",
         "Focus on \"automated decision-making technology\" in consequential decisions: pre-use disclosure, post-adverse-decision explanation, correction rights, human review on request; three-year record retention.",
         "Attorney General enforcement under the Colorado Consumer Protection Act; no private right of action; 60-day cure period until January 1, 2030; mandatory AG rulemaking by January 1, 2027.",
-        "AG revised interim draft rules (early Oct. 2026) for SB 26-189 and the Chatbot Safety Act (HB 26-1263); public hearing and written comment deadline October 26, 2026. Both laws take effect January 1, 2027."
+        "AG revised interim draft rules (early Oct. 2026) for SB 26-189 and the Chatbot Safety Act (HB 26-1263) (4 CCR 904-6); public hearing and comment deadline October 26, 2026. As of Nov. 12 the AG had not published final rules. Both laws take effect January 1, 2027."
       ],
       "cite": "Colorado SB 26-189.",
       "sources": [
@@ -890,7 +1007,7 @@
           "https://www.mofo.com/resources/insights/261014-colorados-new-rules"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "us-ca-2026",
@@ -1036,7 +1153,7 @@
           "https://www.blackburn.senate.gov/2026/8/blackburn-blumenthal-celebrate-commerce-committee-passage-of-bipartisan-kids-online-safety-act"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "us-coppa",
@@ -1106,7 +1223,7 @@
       "why": "If you operate in a US critical infrastructure sector, map out who would report and how, now. Publication is expected before the end of 2026, and the 72-hour window will be hard to meet without a plan.",
       "expert": [
         "Cyber Incident Reporting for Critical Infrastructure Act of 2022 (CIRCIA); NPRM April 2024 with sector- and size-based coverage criteria.",
-        "OIRA recorded receipt of the final rule (RIN 1670-AA04) on October 1, 2026. The final text, covered-entity test and effective date are not public until it is published.",
+        "OIRA recorded receipt of the final rule (RIN 1670-AA04) on October 1, 2026, and still listed it as pending in early November. The final text, covered-entity test and effective date are not public until it is published.",
         "CISA has signalled possible clarifications to the covered-entity and incident definitions and narrower report content, but no firm commitment to harmonize with SEC and other regimes. Treat the 72-hour and 24-hour clocks as planning assumptions until the final text is out."
       ],
       "cite": "6 U.S.C. § 681 et seq. (CIRCIA).",
@@ -1124,7 +1241,7 @@
           "https://www.cov.com/-/media/files/corporate/publications/2026/09/cisa-town-halls-signal-key-cyber-rule-changes-ahead.pdf"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "cusma",
@@ -1235,7 +1352,7 @@
           "https://tonhs.github.io/Privacy-and-AI-Reg-Scan/"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "ca-c34",
@@ -1247,8 +1364,8 @@
         "ai"
       ],
       "priority": "watch",
-      "title": "Canada's Bill C-34 would restrict under-16 accounts and regulate AI chatbots",
-      "what": "The Safe Social Media Act would impose safety duties on social media and AI chatbot services, including an under-16 account restriction, AI content labelling and digital safety plans. A new Digital Safety Commission would enforce it.",
+      "title": "Canada's Bill C-34 is at committee: under-16 account limits and AI chatbot duties",
+      "what": "The Safe Social Media Act would impose safety duties on social media and AI chatbot services, including an under-16 account restriction, AI content labelling and digital safety plans. A new Digital Safety Commission would enforce it. It passed second reading on October 29 and is now before the House Canadian Heritage committee.",
       "why": "Compared with the UK, Canada's under-16 rule is less absolute, since the regulator can exempt services with enough safeguards. Platforms serving both countries should plan for both.",
       "track": {
         "stages": [
@@ -1259,26 +1376,30 @@
           "Senate",
           "Royal Assent"
         ],
-        "at": 1
+        "at": 2
       },
       "expert": [
         "Part 1 enacts the Digital Safety Act; Part 2 creates the Digital Safety Commission of Canada with audit, order and penalty powers.",
         "Covers social media and chatbot services; duties include removing CSAM and non-consensual intimate content, and synthetic content labelling.",
         "Accredited researcher access to platform data through a regulator-supervised process.",
-        "Second-reading debate began October 21, 2026 (Minister Marc Miller)."
+        "Second-reading debate began October 21, 2026 (Minister Marc Miller); second reading agreed to October 29 and the bill was referred to the Standing Committee on Canadian Heritage (CHPC). No hearings held as of Nov. 12; CHPC accepts written briefs (max. 2,000 words)."
       ],
       "cite": "Bill C-34, 45th Parl., 1st Sess. Introduced June 10, 2026.",
       "sources": [
         [
-          "Government backgrounder",
-          "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html"
+          "LEGISinfo: Bill C-34",
+          "https://www.parl.ca/legisinfo/en/bill/45-1/c-34"
         ],
         [
-          "openparliament.ca",
-          "https://openparliament.ca/bills/45-1/C-34/"
+          "CHPC study page",
+          "https://www.ourcommons.ca/Committees/en/CHPC/StudyActivity?studyActivityId=13668976"
+        ],
+        [
+          "Government backgrounder",
+          "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "ca-c22",
@@ -1290,9 +1411,9 @@
         "privacy"
       ],
       "priority": "watch",
-      "title": "Canada's lawful access bill C-22 is in the Senate",
-      "what": "The bill would make it easier for police and intelligence to get subscriber information from online service providers and would require providers to be able to help with authorized access. It has passed the House.",
-      "why": "Internet, messaging and hosting providers could face new obligations, including keeping metadata. The Privacy Commissioner wants it narrowed and encryption protected.",
+      "title": "Canada's lawful access bill C-22 is before a Senate committee",
+      "what": "The bill would make it easier for police and intelligence to get subscriber information from online service providers and would require providers to be able to help with authorized access. It has passed the House and is being studied by the Senate national security committee.",
+      "why": "Internet, messaging and hosting providers could face new obligations, including keeping metadata. In early November the Privacy Commissioner told senators it still needs to be narrowed, so Senate amendments are possible.",
       "track": {
         "stages": [
           "Introduced",
@@ -1306,7 +1427,8 @@
       },
       "expert": [
         "Part 1: Criminal Code changes including expedited subscriber-information confirmation. Part 2: Supporting Authorized Access to Information Act (provider capability obligations).",
-        "OPC asked for a closed list of subscriber identifiers, a necessity and proportionality test, and clear protection against systemic vulnerabilities in encryption."
+        "OPC asked for a closed list of subscriber identifiers, a necessity and proportionality test, and clear protection against systemic vulnerabilities in encryption.",
+        "Referred to the Standing Senate Committee on National Security, Defence and Veterans Affairs. Early Nov. 2026: Privacy Commissioner urged further amendments, including limits on what a new production order can reach; cryptographers warned the capability obligations could weaken security."
       ],
       "cite": "Bill C-22, Lawful Access Act, 2026.",
       "sources": [
@@ -1315,11 +1437,15 @@
           "https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_260526/"
         ],
         [
+          "CBC: Commissioner urges Senate amendments",
+          "https://www.cbc.ca/news/politics/senate-bill-c-22-lawful-access-9.7406213"
+        ],
+        [
           "openparliament.ca",
           "https://openparliament.ca/bills/45-1/C-22/"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "ca-c8",
@@ -1393,11 +1519,13 @@
       ],
       "priority": "context",
       "title": "Canada's AI approach: a national strategy and a transparency consultation, but no AI law",
-      "what": "Canada launched its \"AI for All\" strategy in June and consulted until September 23 on labelling AI content, telling people when they deal with AI, and tracking AI incidents.",
-      "why": "Expect any AI transparency rules to come through targeted measures rather than a broad AI act, which is closer to the UK's approach than to Colorado's or California's.",
+      "what": "Canada launched its \"AI for All\" strategy in June and consulted until September 23 on labelling AI content, telling people when they deal with AI, and tracking AI incidents. On November 9 it signed a voluntary France-led declaration on sharing early warnings about serious AI and cyber incidents.",
+      "why": "Expect any AI transparency rules to come through targeted measures and international commitments rather than a broad AI act, which is closer to the UK's approach than to Colorado's or California's. The government has not yet published results of the transparency consultation.",
       "expert": [
         "Strategy (June 4, 2026) commits to enshrining a right to privacy, child data protections, a deepfakes bill and a Canada Trusted AI Certification.",
-        "ISED consultation (July 23–Sept. 23, 2026) covered AI content detection, AI interaction notices, serious incident tracking and AI agent monitoring."
+        "ISED consultation (July 23–Sept. 23, 2026) covered AI content detection, AI interaction notices, serious incident tracking and AI agent monitoring.",
+        "Nov. 9, 2026 declaration: signed by Canada, France, Bahrain, Finland, Norway and the Netherlands, plus companies including Anthropic, OpenAI, Microsoft, Mistral AI, Hugging Face and Cohere. Commits signatories to align incident classification and share timely information on serious AI control and cyber incidents. Voluntary; the US, China, Google and Meta had not signed as of early reports.",
+        "Budget 2026 (Nov. 5) builds on the strategy, including support for access to domestic AI compute."
       ],
       "cite": "ISED, AI transparency consultation (2026); National AI Strategy (June 4, 2026).",
       "sources": [
@@ -1408,9 +1536,17 @@
         [
           "Gowling WLG on strategy",
           "https://gowlingwlg.com/en/insights-resources/articles/2026/canada-launches-ai-for-all-national-artificial-intelligence-strategy"
+        ],
+        [
+          "BetaKit: Canada signs AI safety declaration",
+          "https://betakit.com/?p=412048"
+        ],
+        [
+          "Global News",
+          "https://globalnews.ca/news/12144853/canada-joins-ai-safety-statement/"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-11-12"
     },
     {
       "id": "uk-dst",
