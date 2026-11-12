@@ -3,7 +3,7 @@
   "brief": [
     {
       "title": "A new US Congress changes the odds.",
-      "text": "Democrats are projected to win both houses in the November 3 midterms. Expect more AI oversight hearings and pushes on privacy and kids' safety, and less chance of Congress overriding state AI laws. Any bill still faces a veto and the Senate filibuster.",
+      "text": "Democrats won both houses in the November 3 midterms. Expect more AI oversight hearings and pushes on privacy and kids' safety, and less chance of Congress overriding state AI laws. Any bill still faces a veto and the Senate filibuster.",
       "sources": [
         [
           "IAPP",
@@ -38,8 +38,8 @@
           "https://www.parl.ca/legisinfo/en/bill/45-1/c-34"
         ],
         [
-          "Budget 2026 in brief",
-          "https://budget.canada.ca/2026/report-rapport/pdf/budget-2026-in-brief.pdf"
+          "Budget 2026, Chapter 5",
+          "https://budget.canada.ca/2026/report-rapport/chap5-en.html"
         ],
         [
           "BetaKit",
@@ -49,7 +49,7 @@
     },
     {
       "title": "Cyber rules are close but not final.",
-      "text": "The UK cyber bill has finished its Lords stages and goes back to MPs for the Lords' amendments. The US incident-reporting rule is still at White House review.",
+      "text": "The UK cyber bill cleared the Lords on November 2, and MPs are scheduled to consider the Lords' amendments on November 24. The US incident-reporting rule is still at White House review.",
       "sources": [
         [
           "UK Parliament: CSR Bill",
@@ -287,7 +287,7 @@
         ],
         [
           "pending",
-          "Cyber Security and Resilience Bill: Lords stages done; Commons to consider Lords amendments",
+          "Cyber Security and Resilience Bill cleared the Lords Nov 2; Commons considers amendments Nov 24",
           [
             [
               "UK Parliament: bill stages",
@@ -310,7 +310,7 @@
   },
   "watch": [
     {
-      "when": "Date TBA",
+      "when": "Nov 24",
       "what": "UK Cyber Security and Resilience Bill: Commons considers Lords amendments",
       "why": "The last step before Royal Assent; then commencement regulations set when duties start."
     },
@@ -382,16 +382,20 @@
         "safety"
       ],
       "priority": "context",
-      "title": "Democrats are projected to win both houses of Congress, raising the odds of tech oversight",
-      "what": "In the November 3 midterms, Democrats were projected to win control of the House and Senate, though some races were still uncalled in early counts. AI and data centres were a notable campaign issue. The new Congress sits from January 2027.",
+      "title": "Democrats win both houses of Congress, raising the odds of tech oversight",
+      "what": "Democrats won control of the House and Senate in the November 3 midterms. AP counts on November 9 gave them 254 House seats and 54 Senate seats, with some races still uncalled. AI and data centres were a notable campaign issue. The new Congress sits from January 2027.",
       "why": "Expect more hearings on AI companies and renewed pushes on federal privacy and children's online safety. Federal preemption of state AI laws becomes less likely. Any new law still needs the President's signature and, in most cases, 60 Senate votes, so state laws will keep doing most of the work.",
       "expert": [
-        "Seat totals were not final in early reporting; check final results before relying on margins.",
+        "AP tally as of Nov. 9, 2026: House D 254, R 162 (19 uncalled); Senate D 54, R 44 (2 uncalled). Final margins may shift.",
         "The White House's March 2026 legislative framework (preemption of burdensome state AI laws) will lack a friendly Congress; the DOJ AI Litigation Task Force route under the Dec. 2025 executive order is unaffected.",
         "Pending bills (KIDS Act, Senate KOSA) die at the end of the current Congress unless passed in the lame-duck session."
       ],
       "cite": "2026 US midterm elections, Nov. 3, 2026.",
       "sources": [
+        [
+          "CBS News live results",
+          "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+        ],
         [
           "IAPP",
           "https://iapp.org/news/a/democratic-midterm-wins-set-stage-for-tougher-tech-and-ai-scrutiny"
@@ -452,18 +456,18 @@
         "ai"
       ],
       "priority": "context",
-      "title": "Canada's Budget 2026 funds a new digital safety and data protection regulator",
-      "what": "The federal budget sets aside about $176 million over five years for the Digital Safety and Data Protection Commission, which would enforce Bill C-34 and take over private-sector privacy enforcement under Bill C-36. It also proposes a national anti-fraud strategy and tougher anti-fraud duties for telecoms.",
+      "title": "Canada's Budget 2026 funds a new digital safety regulator",
+      "what": "The federal budget proposes $176.3 million over five years, plus $29.3 million a year ongoing, to set up the Digital Safety and Data Protection Commission and enforce Bill C-34. Under Bill C-36 the same body would also take over private-sector privacy enforcement. The budget also proposes a national anti-fraud strategy and tougher anti-fraud duties for telecoms.",
       "why": "Funding signals the government intends to pass C-34 and C-36, but neither is law and most budget measures still need legislation. Nothing changes for businesses yet.",
       "expert": [
-        "$176.3M over five years from 2026–27, then $29.3M per year ongoing (one news report gives $176.6M).",
+        "Budget 2026, Chapter 5: $176.3M over five years from 2026–27 and $29.3M ongoing, to Canadian Heritage, for the Commission's Safe Social Media Act work.",
         "Anti-fraud measures bring banks, telecoms and digital platforms into a National Anti-Fraud Strategy; implementing details not yet published."
       ],
-      "cite": "Budget 2026, tabled Nov. 5, 2026.",
+      "cite": "Budget 2026, Chapter 5 (tabled Nov. 5, 2026).",
       "sources": [
         [
-          "Budget 2026 in brief (PDF)",
-          "https://budget.canada.ca/2026/report-rapport/pdf/budget-2026-in-brief.pdf"
+          "Budget 2026, Chapter 5",
+          "https://budget.canada.ca/2026/report-rapport/chap5-en.html"
         ],
         [
           "Gowling WLG",
@@ -816,8 +820,8 @@
         "cyber"
       ],
       "priority": "prepare",
-      "title": "UK Cyber Security and Resilience Bill finishes its Lords stages and returns to the Commons",
-      "what": "This bill updates the UK's cyber rules for essential services. It brings managed IT service providers and key suppliers into scope and requires faster reporting of cyber incidents. The Lords debated amendments at report stage on October 26, with third reading listed for November 2. MPs must now consider the Lords' changes before Royal Assent.",
+      "title": "UK Cyber Security and Resilience Bill clears the Lords; MPs consider amendments November 24",
+      "what": "This bill updates the UK's cyber rules for essential services. It brings managed IT service providers and key suppliers into scope and requires faster reporting of cyber incidents. The Lords passed it at third reading on November 2 with amendments. MPs are scheduled to consider those amendments on November 24, the last step before Royal Assent.",
       "why": "If you provide IT services to UK essential services, such as health, energy, water or transport, you may soon be directly regulated. Expect new reporting duties and contract terms from customers.",
       "track": {
         "stages": [
@@ -834,7 +838,7 @@
       "expert": [
         "Amends the Network and Information Systems Regulations 2018.",
         "Extends scope to managed service providers and \"designated critical suppliers\"; tighter incident reporting (initial notice within 24 hours, full report within 72 hours).",
-        "Carried over into the 2026–27 session (King's Speech, May 13, 2026). Lords committee from September 1; report stage October 26 (debate included judicial oversight of vendor-related restrictions); third reading listed for November 2, 2026. Commons consideration of Lords amendments: date to be announced. Commentary reports Lords changes to the incident definition and near-miss reporting; confirm against the amended bill text before relying on them."
+        "Carried over into the 2026–27 session (King's Speech, May 13, 2026). Lords committee from September 1; report stage October 26 (debate included judicial oversight of vendor-related restrictions); Lords third reading November 2, 2026; Commons carry-over motion November 4; Commons consideration of Lords amendments scheduled for November 24 (provisional). Commentary reports Lords changes to the incident definition and near-miss reporting; confirm against the amended bill text before relying on them."
       ],
       "cite": "Cyber Security and Resilience (Network and Information Systems) Bill (DSIT).",
       "sources": [
@@ -1413,7 +1417,7 @@
       "priority": "watch",
       "title": "Canada's lawful access bill C-22 is before a Senate committee",
       "what": "The bill would make it easier for police and intelligence to get subscriber information from online service providers and would require providers to be able to help with authorized access. It has passed the House and is being studied by the Senate national security committee.",
-      "why": "Internet, messaging and hosting providers could face new obligations, including keeping metadata. In early November the Privacy Commissioner told senators it still needs to be narrowed, so Senate amendments are possible.",
+      "why": "Internet, messaging and hosting providers could face new obligations, including keeping metadata. On November 2 the Privacy Commissioner told senators it still needs to be narrowed, so Senate amendments are possible.",
       "track": {
         "stages": [
           "Introduced",
@@ -1428,10 +1432,14 @@
       "expert": [
         "Part 1: Criminal Code changes including expedited subscriber-information confirmation. Part 2: Supporting Authorized Access to Information Act (provider capability obligations).",
         "OPC asked for a closed list of subscriber identifiers, a necessity and proportionality test, and clear protection against systemic vulnerabilities in encryption.",
-        "Referred to the Standing Senate Committee on National Security, Defence and Veterans Affairs. Early Nov. 2026: Privacy Commissioner urged further amendments, including limits on what a new production order can reach; cryptographers warned the capability obligations could weaken security."
+        "Referred to the Standing Senate Committee on National Security, Defence and Veterans Affairs. Nov. 2, 2026: Privacy Commissioner told SECD subscriber-information demands remain broad for a reasonable-suspicion threshold and \"publicly available\" is undefined; cryptographers warned the capability obligations could weaken security."
       ],
       "cite": "Bill C-22, Lawful Access Act, 2026.",
       "sources": [
+        [
+          "OPC statement to Senate SECD (Nov. 2, 2026)",
+          "https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_261102/"
+        ],
         [
           "OPC submission",
           "https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_260526/"

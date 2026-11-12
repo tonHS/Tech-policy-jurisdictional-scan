@@ -73,7 +73,7 @@ _Generated from `scan.json` (current to 2026-11-12). Do not edit by hand._
   - [Ofcom age checks at 16](https://www.ofcom.org.uk/online-safety/protecting-children/rapid-assessment-of-highly-effective-age-assurance-at-16)
 - **Canada moves its online safety bill and funds a regulator.**
   - [LEGISinfo: C-34](https://www.parl.ca/legisinfo/en/bill/45-1/c-34)
-  - [Budget 2026 in brief](https://budget.canada.ca/2026/report-rapport/pdf/budget-2026-in-brief.pdf)
+  - [Budget 2026, Chapter 5](https://budget.canada.ca/2026/report-rapport/chap5-en.html)
   - [BetaKit](https://betakit.com/?p=412048)
 - **Cyber rules are close but not final.**
   - [UK Parliament: CSR Bill](https://bills.parliament.uk/bills/4035/stages)
@@ -125,23 +125,24 @@ _Generated from `scan.json` (current to 2026-11-12). Do not edit by hand._
 - **UK · Competition & digital markets**: DMCC Act: first conduct requirements on Google; Microsoft designation proposed
   - [CMA case page](https://www.gov.uk/cma-cases/sms-investigation-into-googles-general-search-and-search-advertising-services)
   - [CMA on Microsoft](https://gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software)
-- **UK · Cybersecurity**: Cyber Security and Resilience Bill: Lords stages done; Commons to consider Lords amendments
+- **UK · Cybersecurity**: Cyber Security and Resilience Bill cleared the Lords Nov 2; Commons considers amendments Nov 24
   - [UK Parliament: bill stages](https://bills.parliament.uk/bills/4035/stages)
 - **UK · Digital trade & tax**: 2% DST under US tariff threat
   - [Morningstar](https://www.morningstar.co.uk/uk/news/AN_1776990152554627800/trump-threatens-big-tariff-on-uk-over-digital-tax-on-us-tech-firms.aspx)
 
 ### Items
 
-- **Canada's Budget 2026 funds a new digital safety and data protection regulator** · CA · 2026-11-05 · last checked 2026-11-12
-  - Citation: Budget 2026, tabled Nov. 5, 2026.
-  - [Budget 2026 in brief (PDF)](https://budget.canada.ca/2026/report-rapport/pdf/budget-2026-in-brief.pdf)
+- **Canada's Budget 2026 funds a new digital safety regulator** · CA · 2026-11-05 · last checked 2026-11-12
+  - Citation: Budget 2026, Chapter 5 (tabled Nov. 5, 2026).
+  - [Budget 2026, Chapter 5](https://budget.canada.ca/2026/report-rapport/chap5-en.html)
   - [Gowling WLG](https://gowlingwlg.com/en-ca/insights-resources/articles/2026/investing-in-intelligence)
-- **Democrats are projected to win both houses of Congress, raising the odds of tech oversight** · US · 2026-11-03 · last checked 2026-11-12
+- **Democrats win both houses of Congress, raising the odds of tech oversight** · US · 2026-11-03 · last checked 2026-11-12
   - Citation: 2026 US midterm elections, Nov. 3, 2026.
+  - [CBS News live results](https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/)
   - [IAPP](https://iapp.org/news/a/democratic-midterm-wins-set-stage-for-tougher-tech-and-ai-scrutiny)
   - [TIME](https://time.com/article/2026/11/04/midterm-elections-results-ai-industry-data-centers/)
   - [Foley & Lardner](https://www.foley.com/insights/publications/2026/11/blue-wave-new-ai-rules-what-democratic-control-of-congress-means-for-ai-regulation/)
-- **UK Cyber Security and Resilience Bill finishes its Lords stages and returns to the Commons** · UK · 2026-11-02 · last checked 2026-11-12
+- **UK Cyber Security and Resilience Bill clears the Lords; MPs consider amendments November 24** · UK · 2026-11-02 · last checked 2026-11-12
   - Citation: Cyber Security and Resilience (Network and Information Systems) Bill (DSIT).
   - [UK Parliament: bill stages](https://bills.parliament.uk/bills/4035/stages)
   - [Hansard: Lords report stage (Oct. 26)](https://hansard.parliament.uk/Lords/2026-10-26/debates/B413EFAE-E7D4-4742-986D-092884E0D8D1/CyberSecurityAndResilience(NetworkAndInformationSystems)Bill)
@@ -218,6 +219,7 @@ _Generated from `scan.json` (current to 2026-11-12). Do not edit by hand._
   - [Mayer Brown on complaints](https://www.mayerbrown.com/zh-hans/insights/publications/2026/02/preparing-for-the-data-use-and-access-act-2025-upcoming-complaints-procedure-requirement)
 - **Canada's lawful access bill C-22 is before a Senate committee** · CA · 2026-06-18 · last checked 2026-11-12
   - Citation: Bill C-22, Lawful Access Act, 2026.
+  - [OPC statement to Senate SECD (Nov. 2, 2026)](https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_261102/)
   - [OPC submission](https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_260526/)
   - [CBC: Commissioner urges Senate amendments](https://www.cbc.ca/news/politics/senate-bill-c-22-lawful-access-9.7406213)
   - [openparliament.ca](https://openparliament.ca/bills/45-1/C-22/)
@@ -288,7 +290,7 @@ _Generated from `scan.json` (current to 2026-11-12). Do not edit by hand._
   - Citation: Ind. SB 5; Ky. HB 15; R.I. HB 7787/SB 2500.
   - [MultiState](https://www.multistate.us/insider/2026/2/4/all-of-the-comprehensive-privacy-laws-that-take-effect-in-2026)
 
-_35 items, 84 unique source links._
+_35 items, 86 unique source links._
 <!-- cited:end -->
 
 ## 3. Update log
@@ -299,3 +301,4 @@ _35 items, 84 unique source links._
 | 2026-10-06 | LEGISinfo (C-36, C-34, C-22), Ofcom, bills.parliament.uk, CISA/OIRA, Governor of California, Federal Register, White House / Congress child-safety and preemption coverage | Ofcom investigation into Meta (Instagram Instants); California 2026 AI, kids and privacy laws; White House AI accord, E.O. 14434 and Super Intelligence Force (with June 2 order) | CIRCIA final rule now at OIRA review (received Oct 1); UK Cyber Security and Resilience Bill corrected to Lords committee from Sept 1, report stage Oct 26 (was shown as report stage Sept 16); brief points 1, 2 and 4, comparison grid (US AI and cyber, UK cyber cells) and watch list updated | — |
 | 2026-10-22 | LEGISinfo / openparliament.ca (C-36, C-34, C-22), OPC news, Ofcom (news, Oct. industry bulletin), bills.parliament.uk (CSR Bill), CMA, FTC / state AG coverage, White House Super Intelligence Force, Colorado AG rulemaking, Senate KOSA, Cyber Centre and CISA, CRTC/streaming, CUSMA, UK DST | FTC demands to OpenAI and Anthropic plus eight state AG suits against OpenAI; critical PHP vulnerabilities (Cyber Centre, CISA); Canada's Children's Privacy Code; CMA proposed SMS designation of Microsoft business software | Super Intelligence Force first meeting (Oct. 15); Ofcom Grok update in UK OSA item; Ofcom age-check assessment timing in UK under-16 item; Colorado revised draft rules and Oct. 26 hearing; Senate Commerce KOSA (Aug. 5) added to KIDS Act item; C-34 second-reading debate began Oct. 21; C-36 text corrected (not yet debated); all four brief points rewritten; comparison grid (CA privacy and online safety, US AI, UK competition) and watch list updated; Cyber Centre added to monitored sources | — |
 | 2026-11-12 | LEGISinfo / openparliament.ca (C-36, C-34, C-22), CHPC, Senate SECD coverage, Budget 2026, bills.parliament.uk and Hansard (CSR Bill), Ofcom (age assurance at 16, Grok update), judiciary.uk, CMA, OIRA / CISA (CIRCIA), Colorado AG rulemaking, White House E.O. 14434, US midterm coverage, CRTC/streaming, CUSMA | US midterms (Democrats projected to win Congress); High Court upholds Ofcom information notices (Meta, X, TikTok); Canada Budget 2026 and new digital regulator funding | C-34 at committee (track 2); C-22 at Senate committee with OPC call for amendments; Canada signs AI incident early-warning declaration (Nov. 9) added to AI item; UK CSR Bill through Lords stages, back to Commons; Ofcom age checks at 16 findings in UK under-16 item; Colorado rules not yet final; CIRCIA still pending at OIRA; all four brief points rewritten; comparison grid (CA online safety, US AI, UK online safety, UK cyber) and watch list updated | Watch: CSR Lords report (Oct 26), Ofcom age-check assessment, Colorado Oct 26 hearing (all resolved) |
+| 2026-11-12 (verification pass) | bills.parliament.uk stages (CSR Bill), AP / CBS midterm tallies, Budget 2026 Ch. 5, OPC Senate statement (Nov. 2) | — | CSR Bill: Lords 3rd reading confirmed Nov. 2, Commons consideration of Lords amendments Nov. 24 (track, brief, grid, watch); midterms: Democrats won both chambers (AP Nov. 9 tally); budget item wording and source; C-22 testimony dated Nov. 2 | — |
