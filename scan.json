@@ -1,63 +1,63 @@
 {
-  "asOf": "2026-11-12",
+  "asOf": "2026-11-24",
   "brief": [
     {
       "title": "A new US Congress changes the odds.",
-      "text": "Democrats won both houses in the November 3 midterms. Expect more AI oversight hearings and pushes on privacy and kids' safety, and less chance of Congress overriding state AI laws. Any bill still faces a veto and the Senate filibuster.",
+      "text": "Democrats won both houses in the November 3 midterms. Expect more AI oversight hearings and pushes on privacy and kids' safety, and less chance of Congress overriding state AI laws. Any bill still faces a veto and the Senate filibuster. The lame-duck KIDS Act faces fading Senate prospects.",
       "sources": [
         [
           "IAPP",
           "https://iapp.org/news/a/democratic-midterm-wins-set-stage-for-tougher-tech-and-ai-scrutiny"
         ],
         [
-          "Foley & Lardner",
-          "https://www.foley.com/insights/publications/2026/11/blue-wave-new-ai-rules-what-democratic-control-of-congress-means-for-ai-regulation/"
+          "Bloomberg Law: KIDS Act lame duck",
+          "https://news.bloomberglaw.com/bloomberg-government-news/kids-online-safety-bills-prospects-fade-in-lame-duck-session"
         ]
       ]
     },
     {
-      "title": "UK online safety enforcement gets firmer footing.",
-      "text": "The High Court upheld Ofcom's data demands on Meta, X and TikTok, and Ofcom named four age-check methods it thinks can work at 16 ahead of the spring 2027 under-16 ban.",
+      "title": "UK cyber bill is one Commons vote from Royal Assent.",
+      "text": "The Commons was scheduled to consider 112 Lords amendments on November 24 — the last step before Royal Assent. The government moved to disagree with both Lords defeats. No date for Royal Assent yet, but the bill must pass by April 29, 2027 or lapse.",
       "sources": [
         [
-          "High Court press summary",
-          "https://www.judiciary.uk/wp-content/uploads/2026/10/R-Meta-X-TikTok-v-OFCOM-press-summary.pdf"
+          "UK Parliament: CSR Bill stages",
+          "https://bills.parliament.uk/bills/4035/stages"
         ],
         [
-          "Ofcom age checks at 16",
-          "https://www.ofcom.org.uk/online-safety/protecting-children/rapid-assessment-of-highly-effective-age-assurance-at-16"
+          "CSRB status",
+          "https://cybersecurityandresiliencebill.com/"
         ]
       ]
     },
     {
       "title": "Canada moves its online safety bill and funds a regulator.",
-      "text": "Bill C-34 went to committee on October 29, and Budget 2026 funds the commission that would enforce it and C-36. Canada also signed a voluntary declaration on sharing early warnings of serious AI incidents.",
+      "text": "Bill C-34 is in committee with hearings underway (Nov 17, 19, 24). Bill C-36 second reading has begun in the House. Budget 2026 funds the commission that would enforce both. Canada also signed a voluntary AI-incident early-warning declaration on November 9.",
       "sources": [
         [
           "LEGISinfo: C-34",
           "https://www.parl.ca/legisinfo/en/bill/45-1/c-34"
         ],
         [
-          "Budget 2026, Chapter 5",
-          "https://budget.canada.ca/2026/report-rapport/chap5-en.html"
+          "LEGISinfo: C-36",
+          "https://www.parl.ca/legisinfo/en/bill/45-1/c-36"
         ],
         [
-          "BetaKit",
-          "https://betakit.com/?p=412048"
+          "Budget 2026, Chapter 5",
+          "https://budget.canada.ca/2026/report-rapport/chap5-en.html"
         ]
       ]
     },
     {
-      "title": "Cyber rules are close but not final.",
-      "text": "The UK cyber bill cleared the Lords on November 2, and MPs are scheduled to consider the Lords' amendments on November 24. The US incident-reporting rule is still at White House review.",
+      "title": "Colorado finalizes AI rules; White House SI deadline looms.",
+      "text": "Colorado's AG adopted 76 pages of AI rules on November 19; both statutes take effect January 1, 2027. The White House legislative-language deadline on defining \"super intelligence\" falls around November 28, and the Super Intelligence Force 120-day report is due in early February 2027.",
       "sources": [
         [
-          "UK Parliament: CSR Bill",
-          "https://bills.parliament.uk/bills/4035/stages"
+          "Consumer Financial Services Law Monitor",
+          "https://www.consumerfinancialserviceslawmonitor.com/2026/11/colorado-finalizes-automated-decision-making-technology-rules-servicing-and-collections-are-in-and-human-review-gets-a-commercial-reasonableness-roadmap/"
         ],
         [
-          "HIPAA Journal on CIRCIA",
-          "https://www.hipaajournal.com/cisa-circia-final-rule-white-house-review/"
+          "E.O. 14434 (Federal Register)",
+          "https://www.federalregister.gov/documents/2026/10/02/2026-20321/inaugurating-the-era-of-super-intelligence"
         ]
       ]
     }
@@ -75,7 +75,7 @@
       "CA": [
         [
           "pending",
-          "PIPEDA in force; replacement bill C-36 awaiting debate; Children's Privacy Code issued Oct 2026",
+          "PIPEDA in force; C-36 at second reading (debate began Nov 2026); Children's Privacy Code issued Oct 2026; surveillance pricing guidance coming",
           [
             [
               "Bill C-36 (openparliament.ca)",
@@ -89,17 +89,21 @@
         ],
         [
           "none",
-          "No AI law; national strategy and transparency consultation",
+          "No AI law; national strategy, transparency consultation closed Sept 23 (results pending), agentic AI resolution at GPA Nov 2026",
           [
             [
               "ISED consultation",
               "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-launches-public-consultation-on-ai-transparency.html"
+            ],
+            [
+              "OPC GPA agentic AI resolution (Nov. 19, 2026)",
+              "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_gpa_261119/"
             ]
           ]
         ],
         [
           "pending",
-          "C-34 Safe Social Media Act: at House committee since Oct 29",
+          "C-34 Safe Social Media Act: committee hearings underway (Nov 17, 19, 24+)",
           [
             [
               "LEGISinfo: C-34",
@@ -113,17 +117,21 @@
         ],
         [
           "soft",
-          "Competition Act; Bureau studying algorithmic pricing",
+          "Competition Act; Bureau studying algorithmic pricing; OPC also consulting on surveillance pricing",
           [
             [
               "Competition Bureau report",
               "https://www.canada.ca/en/competition-bureau/news/2026/01/competition-bureau-report-highlights-public-feedback-on-algorithmic-pricing-and-competition.html"
+            ],
+            [
+              "OPC: surveillance pricing (Nov. 23, 2026)",
+              "https://www.ctvnews.ca/canada/article/privacy-commissioner-says-transparency-on-surveillance-pricing-needed/"
             ]
           ]
         ],
         [
           "law",
-          "Critical Cyber Systems Protection Act passed June 2026",
+          "Critical Cyber Systems Protection Act passed June 2026; regulations pending",
           [
             [
               "Bill C-8 (openparliament.ca)",
@@ -159,15 +167,11 @@
         ],
         [
           "patchwork",
-          "State laws (CO, CA, TX); federal preemption push now less likely after Democrats' midterm wins; voluntary safety accord; FTC and state AGs using consumer law",
+          "State laws (CO, CA, TX); CO AG rules adopted Nov 19 (take effect Jan 1, 2027); federal preemption less likely after Democratic midterm wins; voluntary safety accord; FTC and state AGs using consumer law",
           [
             [
-              "White House framework (Jenner)",
-              "https://www.jenner.com/en/news-insights/client-alerts/takeaways-from-the-white-houses-framework-for-artificial-intelligence"
-            ],
-            [
-              "Colorado rewrite (Ballard Spahr)",
-              "https://www.consumerfinancemonitor.com/2026/05/12/colorado-rewrites-its-landmark-ai-law-unpacking-sb-26-189-and-what-it-means-for-businesses/"
+              "Colorado AG rules (Nov. 19, 2026)",
+              "https://www.consumerfinancialserviceslawmonitor.com/2026/11/colorado-finalizes-automated-decision-making-technology-rules-servicing-and-collections-are-in-and-human-review-gets-a-commercial-reasonableness-roadmap/"
             ],
             [
               "White House AI accord",
@@ -185,15 +189,15 @@
         ],
         [
           "mixed",
-          "TAKE IT DOWN Act in force; KIDS Act passed House",
+          "TAKE IT DOWN Act in force; KIDS Act passed House — Senate prospects fading in lame duck",
           [
             [
               "FTC",
               "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-begins-enforcing-take-it-down-act"
             ],
             [
-              "KIDS Act (Tech Policy Press)",
-              "https://techpolicy.press/bipartisan-smorgasbord-of-childrens-online-safety-legislation-passes-the-house"
+              "Bloomberg Law: KIDS Act lame duck",
+              "https://news.bloomberglaw.com/bloomberg-government-news/kids-online-safety-bills-prospects-fade-in-lame-duck-session"
             ]
           ]
         ],
@@ -209,11 +213,15 @@
         ],
         [
           "pending",
-          "CIRCIA final reporting rule at White House review",
+          "CIRCIA final reporting rule still at White House review as of mid-November 2026; not yet published",
           [
             [
               "Security.io",
               "https://www.security.io/articles/2026/10/05/circia-final-rule-enters-omb-review"
+            ],
+            [
+              "Nextgov/FCW (Nov. 2026)",
+              "https://www.nextgov.com/cybersecurity/2026/11/cisa-updates-cyber-reporting-form-broader-incident-mandate-awaits-approval/417130/"
             ]
           ]
         ],
@@ -255,7 +263,7 @@
         ],
         [
           "law",
-          "Online Safety Act enforced (court upheld Ofcom data powers Oct 30); under-16 ban coming 2027",
+          "Online Safety Act enforced (court upheld Ofcom data powers Oct 30); under-16 ban coming spring 2027",
           [
             [
               "Ofcom",
@@ -273,7 +281,7 @@
         ],
         [
           "law",
-          "DMCC Act: first conduct requirements on Google; Microsoft designation proposed",
+          "DMCC Act: first conduct requirements on Google; CMA Microsoft consultation closed Nov 13 — final designation decision due Feb 13, 2027",
           [
             [
               "CMA case page",
@@ -287,7 +295,7 @@
         ],
         [
           "pending",
-          "Cyber Security and Resilience Bill cleared the Lords Nov 2; Commons considers amendments Nov 24",
+          "Cyber Security and Resilience Bill: Commons considers Lords amendments Nov 24 — last step before Royal Assent",
           [
             [
               "UK Parliament: bill stages",
@@ -310,29 +318,34 @@
   },
   "watch": [
     {
-      "when": "Nov 24",
-      "what": "UK Cyber Security and Resilience Bill: Commons considers Lords amendments",
-      "why": "The last step before Royal Assent; then commencement regulations set when duties start."
+      "when": "Now / pending",
+      "what": "UK Cyber Security and Resilience Bill: Commons voted on Lords amendments Nov 24",
+      "why": "If accepted, Royal Assent follows shortly. If the Commons disagrees with Lords amendments, ping-pong between chambers continues. The bill must pass by April 29, 2027."
+    },
+    {
+      "when": "~Nov 28, 2026",
+      "what": "White House legislative language defining 'super intelligence'",
+      "why": "The 60-day deadline from the September 29 executive order falls around November 28. The definition will determine what technologies federal AI laws cover."
+    },
+    {
+      "when": "~Early Feb 2027",
+      "what": "Super Intelligence Force 120-day report on AI risks and opportunities",
+      "why": "First sign of whether US federal AI oversight goes beyond voluntary commitments."
     },
     {
       "when": "By Jan 1, 2027",
-      "what": "Colorado AG final AI and chatbot rules",
-      "why": "Will define disclosures for automated decisions and chatbot duties that start January 1, 2027."
+      "what": "Colorado AG final AI and chatbot rules effective",
+      "why": "Rules adopted Nov 19, 2026. Both SB 26-189 (automated decision-making) and HB 26-1263 (Chatbot Safety Act) take effect Jan 1; first chatbot reports due July 1, 2027."
     },
     {
-      "when": "Ongoing",
-      "what": "Ofcom's investigation into Meta's Instagram Instants feature",
-      "why": "Will show how Ofcom treats risk assessments for new features on large platforms."
+      "when": "Feb 13, 2027",
+      "what": "CMA final SMS designation decision for Microsoft business software",
+      "why": "Consultation closed Nov 13. Designation would trigger powers to impose conduct requirements on Windows, Microsoft 365, Copilot, Teams and security software."
     },
     {
-      "when": "By about Nov 28",
-      "what": "White House proposal for a legal definition of \"super intelligence\"",
-      "why": "Could change which technologies federal AI laws cover."
-    },
-    {
-      "when": "Nov 13",
-      "what": "CMA consultation on Microsoft's strategic market status closes",
-      "why": "Final designation decision is due by February 13, 2027."
+      "when": "Jan 3, 2027",
+      "what": "119th US Congress ends; lame-duck KIDS Act / KOSA window closes",
+      "why": "Senate prospects for the KIDS Act are fading. Unpassed bills die when the new Congress starts January 3."
     },
     {
       "when": "Jan 20, 2027",
@@ -340,29 +353,19 @@
       "why": "The OPC may revise the Code after comments."
     },
     {
-      "when": "By about Nov 28",
-      "what": "Super Intelligence Force report on AI risks and opportunities",
-      "why": "First sign of whether federal AI oversight goes beyond voluntary commitments."
-    },
-    {
       "when": "By end of 2026",
       "what": "US CIRCIA final rule",
-      "why": "Sets 72-hour incident and 24-hour ransom-payment reporting for critical infrastructure."
+      "why": "Sets 72-hour incident and 24-hour ransom-payment reporting for critical infrastructure; still at White House OMB review as of mid-November."
     },
     {
-      "when": "Fall 2026",
+      "when": "Fall–Winter 2026",
       "what": "Canada Bill C-34 committee hearings; C-36 second reading",
-      "why": "C-34 was referred to committee Oct 29 and briefs are open; C-36 not yet debated. Committee hearings shape Canada's online safety and privacy rules."
+      "why": "C-34 (CHPC) hearings underway (Nov 17, 19, 24+); C-36 second reading debate begun. Committee hearings shape Canada's online safety and privacy rules."
     },
     {
       "when": "No date set",
       "what": "Canada's policy direction to the CRTC on streaming",
       "why": "Replaces the scrapped streamer contribution rules."
-    },
-    {
-      "when": "Lame duck / 2027",
-      "what": "Senate action on US children's online safety",
-      "why": "Senate KOSA and the House KIDS Act still need floor votes; unpassed bills die when the new Congress starts in January."
     },
     {
       "when": "Jan 2027",
@@ -388,7 +391,7 @@
       "expert": [
         "AP tally as of Nov. 9, 2026: House D 254, R 162 (19 uncalled); Senate D 54, R 44 (2 uncalled). Final margins may shift.",
         "The White House's March 2026 legislative framework (preemption of burdensome state AI laws) will lack a friendly Congress; the DOJ AI Litigation Task Force route under the Dec. 2025 executive order is unaffected.",
-        "Pending bills (KIDS Act, Senate KOSA) die at the end of the current Congress unless passed in the lame-duck session."
+        "Pending bills (KIDS Act, Senate KOSA) die at the end of the current Congress unless passed in the lame-duck session. Senate prospects are fading as of late November 2026."
       ],
       "cite": "2026 US midterm elections, Nov. 3, 2026.",
       "sources": [
@@ -409,7 +412,122 @@
           "https://www.foley.com/insights/publications/2026/11/blue-wave-new-ai-rules-what-democratic-control-of-congress-means-for-ai-regulation/"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
+    },
+    {
+      "id": "us-colorado-rules",
+      "date": "2026-11-19",
+      "type": "regulation",
+      "jur": "US",
+      "sub": "Colorado",
+      "topics": [
+        "ai",
+        "privacy"
+      ],
+      "priority": "prepare",
+      "title": "Colorado AG adopts final AI and chatbot rules, effective January 1, 2027",
+      "what": "On November 19 Colorado's Attorney General adopted 76 pages of rules implementing two AI laws: SB 26-189 (automated decision-making in consequential decisions) and HB 26-1263 (Chatbot Safety Act). Both statutes take effect January 1, 2027. The rules take effect 20 days after the Secretary of State publishes them, once the AG files a formal opinion.",
+      "why": "If you use automated tools to make consequential decisions about Colorado residents — in jobs, credit, housing or health care — you need notices, an appeal process and human review in place by January 1. If you offer a chatbot to users, check the chatbot disclosure and safeguards rules.",
+      "expert": [
+        "SB 26-189: pre-use disclosure of automated decision-making technology, post-adverse-decision explanation, correction rights, human review on request; three-year record retention. Attorney General enforcement under CCPA; 60-day cure period until January 1, 2030.",
+        "HB 26-1263 (Chatbot Safety Act): disclosure and safeguards requirements for conversational AI services; first reports due July 1, 2027.",
+        "Rules include that ID-only age checks for chatbots are banned (alternative verification required).",
+        "Rules not yet formally published with the Secretary of State as of November 24, so the precise effective date is not confirmed. Treat January 1 as the planning target."
+      ],
+      "cite": "Colorado AG, final rules under SB 26-189 and HB 26-1263 (adopted Nov. 19, 2026), 4 CCR 904-6.",
+      "sources": [
+        [
+          "Consumer Financial Services Law Monitor",
+          "https://www.consumerfinancialserviceslawmonitor.com/2026/11/colorado-finalizes-automated-decision-making-technology-rules-servicing-and-collections-are-in-and-human-review-gets-a-commercial-reasonableness-roadmap/"
+        ],
+        [
+          "Colorado AG AI rulemaking page",
+          "https://coag.gov/ai/"
+        ],
+        [
+          "PPC.land: chatbot age checks",
+          "https://ppc.land/colorado-bans-id-only-age-checks-for-ai-chatbots-in-adopted-rules/"
+        ]
+      ],
+      "checked": "2026-11-24"
+    },
+    {
+      "id": "uk-csr-commons",
+      "date": "2026-11-24",
+      "type": "legislation",
+      "jur": "UK",
+      "topics": [
+        "cyber"
+      ],
+      "priority": "prepare",
+      "title": "UK Cyber Security and Resilience Bill: Commons considers Lords amendments today",
+      "what": "The Commons was scheduled to consider 112 Lords amendments on November 24 — the last parliamentary step before Royal Assent. The government moved to disagree with both Lords defeats (a regime-wide review amendment and a foreign powers register). If the Commons agrees on the text, Royal Assent follows shortly. If it disagrees with Lords amendments, the bill enters ping-pong. No date for Royal Assent is confirmed; the bill must pass by April 29, 2027 or lapse.",
+      "why": "If the bill becomes law, managed IT service providers and key suppliers to UK essential services face new reporting duties and possible direct regulation. Watch for commencement regulations to set when obligations start.",
+      "expert": [
+        "Commons debate capped at three hours on November 24. Government moved to disagree with two Lords amendments (regime-wide review; foreign powers register).",
+        "112 total Lords amendments: 5 from Grand Committee, 103 from Report Stage, 4 from Third Reading.",
+        "Amends the Network and Information Systems Regulations 2018. Extends scope to managed service providers and designated critical suppliers; tightens incident reporting (initial notice within 24 hours, full report within 72 hours).",
+        "Carry-over extension granted November 4, 2026, extending parliamentary deadline to April 29, 2027.",
+        "Outcome of November 24 vote not yet confirmed as of publication of this update."
+      ],
+      "cite": "Cyber Security and Resilience (Network and Information Systems) Bill (DSIT).",
+      "sources": [
+        [
+          "UK Parliament: bill stages",
+          "https://bills.parliament.uk/bills/4035/stages"
+        ],
+        [
+          "CSRB: Lords ping-pong",
+          "https://cybersecurityandresiliencebill.com/blog/cyber-security-resilience-bill-clears-lords-ping-pong"
+        ],
+        [
+          "CSRB timeline",
+          "https://cybersecurityandresiliencebill.com/timeline"
+        ]
+      ],
+      "checked": "2026-11-24"
+    },
+    {
+      "id": "uk-cma-microsoft",
+      "date": "2026-10-16",
+      "type": "regulation",
+      "jur": "UK",
+      "topics": [
+        "competition",
+        "ai"
+      ],
+      "priority": "watch",
+      "title": "CMA Microsoft consultation closed Nov 13; final designation decision due Feb 13, 2027",
+      "what": "The CMA provisionally found that Microsoft has strategic market status in business software, from Windows and Office to Teams, Copilot, security and server products. The public consultation closed November 13. The CMA must issue its final designation decision by February 13, 2027.",
+      "why": "Organizations that buy Microsoft products could gain more choice over AI assistants, security tools and cloud licensing. If designation is confirmed, the CMA will consult on conduct requirements before imposing them.",
+      "track": {
+        "stages": [
+          "Investigation",
+          "Proposed decision",
+          "Consultation closed",
+          "Final designation",
+          "Conduct requirements"
+        ],
+        "at": 2
+      },
+      "expert": [
+        "Digital Markets, Competition and Consumers Act 2024, Part 1. Investigation covered PC operating systems, productivity suites, security software, server operating systems and relational databases.",
+        "Indicative roadmap of possible interventions: security-product bundling, wider software bundling, interoperability for developers, fair competition with Copilot for rival AI providers, and cloud licensing terms.",
+        "Designation does not imply wrongdoing. Consultation closed 5pm, November 13, 2026; statutory deadline February 13, 2027.",
+        "The CMA will review responses before issuing its final decision; conduct requirements, if any, would follow a further process after designation."
+      ],
+      "cite": "CMA, proposed SMS decision: Microsoft's business software ecosystem (Oct. 16, 2026). Consultation closed Nov. 13, 2026.",
+      "sources": [
+        [
+          "CMA news release",
+          "https://gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software"
+        ],
+        [
+          "CMA consultation",
+          "https://gov.uk/government/consultations/proposed-decision-sms-investigation-into-microsofts-business-software-ecosystem"
+        ]
+      ],
+      "checked": "2026-11-24"
     },
     {
       "id": "uk-ofcom-court",
@@ -426,7 +544,7 @@
       "expert": [
         "R (Meta, X and TikTok) v Ofcom, judgment handed down Oct. 30, 2026 (Singh LJ and Collins Rice J). Notices issued Feb. 10, 2026 under s. 100 OSA 2023.",
         "The court accepted the notices engaged Article 8 ECHR but held the interference proportionate. The ruling covers these notices, not the Act as a whole.",
-        "Meta said it was disappointed; no appeal reported as of Nov. 12. A separate Meta challenge to how Ofcom calculates OSA fees is ongoing."
+        "Meta said it was disappointed; no appeal reported as of Nov. 24. A separate Meta challenge to how Ofcom calculates OSA fees is ongoing."
       ],
       "cite": "R (Meta Platforms, X Corp and TikTok) v Ofcom [High Court, Oct. 30, 2026].",
       "sources": [
@@ -443,7 +561,7 @@
           "https://www.courthousenews.com/meta-x-and-tiktok-lose-challenge-to-uk-online-safety-regulator/"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "ca-budget",
@@ -474,7 +592,7 @@
           "https://gowlingwlg.com/en-ca/insights-resources/articles/2026/investing-in-intelligence"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "us-ai-enforce",
@@ -585,46 +703,6 @@
       "checked": "2026-10-22"
     },
     {
-      "id": "uk-cma-microsoft",
-      "date": "2026-10-16",
-      "type": "regulation",
-      "jur": "UK",
-      "topics": [
-        "competition",
-        "ai"
-      ],
-      "priority": "watch",
-      "title": "UK competition regulator proposes special rules for Microsoft's business software, including Copilot",
-      "what": "The CMA provisionally found that Microsoft has strategic market status in business software, from Windows and Office to Teams, Copilot, security and server products. If confirmed, the CMA could impose conduct rules. It is consulting until November 13 and must decide by February 13, 2027.",
-      "why": "Organizations that buy Microsoft products could gain more choice over AI assistants, security tools and where they run their software licences in the cloud. Rival AI and software vendors should take part in the consultation.",
-      "track": {
-        "stages": [
-          "Investigation",
-          "Proposed decision",
-          "Designation",
-          "Conduct requirements"
-        ],
-        "at": 1
-      },
-      "expert": [
-        "Digital Markets, Competition and Consumers Act 2024, Part 1. Investigation covered PC operating systems, productivity suites, security software, server operating systems and relational databases.",
-        "Indicative roadmap of possible interventions: security-product bundling, wider software bundling, interoperability for developers, fair competition with Copilot for rival AI providers, and cloud licensing terms.",
-        "Designation does not imply wrongdoing. Consultation closes 5pm, November 13, 2026; statutory deadline February 13, 2027."
-      ],
-      "cite": "CMA, proposed SMS decision: Microsoft's business software ecosystem (Oct. 16, 2026).",
-      "sources": [
-        [
-          "CMA news release",
-          "https://gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software"
-        ],
-        [
-          "CMA consultation",
-          "https://gov.uk/government/consultations/proposed-decision-sms-investigation-into-microsofts-business-software-ecosystem"
-        ]
-      ],
-      "checked": "2026-11-12"
-    },
-    {
       "id": "uk-u16",
       "date": "2026-06-15",
       "type": "announcement",
@@ -671,7 +749,7 @@
           "https://www.ofcom.org.uk/online-safety/protecting-children/rapid-assessment-of-highly-effective-age-assurance-at-16"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "uk-osa",
@@ -709,7 +787,7 @@
           "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/ofcom-update-monitoring-xs-response-to-hate-and-terror-content-and-grok-investigation-latest"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "uk-ofcom-meta",
@@ -820,8 +898,8 @@
         "cyber"
       ],
       "priority": "prepare",
-      "title": "UK Cyber Security and Resilience Bill clears the Lords; MPs consider amendments November 24",
-      "what": "This bill updates the UK's cyber rules for essential services. It brings managed IT service providers and key suppliers into scope and requires faster reporting of cyber incidents. The Lords passed it at third reading on November 2 with amendments. MPs are scheduled to consider those amendments on November 24, the last step before Royal Assent.",
+      "title": "UK Cyber Security and Resilience Bill cleared the Lords; at Commons November 24",
+      "what": "This bill updates the UK's cyber rules for essential services. It brings managed IT service providers and key suppliers into scope and requires faster reporting of cyber incidents. The Lords passed it at third reading on November 2 with amendments. The Commons considers those amendments on November 24, the last step before Royal Assent.",
       "why": "If you provide IT services to UK essential services, such as health, energy, water or transport, you may soon be directly regulated. Expect new reporting duties and contract terms from customers.",
       "track": {
         "stages": [
@@ -830,7 +908,7 @@
           "Lords committee",
           "Lords report",
           "Lords 3rd rdg",
-          "Lords amendments",
+          "Lords amendments (Commons)",
           "Royal Assent"
         ],
         "at": 5
@@ -838,7 +916,9 @@
       "expert": [
         "Amends the Network and Information Systems Regulations 2018.",
         "Extends scope to managed service providers and \"designated critical suppliers\"; tighter incident reporting (initial notice within 24 hours, full report within 72 hours).",
-        "Carried over into the 2026–27 session (King's Speech, May 13, 2026). Lords committee from September 1; report stage October 26 (debate included judicial oversight of vendor-related restrictions); Lords third reading November 2, 2026; Commons carry-over motion November 4; Commons consideration of Lords amendments scheduled for November 24 (provisional). Commentary reports Lords changes to the incident definition and near-miss reporting; confirm against the amended bill text before relying on them."
+        "Carried over into the 2026–27 session (King's Speech, May 13, 2026). Lords third reading November 2, 2026; Commons carry-over motion November 4; Commons consideration of Lords amendments November 24.",
+        "Government moved to disagree with two Lords amendments: a regime-wide statutory review and a register of foreign powers. If the Lords insist, the bill enters ping-pong.",
+        "Outcome of November 24 Commons vote not yet confirmed at publication of this update."
       ],
       "cite": "Cyber Security and Resilience (Network and Information Systems) Bill (DSIT).",
       "sources": [
@@ -851,11 +931,11 @@
           "https://hansard.parliament.uk/Lords/2026-10-26/debates/B413EFAE-E7D4-4742-986D-092884E0D8D1/CyberSecurityAndResilience(NetworkAndInformationSystems)Bill"
         ],
         [
-          "DLA Piper on King's Speech",
-          "https://privacymatters.dlapiper.com/2026/05/uk-the-kings-speech-2026-cybersecurity-at-the-forefront/"
+          "CSRB: Lords ping-pong",
+          "https://cybersecurityandresiliencebill.com/blog/cyber-security-resilience-bill-clears-lords-ping-pong"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "uk-copyright",
@@ -893,18 +973,18 @@
         "ai"
       ],
       "priority": "watch",
-      "title": "White House turns to voluntary AI safety: an industry accord and a new \"Super Intelligence\" task force",
-      "what": "On September 29, six leading AI developers, including OpenAI, Anthropic, Google, Meta, xAI and Nvidia, signed a White House accord committing to internal safety controls, outside audits and board oversight of their most advanced models. The same day, an executive order told federal agencies to call AI \"super intelligence\". On October 4 the President announced a federal \"Super Intelligence Force\" to coordinate the government's response to AI risks. The task force held its first meeting on October 15, adopted a charter and told AI companies to report and fix rogue model behaviour; no new rules were announced.",
+      "title": "White House turns to voluntary AI safety: an industry accord and a new 'Super Intelligence' task force",
+      "what": "On September 29, six leading AI developers, including OpenAI, Anthropic, Google, Meta, xAI and Nvidia, signed a White House accord committing to internal safety controls, outside audits and board oversight of their most advanced models. The same day, an executive order told federal agencies to call AI \"super intelligence\". On October 4 the President announced a federal \"Super Intelligence Force\" to coordinate the government's response to AI risks. The task force held its first meeting on October 15, adopted a charter and told AI companies to report and fix rogue model behaviour. The 60-day deadline for proposed legislative language defining \"super intelligence\" falls around November 28, 2026.",
       "why": "There is still no binding federal AI safety law. The accord has no penalties and findings go to company boards, not regulators or the public. If you buy or build on frontier models, ask vendors what they have committed to, but keep planning around state laws, which still apply.",
       "expert": [
-        "White House Accord on Super Intelligence (Sept. 29, 2026): four layers: (1) internal controls monitoring model capabilities and alignment in areas such as cybersecurity and biosecurity; (2) an empowered internal oversight team; (3) an independent external auditor or evaluator, chosen by the company; (4) an independent board committee receiving reports. Says it may make sense over time to codify these steps in law.",
-        "E.O. 14434, Inaugurating the Era of Super Intelligence (signed Sept. 29, 2026; 91 Fed. Reg. 63129, Oct. 2, 2026): agencies to use \"Super Intelligence (SI)\" in place of \"AI\" in official communications; within 60 days the Assistant to the President for Science and Technology proposes legislative language for a federal SI definition (current reference: 15 U.S.C. § 9401(3)).",
-        "Super Intelligence Force (announced Oct. 4, 2026): chaired by the Director of National Intelligence, with the FTC Chair among vice chairs; charter mandates plans for responding to SI-enabled threats while preventing overregulation; report due within 120 days.",
-        "First Super Intelligence Force meeting (Oct. 15, 2026): charter adopted, starting a 120-day review; subcommittees created; risk report commissioned from the President's science advisers (cybersecurity, biosecurity, model control). AI labs told to follow a \"notification and remediation process\" for rogue behaviour; whether it is mandatory, and any penalties, are unclear.",
-        "Builds on the June 2, 2026 order \"Promoting Advanced Artificial Intelligence Innovation and Security\": voluntary government access to frontier models up to 30 days before release, classified cyber-capability benchmarks (Treasury, NSA, CISA) and an AI cybersecurity clearinghouse; expressly no licensing or pre-clearance requirement.",
+        "White House Accord on Super Intelligence (Sept. 29, 2026): four layers: (1) internal controls monitoring model capabilities and alignment in areas such as cybersecurity and biosecurity; (2) an empowered internal oversight team; (3) an independent external auditor or evaluator, chosen by the company; (4) an independent board committee receiving reports.",
+        "E.O. 14434, Inaugurating the Era of Super Intelligence (signed Sept. 29, 2026; 91 Fed. Reg. 63129, Oct. 2, 2026): agencies to use \"Super Intelligence (SI)\" in place of \"AI\" in official communications; within 60 days (~Nov. 28) the Assistant to the President for Science and Technology proposes legislative language for a federal SI definition (current reference: 15 U.S.C. § 9401(3)).",
+        "Super Intelligence Force (announced Oct. 4, 2026): chaired by the Director of National Intelligence, with the FTC Chair among vice chairs; charter mandates plans for responding to SI-enabled threats while preventing overregulation; report due within 120 days (~early February 2027).",
+        "First Super Intelligence Force meeting (Oct. 15, 2026): charter adopted; AI labs told to follow a \"notification and remediation process\" for rogue behaviour; whether it is mandatory, and any penalties, are unclear.",
+        "Builds on the June 2, 2026 order \"Promoting Advanced Artificial Intelligence Innovation and Security\".",
         "Separate from the preemption push under E.O. 14365; the Vice President has rejected FDA- or FAA-style AI regulation."
       ],
-      "cite": "White House Accord on Super Intelligence (Sept. 29, 2026); E.O. 14434, 91 Fed. Reg. 63129 (Oct. 2, 2026); Super Intelligence Force announcement (Oct. 4, 2026); E.O. of June 2, 2026.",
+      "cite": "White House Accord on Super Intelligence (Sept. 29, 2026); E.O. 14434, 91 Fed. Reg. 63129 (Oct. 2, 2026); Super Intelligence Force announcement (Oct. 4, 2026).",
       "sources": [
         [
           "Accord text (American Presidency Project)",
@@ -921,17 +1001,9 @@
         [
           "TechCrunch on the Super Intelligence Force",
           "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
-        ],
-        [
-          "Latham & Watkins on the June order",
-          "https://www.lw.com/en/insights/president-trump-signs-executive-order-establishing-ai-cybersecurity-and-frontier-model-framework"
-        ],
-        [
-          "The Next Web on first meeting",
-          "https://thenextweb.com/news/super-intelligence-force-charter-first-meeting-anthropic"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "us-preempt",
@@ -944,11 +1016,11 @@
       "priority": "watch",
       "title": "White House pushes to override state AI laws with one national standard",
       "what": "A December 2025 executive order set up a Justice Department task force to challenge state AI laws. In March 2026 the White House asked Congress for a national AI law that would override most state rules, while letting states keep child-safety and consumer-protection laws.",
-      "why": "For now, state AI laws still apply and must be followed. Congress has twice refused to block state AI laws, so do not plan around preemption until a federal law actually passes.",
+      "why": "For now, state AI laws still apply and must be followed. Congress has twice refused to block state AI laws, so do not plan around preemption until a federal law actually passes. After the Democratic midterms, federal preemption legislation is even less likely in the new Congress.",
       "expert": [
         "Executive Order 14365, Ensuring a National Policy Framework for Artificial Intelligence (Dec. 11, 2025): DOJ AI Litigation Task Force (set up Jan. 9, 2026), review of \"onerous\" state laws, and BEAD broadband funding conditions.",
         "National AI framework (Mar. 20, 2026) also states that training on copyrighted works is lawful and warns against forcing ideological changes to AI outputs.",
-        "The Senate removed a state AI moratorium from the 2025 reconciliation bill (99–1), and preemption was left out of the FY2026 NDAA."
+        "The Senate removed a state AI moratorium from the 2025 reconciliation bill (99–1), and preemption was left out of the FY2026 NDAA. Democratic midterm wins make federal preemption legislation unlikely in the 120th Congress."
       ],
       "cite": "E.O. 14365 (Dec. 11, 2025); White House national AI legislative framework (Mar. 20, 2026).",
       "sources": [
@@ -965,7 +1037,7 @@
           "https://www.bakerlaw.com/insights/navigating-the-emerging-federal-state-ai-showdown-doj-establishes-ai-litigation-task-force/"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "us-colorado",
@@ -978,40 +1050,42 @@
         "privacy"
       ],
       "priority": "prepare",
-      "title": "Colorado rewrites its AI law, which now takes effect January 2027",
-      "what": "Colorado replaced the first broad US state AI law with a narrower one aimed at automated decision-making in important areas like jobs, housing, credit and health care. Businesses must tell people when such tools are used, explain bad outcomes, and offer correction and human review.",
-      "why": "If you use automated tools to make decisions about Colorado residents, prepare notices and an appeal process. The heavier impact assessment and risk-program duties were dropped.",
+      "title": "Colorado rewrites its AI law; AG rules adopted November 19 — both take effect January 2027",
+      "what": "Colorado replaced the first broad US state AI law with a narrower one aimed at automated decision-making in important areas like jobs, housing, credit and health care. Businesses must tell people when such tools are used, explain bad outcomes, and offer correction and human review. The Attorney General adopted 76 pages of implementing rules on November 19.",
+      "why": "If you use automated tools to make decisions about Colorado residents, prepare notices and an appeal process for January 1, 2027. The Chatbot Safety Act rules are also final.",
       "track": {
         "stages": [
           "Passed",
           "Signed",
-          "AG rules",
+          "AG rules adopted",
           "In force"
         ],
         "at": 2
       },
       "expert": [
-        "SB 26-189 repeals and replaces SB 24-205; passed May 2026 and signed by Governor Polis.",
+        "SB 26-189 repeals and replaces SB 24-205; signed May 2026.",
         "Focus on \"automated decision-making technology\" in consequential decisions: pre-use disclosure, post-adverse-decision explanation, correction rights, human review on request; three-year record retention.",
-        "Attorney General enforcement under the Colorado Consumer Protection Act; no private right of action; 60-day cure period until January 1, 2030; mandatory AG rulemaking by January 1, 2027.",
-        "AG revised interim draft rules (early Oct. 2026) for SB 26-189 and the Chatbot Safety Act (HB 26-1263) (4 CCR 904-6); public hearing and comment deadline October 26, 2026. As of Nov. 12 the AG had not published final rules. Both laws take effect January 1, 2027."
+        "Attorney General enforcement under the Colorado Consumer Protection Act; no private right of action; 60-day cure period until January 1, 2030.",
+        "Rules adopted November 19, 2026 (76 pages). Rules take effect 20 days after Secretary of State publication; exact date not yet confirmed. Treat January 1, 2027 as the operative start date.",
+        "ID-only age verification for chatbots banned in the rules; alternative methods required.",
+        "First chatbot reports under HB 26-1263 due July 1, 2027."
       ],
-      "cite": "Colorado SB 26-189.",
+      "cite": "Colorado SB 26-189; HB 26-1263 (Chatbot Safety Act). AG rules adopted Nov. 19, 2026, 4 CCR 904-6.",
       "sources": [
         [
           "Consumer Finance Monitor (Ballard Spahr)",
           "https://www.consumerfinancemonitor.com/2026/05/12/colorado-rewrites-its-landmark-ai-law-unpacking-sb-26-189-and-what-it-means-for-businesses/"
         ],
         [
-          "Venable",
-          "https://www.venable.com/insights/publications/2026/07/colorados-sb26189-sets-new-rules-for-ai"
+          "Consumer Financial Services Law Monitor (Nov. 2026)",
+          "https://www.consumerfinancialserviceslawmonitor.com/2026/11/colorado-finalizes-automated-decision-making-technology-rules-servicing-and-collections-are-in-and-human-review-gets-a-commercial-reasonableness-roadmap/"
         ],
         [
           "Morrison Foerster (Oct. 14, 2026)",
           "https://www.mofo.com/resources/insights/261014-colorados-new-rules"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "us-ca-2026",
@@ -1124,9 +1198,9 @@
         "privacy"
       ],
       "priority": "watch",
-      "title": "US House passes KIDS Act children's online safety package",
-      "what": "The House passed a package including its version of the Kids Online Safety Act, app-related child protections and age checks for pornography sites, by 267 to 117. It now goes to the Senate, where it faces long odds this year.",
-      "why": "Not law yet. If it passes, platforms used by minors would need safer default settings and policies to address harms. State children's laws would still apply.",
+      "title": "US KIDS Act passed House — Senate lame-duck prospects fading",
+      "what": "The House passed a children's online safety package by 267 to 117 on June 29. It now goes to the Senate, where the Senate Commerce Committee approved a separate version (KOSA) on August 5. Senate floor time is limited before the 119th Congress ends January 3, 2027. As of late November, prospects are fading for passage this session.",
+      "why": "Not law yet. State children's laws still apply. Watch for the new Democratic-controlled 120th Congress to move this in 2027.",
       "track": {
         "stages": [
           "Committee",
@@ -1138,9 +1212,9 @@
       },
       "expert": [
         "H.R. 7757. House KOSA replaces the Senate's duty of care with a duty to maintain \"reasonable policies\" on listed harms.",
-        "Age verification only for sites with more than one-third material harmful to minors (SCREEN Act); KOSA and COPPA 2.0 components exclude age-gating mandates.",
-        "Revised text does not preempt more protective state laws. The White House is working with Sen. Blackburn on a separate Senate package.",
-        "Senate Commerce Committee approved its own KOSA, with a duty of care, by voice vote on August 5, 2026. No Senate floor vote yet."
+        "Senate Commerce Committee approved its own KOSA with a duty of care by voice vote on August 5, 2026.",
+        "No Senate floor vote set. The two chambers disagree on the duty-of-care provision.",
+        "Bloomberg Law (Nov. 2026): prospects are fading for the lame-duck session. Bills die on January 3, 2027 if not passed."
       ],
       "cite": "Kids Internet and Digital Safety Act, H.R. 7757 (119th Cong.), passed House June 29, 2026.",
       "sources": [
@@ -1149,15 +1223,15 @@
           "https://techpolicy.press/bipartisan-smorgasbord-of-childrens-online-safety-legislation-passes-the-house"
         ],
         [
-          "IAPP on scope",
-          "https://iapp.org/news/a/unpacking-the-scope-of-the-kids-act"
+          "Bloomberg Law: lame-duck prospects",
+          "https://news.bloomberglaw.com/bloomberg-government-news/kids-online-safety-bills-prospects-fade-in-lame-duck-session"
         ],
         [
-          "Sen. Blackburn release (Aug. 5, 2026)",
-          "https://www.blackburn.senate.gov/2026/8/blackburn-blumenthal-celebrate-commerce-committee-passage-of-bipartisan-kids-online-safety-act"
+          "IAPP on scope",
+          "https://iapp.org/news/a/unpacking-the-scope-of-the-kids-act"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "us-coppa",
@@ -1223,12 +1297,13 @@
       ],
       "priority": "prepare",
       "title": "US critical infrastructure cyber reporting rule is at final White House review",
-      "what": "CISA has sent its final rule requiring critical infrastructure organizations to report significant cyber incidents within 72 hours and ransom payments within 24 hours to the White House for review, the last step before publication. The rule is already a year past its October 2025 deadline.",
+      "what": "CISA has sent its final rule requiring critical infrastructure organizations to report significant cyber incidents within 72 hours and ransom payments within 24 hours to the White House for review, the last step before publication. As of mid-November 2026 it remains listed as pending at the White House OMB.",
       "why": "If you operate in a US critical infrastructure sector, map out who would report and how, now. Publication is expected before the end of 2026, and the 72-hour window will be hard to meet without a plan.",
       "expert": [
         "Cyber Incident Reporting for Critical Infrastructure Act of 2022 (CIRCIA); NPRM April 2024 with sector- and size-based coverage criteria.",
-        "OIRA recorded receipt of the final rule (RIN 1670-AA04) on October 1, 2026, and still listed it as pending in early November. The final text, covered-entity test and effective date are not public until it is published.",
-        "CISA has signalled possible clarifications to the covered-entity and incident definitions and narrower report content, but no firm commitment to harmonize with SEC and other regimes. Treat the 72-hour and 24-hour clocks as planning assumptions until the final text is out."
+        "OIRA recorded receipt of the final rule (RIN 1670-AA04) on October 1, 2026, and still listed it as pending as of mid-November 2026. The final text, covered-entity test and effective date are not public until it is published.",
+        "CISA updated its cyber incident reporting form in November 2026 as preparation for the broader mandate, but the main rule is not yet published.",
+        "Treat the 72-hour and 24-hour clocks as planning assumptions until the final text is out."
       ],
       "cite": "6 U.S.C. § 681 et seq. (CIRCIA).",
       "sources": [
@@ -1237,15 +1312,15 @@
           "https://www.security.io/articles/2026/10/05/circia-final-rule-enters-omb-review"
         ],
         [
-          "HIPAA Journal (Oct. 5, 2026)",
-          "https://www.hipaajournal.com/cisa-circia-final-rule-white-house-review/"
+          "Nextgov/FCW: CISA updates reporting form (Nov. 2026)",
+          "https://www.nextgov.com/cybersecurity/2026/11/cisa-updates-cyber-reporting-form-broader-incident-mandate-awaits-approval/417130/"
         ],
         [
-          "Covington (Sept. 2026)",
-          "https://www.cov.com/-/media/files/corporate/publications/2026/09/cisa-town-halls-signal-key-cyber-rule-changes-ahead.pdf"
+          "HIPAA Journal (Oct. 5, 2026)",
+          "https://www.hipaajournal.com/cisa-circia-final-rule-white-house-review/"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "cusma",
@@ -1326,8 +1401,8 @@
       ],
       "priority": "prepare",
       "title": "Canada's Bill C-36 would replace PIPEDA with a tougher privacy law",
-      "what": "The Protecting Privacy and Consumer Data Act would replace the privacy part of PIPEDA. It was introduced in June; second-reading debate has not begun.",
-      "why": "If it passes, penalties could reach $10 million or 3% of worldwide revenue, and people could sue after a regulator finding. Start mapping personal data, especially data sent outside Canada.",
+      "what": "The Protecting Privacy and Consumer Data Act would replace the privacy part of PIPEDA. It was introduced in June; second-reading debate began in the House in early November 2026 but no vote has been scheduled.",
+      "why": "If it passes, penalties could reach $10 million or 3% of worldwide revenue, and people could sue after a regulator finding. Start mapping personal data, especially data sent outside Canada. Bill C-36 cannot come into force until Bill C-34 is also enacted.",
       "track": {
         "stages": [
           "Introduced",
@@ -1343,7 +1418,9 @@
         "New federal commission with direct penalty powers; Federal Court review.",
         "Inferences count as personal information; new \"sensitive information\" category including children's data and biometrics.",
         "Privacy impact assessment required before transferring personal information outside Canada; right to explanation of significant automated decisions.",
-        "AI regulation (former AIDA) not revived."
+        "AI regulation (former AIDA) not revived.",
+        "Coming-into-force provisions contingent on Bill C-34 also being enacted and in force.",
+        "Second reading debate: began in the House (Hansard Nov. 3 and ongoing). No vote set as of Nov. 24, 2026."
       ],
       "cite": "Bill C-36, 45th Parl., 1st Sess. First reading June 15, 2026.",
       "sources": [
@@ -1356,7 +1433,7 @@
           "https://tonhs.github.io/Privacy-and-AI-Reg-Scan/"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "ca-c34",
@@ -1368,8 +1445,8 @@
         "ai"
       ],
       "priority": "watch",
-      "title": "Canada's Bill C-34 is at committee: under-16 account limits and AI chatbot duties",
-      "what": "The Safe Social Media Act would impose safety duties on social media and AI chatbot services, including an under-16 account restriction, AI content labelling and digital safety plans. A new Digital Safety Commission would enforce it. It passed second reading on October 29 and is now before the House Canadian Heritage committee.",
+      "title": "Canada's Bill C-34 is at committee: hearings underway November 17, 19, 24+",
+      "what": "The Safe Social Media Act would impose safety duties on social media and AI chatbot services, including an under-16 account restriction, AI content labelling and digital safety plans. A new Digital Safety Commission would enforce it. It passed second reading on October 29. The Canadian Heritage committee held its first hearings on November 17 and 19 and has scheduled at least 16 hours of witness testimony.",
       "why": "Compared with the UK, Canada's under-16 rule is less absolute, since the regulator can exempt services with enough safeguards. Platforms serving both countries should plan for both.",
       "track": {
         "stages": [
@@ -1386,7 +1463,7 @@
         "Part 1 enacts the Digital Safety Act; Part 2 creates the Digital Safety Commission of Canada with audit, order and penalty powers.",
         "Covers social media and chatbot services; duties include removing CSAM and non-consensual intimate content, and synthetic content labelling.",
         "Accredited researcher access to platform data through a regulator-supervised process.",
-        "Second-reading debate began October 21, 2026 (Minister Marc Miller); second reading agreed to October 29 and the bill was referred to the Standing Committee on Canadian Heritage (CHPC). No hearings held as of Nov. 12; CHPC accepts written briefs (max. 2,000 words)."
+        "CHPC committee hearings: Nov. 17 (meeting 53) and Nov. 19 (meeting 54) held. Witnesses at first hearings included Canadian Constitution Foundation, Raise the Age Canada, Amanda Todd Legacy Society, Kids Help Phone, and OpenMedia. Next session Nov. 24 at 3:30 p.m.; committee approved at least 16 hours of hearings. CHPC accepts written briefs of up to 2,000 words."
       ],
       "cite": "Bill C-34, 45th Parl., 1st Sess. Introduced June 10, 2026.",
       "sources": [
@@ -1401,9 +1478,13 @@
         [
           "Government backgrounder",
           "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html"
+        ],
+        [
+          "National Observer: committee testimony (Nov. 23, 2026)",
+          "https://www.nationalobserver.com/2026/11/23/news/youth-social-media-ban-committee"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "ca-c22",
@@ -1415,9 +1496,9 @@
         "privacy"
       ],
       "priority": "watch",
-      "title": "Canada's lawful access bill C-22 is before a Senate committee",
-      "what": "The bill would make it easier for police and intelligence to get subscriber information from online service providers and would require providers to be able to help with authorized access. It has passed the House and is being studied by the Senate national security committee.",
-      "why": "Internet, messaging and hosting providers could face new obligations, including keeping metadata. On November 2 the Privacy Commissioner told senators it still needs to be narrowed, so Senate amendments are possible.",
+      "title": "Canada's lawful access bill C-22 — civil society urges Senate amendments before recess",
+      "what": "The bill would make it easier for police and intelligence to get subscriber information from online service providers and would require providers to be able to help with authorized access. It has passed the House and is being studied by the Senate national security committee. On November 24 a letter from 26 rights, refugee and privacy organizations urged the Prime Minister to back targeted amendments before the committee finishes.",
+      "why": "Internet, messaging and hosting providers could face new obligations, including keeping metadata. Senate amendments are still possible and expected before the December recess.",
       "track": {
         "stages": [
           "Introduced",
@@ -1431,8 +1512,10 @@
       },
       "expert": [
         "Part 1: Criminal Code changes including expedited subscriber-information confirmation. Part 2: Supporting Authorized Access to Information Act (provider capability obligations).",
+        "House amendments: metadata retention reduced from one year to six months; narrow compelled-decryption clause added.",
         "OPC asked for a closed list of subscriber identifiers, a necessity and proportionality test, and clear protection against systemic vulnerabilities in encryption.",
-        "Referred to the Standing Senate Committee on National Security, Defence and Veterans Affairs. Nov. 2, 2026: Privacy Commissioner told SECD subscriber-information demands remain broad for a reasonable-suspicion threshold and \"publicly available\" is undefined; cryptographers warned the capability obligations could weaken security."
+        "Nov. 2, 2026: Privacy Commissioner told SECD subscriber-information demands remain broad for a reasonable-suspicion threshold and \"publicly available\" is undefined.",
+        "Nov. 24, 2026: 26 civil-society organizations wrote to PM Carney urging Senate amendments. Senate votes expected before the December recess."
       ],
       "cite": "Bill C-22, Lawful Access Act, 2026.",
       "sources": [
@@ -1449,11 +1532,15 @@
           "https://www.cbc.ca/news/politics/senate-bill-c-22-lawful-access-9.7406213"
         ],
         [
+          "Michael Geist: three fixes for C-22 (Nov. 2026)",
+          "https://www.michaelgeist.ca/2026/11/three-fixes-for-lawful-access-making-the-case-for-amending-bill-c-22-at-the-senate-national-security-committee/"
+        ],
+        [
           "openparliament.ca",
           "https://openparliament.ca/bills/45-1/C-22/"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "ca-c8",
@@ -1527,13 +1614,13 @@
       ],
       "priority": "context",
       "title": "Canada's AI approach: a national strategy and a transparency consultation, but no AI law",
-      "what": "Canada launched its \"AI for All\" strategy in June and consulted until September 23 on labelling AI content, telling people when they deal with AI, and tracking AI incidents. On November 9 it signed a voluntary France-led declaration on sharing early warnings about serious AI and cyber incidents.",
-      "why": "Expect any AI transparency rules to come through targeted measures and international commitments rather than a broad AI act, which is closer to the UK's approach than to Colorado's or California's. The government has not yet published results of the transparency consultation.",
+      "what": "Canada launched its \"AI for All\" strategy in June and consulted until September 23 on labelling AI content, telling people when they deal with AI, and tracking AI incidents. On November 9 it signed a voluntary France-led declaration on sharing early warnings about serious AI and cyber incidents. The ISED transparency consultation results have not yet been published.",
+      "why": "Expect any AI transparency rules to come through targeted measures and international commitments rather than a broad AI act, which is closer to the UK's approach than to Colorado's or California's.",
       "expert": [
         "Strategy (June 4, 2026) commits to enshrining a right to privacy, child data protections, a deepfakes bill and a Canada Trusted AI Certification.",
-        "ISED consultation (July 23–Sept. 23, 2026) covered AI content detection, AI interaction notices, serious incident tracking and AI agent monitoring.",
+        "ISED consultation (July 23–Sept. 23, 2026) covered AI content detection, AI interaction notices, serious incident tracking and AI agent monitoring. Results not yet published as of Nov. 24.",
         "Nov. 9, 2026 declaration: signed by Canada, France, Bahrain, Finland, Norway and the Netherlands, plus companies including Anthropic, OpenAI, Microsoft, Mistral AI, Hugging Face and Cohere. Commits signatories to align incident classification and share timely information on serious AI control and cyber incidents. Voluntary; the US, China, Google and Meta had not signed as of early reports.",
-        "Budget 2026 (Nov. 5) builds on the strategy, including support for access to domestic AI compute."
+        "Nov. 19, 2026: Global Privacy Assembly adopted a resolution on privacy-protective agentic AI, sponsored by Canada's Privacy Commissioner."
       ],
       "cite": "ISED, AI transparency consultation (2026); National AI Strategy (June 4, 2026).",
       "sources": [
@@ -1550,11 +1637,11 @@
           "https://betakit.com/?p=412048"
         ],
         [
-          "Global News",
-          "https://globalnews.ca/news/12144853/canada-joins-ai-safety-statement/"
+          "OPC GPA agentic AI resolution (Nov. 19, 2026)",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_gpa_261119/"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "uk-dst",
@@ -1627,18 +1714,23 @@
       "priority": "context",
       "title": "Competition Bureau reports on algorithmic pricing",
       "what": "Canada's Competition Bureau published what it heard from more than 100 submissions on algorithmic and AI-driven pricing. It says such pricing can help efficiency but raises fairness, transparency and collusion risks.",
-      "why": "There is no new rule yet, but if you use pricing software that draws on competitors' data, review it with competition law in mind.",
+      "why": "There is no new rule yet, but if you use pricing software that draws on competitors' data, review it with competition law in mind. The Privacy Commissioner is now also moving toward guidance on personalized pricing under privacy law (see the ca-surveillancepricing item in the Canadian Privacy Scan).",
       "expert": [
-        "Consultation ran June 10 – Aug. 4, 2025. No formal guidance issued; the Bureau will keep engaging domestically and internationally."
+        "Consultation ran June 10 – Aug. 4, 2025. No formal guidance issued; the Bureau will keep engaging domestically and internationally.",
+        "On November 23, 2026, the Privacy Commissioner appeared before the House ETHI committee on AI use in algorithmic pricing and announced an OPC consultation on the privacy dimensions."
       ],
       "cite": "Competition Bureau, What We Heard: Algorithmic Pricing and Competition (Jan. 22, 2026).",
       "sources": [
         [
           "Competition Bureau",
           "https://www.canada.ca/en/competition-bureau/news/2026/01/competition-bureau-report-highlights-public-feedback-on-algorithmic-pricing-and-competition.html"
+        ],
+        [
+          "OPC: surveillance pricing (Nov. 23, 2026)",
+          "https://www.ctvnews.ca/canada/article/privacy-commissioner-says-transparency-on-surveillance-pricing-needed/"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-11-24"
     }
   ]
 }
